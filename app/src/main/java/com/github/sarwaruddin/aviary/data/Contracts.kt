@@ -48,5 +48,6 @@ object AppGraph {
         birds = SqliteBirdRepository(app)
         sightings = SqliteSightingRepository(app)
         ImageLoader.init(app)
+        AudioPlayer.init(app)
     }
 }

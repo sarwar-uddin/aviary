@@ -94,6 +94,17 @@ data class BirdSummary(
     val thumb: ImageRef?,
 )
 
+/** A sound recording (xeno-canto or Commons). Streams online, cached after first play. */
+data class Recording(
+    val url: String,
+    val sonogram: String?,   // spectrogram image (xeno-canto)
+    val type: String?,       // "song", "call", "flight call, alarm call"...
+    val country: String?,
+    val locality: String?,
+    val length: String?,     // "0:27"
+    val credit: Credit,
+)
+
 data class Bird(
     val summary: BirdSummary,
     val family: Family,
@@ -105,6 +116,7 @@ data class Bird(
     val wikiEn: String?,          // article title -> https://en.wikipedia.org/wiki/<title>
     val wikiBn: String?,
     val ebirdCode: String?,
+    val recordings: List<Recording> = emptyList(),
 ) {
     val id get() = summary.id
 }

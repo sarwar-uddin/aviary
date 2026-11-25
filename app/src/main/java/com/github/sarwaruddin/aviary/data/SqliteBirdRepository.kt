@@ -13,6 +13,7 @@ import com.github.sarwaruddin.aviary.model.Family
 import com.github.sarwaruddin.aviary.model.ImageRef
 import com.github.sarwaruddin.aviary.model.Iucn
 import com.github.sarwaruddin.aviary.model.Photo
+import com.github.sarwaruddin.aviary.model.Recording
 import com.github.sarwaruddin.aviary.model.Season
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.sync.Mutex
@@ -66,6 +67,7 @@ class SqliteBirdRepository(context: Context) : BirdRepository {
                 wikiEn = cur.str(4),
                 wikiBn = cur.str(5),
                 ebirdCode = cur.str(6),
+                recordings = recordings(d, id),
             )
         }
     }
@@ -86,6 +88,32 @@ class SqliteBirdRepository(context: Context) : BirdRepository {
                 ))
             }
         }
+    }
+
+    /** xeno-canto recordings if there are any (best first), else Commons audio. */
+    private fun recordings(d: SQLiteDatabase, id: String): List<Recording> = d.rawQuery(
+        """SELECT url, thumb_url, extra, author, license, license_url, page_url, source
+           FROM media WHERE species_id = ? AND kind = 'audio'
+           ORDER BY (source = 'xeno-canto') DESC, rank""",
+        arrayOf(id),
+    ).use { cur ->
+        val all = buildList {
+            while (cur.moveToNext()) {
+                val extra = cur.str(2)?.let { runCatching { org.json.JSONObject(it) }.getOrNull() }
+                fun ex(k: String) = extra?.optString(k)?.takeIf { it.isNotBlank() && it != "null" }
+                add(Recording(
+                    url = cur.str(0) ?: continue,
+                    sonogram = cur.str(1),
+                    type = ex("call_type"),
+                    country = ex("country"),
+                    locality = ex("locality"),
+                    length = ex("length"),
+                    credit = Credit(cur.str(3), cur.str(4), cur.str(5), cur.str(6), cur.str(7) ?: "commons"),
+                ))
+            }
+        }
+        val xc = all.filter { it.credit.source == "xeno-canto" }
+        if (xc.isNotEmpty()) xc else all.take(2)
     }
 
     // ---- loading ----

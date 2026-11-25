@@ -75,6 +75,8 @@ private val TopBarHeight = 56.dp
 fun BirdScreen(id: String, onBack: () -> Unit, onOpenBird: (String) -> Unit, onLogSighting: () -> Unit) {
     // key(id): a fresh page (state, scroll, pager) for each bird pushed on the stack.
     key(id) {
+        // Stop any playing call when this bird page goes away (back, or another bird pushed).
+        androidx.compose.runtime.DisposableEffect(Unit) { onDispose { com.github.sarwaruddin.aviary.data.AudioPlayer.stop() } }
         val state by produceState<Load>(Load.Loading) {
             val b = try {
                 AppGraph.birds.bird(id)
@@ -150,6 +152,7 @@ private fun BirdPage(
             }
             item(key = "glance") { AtAGlance(bird) }
             if (bird.facts.isNotEmpty()) item(key = "facts") { FieldNotes(bird.facts) }
+            if (bird.recordings.isNotEmpty()) item(key = "calls") { CallsSection(bird.recordings) }
             if (hasAbout) item(key = "about") { About(bird) }
             item(key = "sightings") { SightingsBlock(sightings, onLogSighting) }
             if (relatives.isNotEmpty()) item(key = "family") { Relatives(relatives, family.size, onOpenBird) }

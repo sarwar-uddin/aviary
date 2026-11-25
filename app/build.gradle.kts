@@ -1,7 +1,16 @@
+import java.util.Properties
+
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.plugin.compose")
 }
+
+// Release keys live outside the repo. Without this file, release builds are debug-signed.
+val keystoreFile = file("${System.getProperty("user.home")}/.config/aviary/keystore.properties")
+val keystore = Properties().apply {
+    if (keystoreFile.isFile) keystoreFile.inputStream().use { load(it) }
+}
+val hasReleaseKey = listOf("storeFile", "storePassword", "keyAlias", "keyPassword").all { !keystore.getProperty(it).isNullOrBlank() }
 
 // The dataset is built by ../data/build.py --pack. It ships as assets:
 //   aviary.db                 species, families, media records
@@ -27,6 +36,16 @@ android {
         versionCode = 1
         versionName = "0.1.0"
     }
+    signingConfigs {
+        if (hasReleaseKey) {
+            create("release") {
+                storeFile = File(keystoreFile.parentFile, keystore.getProperty("storeFile"))
+                storePassword = keystore.getProperty("storePassword")
+                keyAlias = keystore.getProperty("keyAlias")
+                keyPassword = keystore.getProperty("keyPassword")
+            }
+        }
+    }
     sourceSets {
         getByName("main") {
             assets.srcDir(file("build/generated/aviaryAssets"))
@@ -40,7 +59,7 @@ android {
             isMinifyEnabled = true
             isShrinkResources = true
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
-            signingConfig = signingConfigs.getByName("debug")
+            signingConfig = signingConfigs.getByName(if (hasReleaseKey) "release" else "debug")
         }
     }
     dependenciesInfo {

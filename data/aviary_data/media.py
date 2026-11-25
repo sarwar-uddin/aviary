@@ -94,56 +94,94 @@ def commons(http: Http, species: list[dict], report: list) -> None:
 
 
 # ---------------------------------------------------------------- xeno-canto
+def _secs(length: str | None) -> int:
+    try:
+        parts = [int(x) for x in (length or "").split(":")]
+        return parts[0] * 60 + parts[1] if len(parts) == 2 else parts[0] * 3600 + parts[1] * 60 + parts[2]
+    except (ValueError, IndexError):
+        return 999
+
+
 def _xc_pick(recs: list[dict]) -> list[dict]:
+    """Up to MAX_CALLS recordings: playable, good quality, near Bangladesh, mp3, short,
+    and a variety of call types (a song, a call, ...)."""
+    usable = [r for r in recs if r.get("file")]   # restricted species have file redacted
     def score(r):
+        q = "ABCDE".find(r["q"]) if r.get("q") in list("ABCDE") else 5
         cnt = r.get("cnt", "")
         near = NEAR_BD.index(cnt) if cnt in NEAR_BD else len(NEAR_BD)
-        q = "ABCDE".find(r.get("q", "E")) if r.get("q") in list("ABCDE") else 5
-        return (q, near)
+        mp3 = 0 if str(r.get("file-name") or "").lower().endswith(".mp3") else 1
+        secs = _secs(r.get("length"))
+        too_long = 0 if secs <= 60 else (1 if secs <= 150 else 2)
+        return (q, too_long, mp3, near, secs)
     picked, types = [], set()
-    for r in sorted(recs, key=score):
+    ranked = sorted(usable, key=score)
+    for r in ranked:
         t = (r.get("type") or "").split(",")[0].strip().lower()
-        if t in types and len(recs) > MAX_CALLS:
-            continue  # prefer variety: a song, a call, a flight call...
+        if t in types:
+            continue
         types.add(t)
         picked.append(r)
         if len(picked) == MAX_CALLS:
-            break
+            return picked
+    for r in ranked:  # not enough variety: fill with the next best
+        if r not in picked:
+            picked.append(r)
+            if len(picked) == MAX_CALLS:
+                break
     return picked
 
 
-def xenocanto(http: Http, species: list[dict], report: list) -> bool:
+def _xc_key() -> str | None:
     key = os.environ.get("XC_API_KEY")
     if not key:
-        report.append("xeno-canto skipped: set XC_API_KEY (free key at https://xeno-canto.org/account)")
+        f = Path.home() / ".config" / "aviary" / "xc_api_key"
+        if f.is_file():
+            key = f.read_text().strip()
+    return key or None
+
+
+def xenocanto(http: Http, species: list[dict], report: list) -> bool:
+    key = _xc_key()
+    if not key:
+        report.append("xeno-canto skipped: no key (XC_API_KEY or ~/.config/aviary/xc_api_key)")
         return False
+    restricted = 0
     for s in species:
         gen, sp = s["name_sci"].split(" ")[:2]
-        recs = []
+        recs: list[dict] = []
         for query in (f"gen:{gen} sp:{sp} q:A", f"gen:{gen} sp:{sp}"):
             d = http.get_json(XC, {"query": query, "per_page": "100"}, secret={"key": key})
             recs = d.get("recordings", [])
-            if len(recs) >= MAX_CALLS:
+            if sum(1 for r in recs if r.get("file")) >= MAX_CALLS:
                 break
+        if recs and not any(r.get("file") for r in recs):
+            restricted += 1
+            report.append(f"xeno-canto restricted (no audio, anti-trapping): {s['name_en']}")
         media = [m for m in s.get("media", []) if m["source"] != "xeno-canto"]
         for i, r in enumerate(_xc_pick(recs)):
             lic = r.get("lic") or ""
             if lic.startswith("//"):
                 lic = "https:" + lic
+            sono = r.get("sono") or {}
             media.append({
                 "kind": "audio", "rank": i, "source": "xeno-canto",
-                "url": r.get("file"),
-                "page_url": f"https://xeno-canto.org/{r.get('id')}",
+                "url": r["file"],
+                "thumb_url": sono.get("med"),        # sonogram image
+                "small_url": sono.get("small"),
+                "page_url": r.get("url") or f"https://xeno-canto.org/{r.get('id')}",
                 "author": r.get("rec"),
                 "license": _cc_name(lic), "license_url": lic,
                 "commercial_ok": commercial_ok(lic),
                 "xc_id": r.get("id"), "call_type": r.get("type"),
                 "country": r.get("cnt"), "locality": r.get("loc"),
                 "length": r.get("length"), "quality": r.get("q"),
+                "file": r.get("file-name"),
             })
         s["media"] = media
         if not recs:
             report.append(f"no xeno-canto recordings: {s['name_en']} ({s['name_sci']})")
+    print(f"  xeno-canto: {restricted} restricted species")
     return True
 
 
