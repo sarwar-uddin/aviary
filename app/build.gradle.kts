@@ -1,0 +1,73 @@
+plugins {
+    id("com.android.application")
+    id("org.jetbrains.kotlin.plugin.compose")
+}
+
+// The dataset is built by ../data/build.py --pack. It ships as assets:
+//   aviary.db                 species, families, media records
+//   media/thumbs/<id>.jpg     one small photo per species (offline core)
+val dataOut = rootProject.file("data/out")
+val syncBirdData by tasks.registering(Sync::class) {
+    from(dataOut) {
+        include("aviary.db", "media/thumbs/**")
+    }
+    into(file("build/generated/aviaryAssets"))
+}
+
+android {
+    namespace = "com.github.sarwaruddin.aviary"
+    compileSdk {
+        version = release(37) { minorApiLevel = 2 }
+    }
+
+    defaultConfig {
+        applicationId = "com.github.sarwaruddin.aviary"
+        minSdk = 26
+        targetSdk = 37
+        versionCode = 1
+        versionName = "0.1.0"
+    }
+    sourceSets {
+        getByName("main") {
+            assets.srcDir(file("build/generated/aviaryAssets"))
+        }
+    }
+    androidResources {
+        noCompress += "db"   // copied out of the APK on first run
+    }
+    buildTypes {
+        release {
+            isMinifyEnabled = true
+            isShrinkResources = true
+            proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
+            signingConfig = signingConfigs.getByName("debug")
+        }
+    }
+    dependenciesInfo {
+        includeInApk = false
+        includeInBundle = false
+    }
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+    buildFeatures { compose = true }
+}
+
+tasks.named("preBuild") { dependsOn(syncBirdData) }
+
+dependencies {
+    val bom = platform("androidx.compose:compose-bom:2026.11.01")
+    implementation(bom)
+    implementation("androidx.compose.ui:ui")
+    implementation("androidx.compose.foundation:foundation")
+    implementation("androidx.compose.material3:material3")
+    implementation("androidx.compose.material:material-icons-core")
+    implementation("androidx.compose.ui:ui-tooling-preview")
+    debugImplementation("androidx.compose.ui:ui-tooling")
+    implementation("androidx.activity:activity-compose:1.13.0")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.11.1")
+    implementation("androidx.core:core-ktx:1.19.1")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.11.0")
+    testImplementation("junit:junit:4.13.2")
+}

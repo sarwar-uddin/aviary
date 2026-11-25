@@ -1,0 +1,2014 @@
+{
+  "_readme": "Seasons + facts for common BD birds, drafted by an agent from cited sources; needs human review.",
+  "species": {
+    "dendrocygna-javanica": {
+      "season": "resident",
+      "facts": [
+        "A largely resident duck of lowland wetlands across the Indian subcontinent; it feeds at night and rests in flocks by day.",
+        "It flies slowly with rapid wingbeats, giving a wheezy two-note whistle as flocks circle overhead.",
+        "It can perch in trees and sometimes nests in a tree hole or an old kite or heron nest."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Lesser_whistling_duck"
+      ],
+      "_confidence": "high"
+    },
+    "anser-indicus": {
+      "season": "winter",
+      "facts": [
+        "It winters in lowland South Asia and flies over the Himalayas to breed on the Tibetan Plateau, crossing the range non-stop in as little as seven hours.",
+        "Tracked birds have been recorded as high as 7,290 m.",
+        "It waits for the up-valley winds to die down at night and then makes the steepest sustained climbing flights ever recorded for a bird."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Bar-headed_goose"
+      ],
+      "_confidence": "medium"
+    },
+    "sarkidiornis-melanotos": {
+      "season": "resident",
+      "facts": [
+        "One of the largest ducks in the world, found from Africa to South Asia and Indochina.",
+        "It nests mainly in tree holes, sometimes in tall grass."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Knob-billed_duck"
+      ],
+      "_confidence": "medium"
+    },
+    "tadorna-ferruginea": {
+      "season": "winter",
+      "facts": [
+        "Eastern populations winter in the Indian subcontinent, arriving by October and leaving by April.",
+        "Its calls are loud, nasal honks, and males and females sound different.",
+        "It often nests far from water, in a tree hole, ruined building, cliff crevice or animal burrow."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Ruddy_shelduck"
+      ],
+      "_confidence": "medium"
+    },
+    "nettapus-coromandelianus": {
+      "season": "resident",
+      "facts": [
+        "Small individuals are the smallest waterfowl on Earth, weighing as little as 160 g.",
+        "It nests in tree hollows up to five metres high, and the ducklings leap down to follow their parents to water.",
+        "It breeds mainly during the monsoon rains."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Cotton_pygmy_goose"
+      ],
+      "_confidence": "medium"
+    },
+    "spatula-querquedula": {
+      "season": "winter",
+      "facts": [
+        "Its scientific name querquedula is thought to imitate its call.",
+        "The male has a distinctive crackling courtship call; the female is unusually quiet for a duck."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Garganey"
+      ],
+      "_confidence": "medium"
+    },
+    "spatula-clypeata": {
+      "season": "winter",
+      "facts": [
+        "Its genus name Spatula is Latin for 'spoon', after its broad, shovel-like bill.",
+        "Birds wintering in the Indian subcontinent make a hard journey over the Himalayas, often resting in wetlands just south of the mountains."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Northern_shoveler"
+      ],
+      "_confidence": "medium"
+    },
+    "mareca-strepera": {
+      "season": "winter",
+      "facts": [
+        "A dabbling duck that dives for food better than its relatives and even steals food from diving birds such as coots.",
+        "The female's quack is higher than a mallard's, written as 'gag-ag-ag-ag'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Gadwall"
+      ],
+      "_confidence": "medium"
+    },
+    "anas-poecilorhyncha": {
+      "season": "resident",
+      "facts": [
+        "Unlike most of our ducks, it does not migrate: it lives and breeds in South Asian freshwater wetlands all year.",
+        "It is named for the red spot at the base of the bill seen in mainland Indian birds.",
+        "Nests on the ground hidden in vegetation near water and lays 8 to 14 eggs."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_spot-billed_duck"
+      ],
+      "_confidence": "medium"
+    },
+    "anas-acuta": {
+      "season": "winter",
+      "facts": [
+        "The drake's long, needle-pointed central tail feathers give the pintail its name.",
+        "It breeds across the far north and winters south almost to the equator, including tropical South Asia.",
+        "The male's call is a soft 'proop-proop' whistle; the female quacks like a mallard."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Northern_pintail"
+      ],
+      "_confidence": "medium"
+    },
+    "anas-crecca": {
+      "season": "winter",
+      "facts": [
+        "One of the smallest dabbling ducks in the world; a drake weighs only about 360 g.",
+        "The colour teal is named after this duck.",
+        "Its scientific name crecca imitates the male's whistled 'cryc' call."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Eurasian_teal"
+      ],
+      "_confidence": "medium"
+    },
+    "aythya-ferina": {
+      "season": "winter",
+      "facts": [
+        "A diving duck that breeds mainly in Scandinavia and the Siberian steppes and winters farther south.",
+        "Although still numerous, it has declined steeply in several regions and is rated Vulnerable by the IUCN."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_pochard"
+      ],
+      "_confidence": "medium"
+    },
+    "aythya-nyroca": {
+      "season": "winter",
+      "facts": [
+        "Also known as the white-eyed pochard: the drake has a striking white eye.",
+        "Its scientific name nyroca comes from the Russian word for pochard.",
+        "It sometimes builds a floating nest among reeds and other emergent plants."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Ferruginous_duck"
+      ],
+      "_confidence": "medium"
+    },
+    "aythya-baeri": {
+      "season": "winter",
+      "facts": [
+        "A Critically Endangered diving duck that breeds in eastern Asia and winters south to Bangladesh and India.",
+        "Bangladesh held more than 3,000 Baer's pochards in 1996, a significant share of the world population at the time.",
+        "In poor light the male's green-glossed black head can look completely black."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Baer%27s_pochard"
+      ],
+      "_confidence": "high"
+    },
+    "aythya-fuligula": {
+      "season": "winter",
+      "facts": [
+        "A small diving duck named for the drooping tuft on the back of the drake's head.",
+        "Its scientific name fuligula comes from Latin for 'soot' and 'throat'.",
+        "The female's call is a harsh, growling 'karr', usually given in flight."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Tufted_duck"
+      ],
+      "_confidence": "medium"
+    },
+    "gallus-gallus": {
+      "season": "resident",
+      "facts": [
+        "The main wild ancestor of the domestic chicken, native to Bangladesh.",
+        "Wild cocks crow a shorter 'cock-a-doodle-doo' than farmyard roosters, cutting off abruptly at the end.",
+        "It has different alarm calls for predators in the air and on the ground; only the hens care for the eggs and chicks."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Red_junglefowl"
+      ],
+      "_confidence": "high"
+    },
+    "tachybaptus-ruficollis": {
+      "season": "resident",
+      "facts": [
+        "Also called the dabchick, it is the smallest grebe in Europe, Asia and Africa at 23 to 29 cm.",
+        "Its breeding call, a trilled 'weet-weet-weet', sounds like a horse whinnying.",
+        "Its legs are set so far back that it can barely walk, so it nests at the water's edge and covers its eggs with weed when it leaves."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Little_grebe"
+      ],
+      "_confidence": "medium"
+    },
+    "columba-livia": {
+      "season": "resident",
+      "facts": [
+        "The wild rock dove is the ancestor of all domestic and city pigeons.",
+        "Wild birds nest in crevices on cliffs and rock faces.",
+        "Its alarm call at the sight of a predator is a grunting 'oorhh'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Rock_dove"
+      ],
+      "_confidence": "medium"
+    },
+    "streptopelia-tranquebarica": {
+      "season": "resident",
+      "facts": [
+        "The male has a blue-grey head and a brick-red body; the female is much plainer brown.",
+        "Also called the red turtle dove, it is a small pigeon resident in the Asian tropics."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Red_collared_dove"
+      ],
+      "_confidence": "medium"
+    },
+    "streptopelia-chinensis": {
+      "season": "resident",
+      "facts": [
+        "A common resident dove across the Indian subcontinent and East and Southeast Asia.",
+        "Look for the black collar patch dotted with white spots on the back and sides of the neck.",
+        "It builds a flimsy twig cup, sometimes on buildings, and both parents share building, incubating and feeding."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Spotted_dove"
+      ],
+      "_confidence": "high"
+    },
+    "chalcophaps-indica": {
+      "season": "resident",
+      "facts": [
+        "A widespread resident pigeon of tropical South and Southeast Asia, also called the green-winged pigeon.",
+        "Its call is a soft, low moaning of six or seven coos that starts quietly and rises.",
+        "It is the state bird of Tamil Nadu in India."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_emerald_dove"
+      ],
+      "_confidence": "medium"
+    },
+    "treron-phoenicoptera": {
+      "season": "resident",
+      "facts": [
+        "A common green pigeon of the Gangetic Plain and Bangladesh, with bright yellow legs.",
+        "Its purple shoulder patch led John Latham to call it the 'purple-shouldered pigeon'.",
+        "It is the state bird of Maharashtra in India."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Yellow-footed_green_pigeon"
+      ],
+      "_confidence": "high"
+    },
+    "centropus-sinensis": {
+      "season": "resident",
+      "facts": [
+        "Also called the crow pheasant, it is a big cuckoo that raises its own young and would rather clamber through bushes than fly.",
+        "Its booming, low 'coop-coop-coop' is often given as a duet, the female's voice lower than the male's.",
+        "An old belief in Bengal held that monocled cobras had no males and mated with greater coucals."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Greater_coucal"
+      ],
+      "_confidence": "high"
+    },
+    "centropus-bengalensis": {
+      "season": "resident",
+      "facts": [
+        "It was first described from a 'lark-heeled cuckoo' from Bengal, hence its scientific name bengalensis; the hind toe has a very long claw.",
+        "Its call is a run of low, hollow 'whoot-woot' notes that speed up and drop in pitch.",
+        "It builds a domed nest of grass blades low in a tree, mostly after the rains begin."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Lesser_coucal"
+      ],
+      "_confidence": "medium"
+    },
+    "phaenicophaeus-tristis": {
+      "season": "resident",
+      "facts": [
+        "A cuckoo that raises its own young rather than using other birds' nests.",
+        "Waxy bluish-black with a curved green bill and a very long, graduated tail with white tips."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Green-billed_malkoha"
+      ],
+      "_confidence": "medium"
+    },
+    "clamator-jacobinus": {
+      "season": "summer",
+      "facts": [
+        "In India its arrival has long been seen as a sign that the monsoon rains are coming.",
+        "It is linked with the chataka of Sanskrit poetry, a crested bird that waits for rain to quench its thirst, though in Bengal that name was also given to other birds.",
+        "A brood parasite, it lays its egg hurriedly from the rim of the host's nest, often cracking the host's eggs."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Jacobin_cuckoo"
+      ],
+      "_confidence": "medium"
+    },
+    "eudynamys-scolopacea": {
+      "season": "resident",
+      "facts": [
+        "A brood parasite: in Bangladesh it lays its eggs mainly in the nests of long-tailed shrikes, common mynas and house crows.",
+        "Unusually for a cuckoo, adults feed mainly on fruit, even swallowing hard palm fruits whole.",
+        "The male's rising 'koo-Ooo' song fills the air during the breeding season, March to August."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Asian_koel"
+      ],
+      "_confidence": "high"
+    },
+    "cacomantis-merulinus": {
+      "season": "resident",
+      "facts": [
+        "The male's several mournful, whistling calls give the plaintive cuckoo its name.",
+        "A brood parasite: it lays its eggs in the nests of cisticolas, prinias and tailorbirds.",
+        "Small birds often mob it to chase it away from their nests."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Plaintive_cuckoo"
+      ],
+      "_confidence": "medium"
+    },
+    "hierococcyx-varius": {
+      "season": "resident",
+      "facts": [
+        "Nicknamed the brainfever bird for its maddening, screaming three-note call that rises in a crescendo before the monsoon.",
+        "In Bangla the call is heard as 'চোখ গেল' (chokh gelo), 'my eyes are gone'.",
+        "It looks and even flies like a shikra hawk, and lays blue eggs in babblers' nests."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_hawk-cuckoo"
+      ],
+      "_confidence": "high"
+    },
+    "cuculus-micropterus": {
+      "season": "resident",
+      "facts": [
+        "In Bangla its loud call is heard as 'বউ কথা কও' (bou kotha kou), 'wife, please speak'.",
+        "A brood parasite that lays one egg, mostly in drongo and crow nests, after removing and eating one of the host's eggs.",
+        "The male distracts the hosts while the female slips in to lay; some populations move south in winter."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_cuckoo"
+      ],
+      "_confidence": "medium"
+    },
+    "caprimulgus-macrurus": {
+      "season": "resident",
+      "facts": [
+        "A resident nightjar whose mottled plumage makes it almost invisible against leaf litter.",
+        "Its territorial song is a long, monotonous series of notes given at night.",
+        "The female builds no nest, laying one or two eggs straight onto the leaf litter on the ground."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Large-tailed_nightjar"
+      ],
+      "_confidence": "high"
+    },
+    "cypsiurus-balasiensis": {
+      "season": "resident",
+      "facts": [
+        "A common resident swift of tropical Asia, closely tied to palm trees.",
+        "It glues its nest of down and feathers to the underside of a palm leaf with saliva, and even glues its eggs in place."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Asian_palm_swift"
+      ],
+      "_confidence": "high"
+    },
+    "gallinula-chloropus": {
+      "season": "resident",
+      "facts": [
+        "Also called the waterhen, it is one of the most common rails of the Old World.",
+        "Females sometimes lay eggs in other moorhens' nests, and even in the nests of other species.",
+        "It makes all sorts of gargling calls and hisses loudly when threatened."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_moorhen"
+      ],
+      "_confidence": "medium"
+    },
+    "fulica-atra": {
+      "season": "winter",
+      "facts": [
+        "A slaty-black waterbird with a white bill and white forehead shield.",
+        "It bobs its head as it swims and dives with a little jump.",
+        "Noisy, with crackling, explosive and trumpeting calls, often at night."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Eurasian_coot"
+      ],
+      "_confidence": "medium"
+    },
+    "porphyrio-poliocephalus": {
+      "season": "resident",
+      "facts": [
+        "A big blue-purple swamphen, 43 cm long, with a pale grey head and a stout red bill.",
+        "In courtship the male bows to the female holding water weeds in his bill, chuckling loudly.",
+        "It was split from the purple swamphen as a full species in 2015."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey-headed_swamphen"
+      ],
+      "_confidence": "medium"
+    },
+    "gallicrex-cinerea": {
+      "season": "resident",
+      "facts": [
+        "The only member of its genus, a rail of wet grassland and paddy fields.",
+        "It is noisy at dawn and dusk with a loud, gulping call.",
+        "It nests on dry ground in marsh vegetation, laying 3 to 6 eggs."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Watercock"
+      ],
+      "_confidence": "medium"
+    },
+    "amaurornis-phoenicurus": {
+      "season": "resident",
+      "facts": [
+        "In Bangla it is the dahuk (ডাহুক), a familiar voice of village ponds.",
+        "Bolder than most rails, it walks slowly with its tail cocked, even in drains beside busy roads.",
+        "It calls loudly and croakily, especially at dawn and dusk and after the first rains."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White-breasted_waterhen"
+      ],
+      "_confidence": "medium"
+    },
+    "heliopais-personata": {
+      "season": "resident",
+      "facts": [
+        "One of Asia's rarest waterbirds: a 2020 study suggested the world population may be only 100 to a few hundred birds.",
+        "Known breeding populations survive at only four sites, in Bangladesh and Cambodia; in Bangladesh it breeds from June to September.",
+        "It builds a pad of small sticks low above water, and the chicks leave the nest soon after hatching."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Masked_finfoot"
+      ],
+      "_confidence": "high"
+    },
+    "esacus-recurvirostris": {
+      "season": "resident",
+      "facts": [
+        "A large, big-eyed wader with a massive, upturned bill; its scientific name means 'backward-bent bill'.",
+        "It lives on gravel banks along big rivers, lakes and beaches, laying a single egg in a bare scrape on open shingle.",
+        "Its wailing whistle is given mainly at night."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Great_stone-curlew"
+      ],
+      "_confidence": "high"
+    },
+    "himantopus-himantopus": {
+      "season": "winter",
+      "facts": [
+        "A black-and-white wader with extremely long pink legs and a thin black bill.",
+        "Some populations migrate to the coasts in winter, while those in warmer regions are mostly resident."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-winged_stilt"
+      ],
+      "_confidence": "medium"
+    },
+    "pluvialis-fulva": {
+      "season": "winter",
+      "facts": [
+        "It breeds in Siberia and Alaska and flies south to Asia, Australasia and Pacific islands from August–September to April–May.",
+        "Tracked birds have flown 4,800 km non-stop from Alaska to Hawaii in three to four days.",
+        "Most wintering birds feed alone within their own territory."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pacific_golden_plover"
+      ],
+      "_confidence": "medium"
+    },
+    "vanellus-cinereus": {
+      "season": "winter",
+      "facts": [
+        "It breeds in northeast China and Japan; the mainland population winters from northeastern India to Cambodia.",
+        "Its call is a sharp 'chee-it'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey-headed_lapwing"
+      ],
+      "_confidence": "medium"
+    },
+    "vanellus-indicus": {
+      "season": "resident",
+      "facts": [
+        "Its loud alarm call, rendered 'did-he-do-it', warns of any person or animal moving nearby, by day or night.",
+        "Like other lapwings it cannot perch in trees.",
+        "It has even nested between the rails of a railway track, leaving the eggs each time a train passed."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Red-wattled_lapwing"
+      ],
+      "_confidence": "high"
+    },
+    "charadrius-mongolus": {
+      "season": "winter",
+      "facts": [
+        "A small plover that breeds in East Asia and winters on coasts including Indian beaches, often in mixed flocks with its look-alikes.",
+        "It was recently split from the Tibetan sand plover; together they used to be called the lesser sand plover.",
+        "It nests in a bare scrape on the ground, laying three eggs."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Siberian_sand_plover"
+      ],
+      "_confidence": "medium"
+    },
+    "charadrius-dubius": {
+      "season": "winter",
+      "facts": [
+        "A small migratory plover; look for the bright yellow ring around its eye.",
+        "It nests right on bare stony or gravelly ground near fresh water, with little or no plant cover."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Little_ringed_plover"
+      ],
+      "_confidence": "medium"
+    },
+    "rostratula-benghalensis": {
+      "season": "resident",
+      "facts": [
+        "A role-reversed bird: the bigger, brighter female courts several males, and the males incubate the eggs and raise the young.",
+        "Linnaeus named it from a picture of a 'Bengall water rail' sent from Bengal, hence benghalensis."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Greater_painted-snipe"
+      ],
+      "_confidence": "medium"
+    },
+    "hydrophasianus-chirurgus": {
+      "season": "resident",
+      "facts": [
+        "Very long toes and claws let it walk across floating leaves on lakes and beels.",
+        "It is the only jacana with different breeding and non-breeding plumages; outside the breeding season the golden nape almost disappears.",
+        "The female builds the nest on floating vegetation; its typical call is a mewing 'me-onp'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pheasant-tailed_jacana"
+      ],
+      "_confidence": "medium"
+    },
+    "metopidius-indicus": {
+      "season": "resident",
+      "facts": [
+        "Females are polyandrous, keeping a harem of males during the monsoon breeding season.",
+        "Males carry and brood chicks under their wings, which may be helped by a flattened wing bone.",
+        "Eggs are sometimes laid straight onto a floating lotus leaf."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Bronze-winged_jacana"
+      ],
+      "_confidence": "medium"
+    },
+    "numenius-phaeopus": {
+      "season": "winter",
+      "facts": [
+        "Its name 'whimbrel' imitates its rippling, whistled call.",
+        "The eastern race breeds in north-eastern Siberia and winters from India to Australia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Eurasian_whimbrel"
+      ],
+      "_confidence": "medium"
+    },
+    "numenius-arquata": {
+      "season": "winter",
+      "facts": [
+        "The largest wading bird in its range; in Scotland it is called the 'whaup'.",
+        "Its name 'curlew' imitates its call."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Eurasian_curlew"
+      ],
+      "_confidence": "medium"
+    },
+    "limosa-limosa": {
+      "season": "winter",
+      "facts": [
+        "Breeds from Iceland across Europe and Central Asia and migrates in flocks to places including South Asia.",
+        "The name 'godwit', first recorded around 1416, is believed to imitate its call, a strident 'weeka weeka weeka'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-tailed_godwit"
+      ],
+      "_confidence": "medium"
+    },
+    "calidris-pugnax": {
+      "season": "winter",
+      "facts": [
+        "It is named after the frilly Elizabethan ruff collar, because breeding males grow showy neck ruffs and head tufts; females are called reeves.",
+        "Some males are permanent female mimics called 'faeders', the first such males known in any bird.",
+        "Highly gregarious, it can form huge flocks on its wintering grounds, which include southern Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Ruff_%28bird%29"
+      ],
+      "_confidence": "medium"
+    },
+    "calidris-pygmaea": {
+      "season": "winter",
+      "facts": [
+        "One of the world's rarest waders, it breeds on the Bering Sea coast and winters in South and Southeast Asia, including Bangladesh.",
+        "Its most distinctive feature is its spatulate, spoon-shaped bill.",
+        "It is Critically Endangered: in 2016 the world population was estimated at only 240 to 456 mature birds."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Spoon-billed_sandpiper"
+      ],
+      "_confidence": "high"
+    },
+    "calidris-ruficollis": {
+      "season": "winter",
+      "facts": [
+        "One of the smallest waders, weighing only 21 to 51 g.",
+        "It breeds in north-east Russia and spends the non-breeding season on the coasts of Southeast Asia and Australasia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Red-necked_stint"
+      ],
+      "_confidence": "medium"
+    },
+    "gallinago-gallinago": {
+      "season": "winter",
+      "facts": [
+        "Shy and well camouflaged, it hides close to the ground and flushes only when approached closely.",
+        "In courtship the male dives through the air, making a 'drumming' sound with vibrating tail feathers."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_snipe"
+      ],
+      "_confidence": "medium"
+    },
+    "xenus-cinereus": {
+      "season": "winter",
+      "facts": [
+        "Named after the Terek River near the Caspian Sea, where it was first observed.",
+        "It breeds in the Siberian taiga and winters on tropical coasts including South Asia, preferring muddy areas."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Terek_sandpiper"
+      ],
+      "_confidence": "medium"
+    },
+    "actitis-hypoleucos": {
+      "season": "winter",
+      "facts": [
+        "A small Palearctic wader of river banks, pond edges and coasts; in winter plumage it is duller, with faint barring on the wings.",
+        "It and its American twin, the spotted sandpiper, replace each other geographically, and strays sometimes pair up and hybridise."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_sandpiper"
+      ],
+      "_confidence": "medium"
+    },
+    "tringa-nebularia": {
+      "season": "winter",
+      "facts": [
+        "Its scientific name nebularia comes from Latin for 'mist', referring to its damp marshy habitat.",
+        "Its usual call is three short, fluty notes: 'teu-teu-teu'.",
+        "It winters in Africa, the Indian subcontinent and Australasia, usually on fresh water."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_greenshank"
+      ],
+      "_confidence": "medium"
+    },
+    "tringa-guttifer": {
+      "season": "winter",
+      "facts": [
+        "An Endangered wader of the East Asian–Australasian Flyway that winters in Bangladesh and Southeast Asia.",
+        "Unusually for a sandpiper, it can nest up in larch trees, building with larch twigs lined with lichen."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Nordmann%27s_greenshank"
+      ],
+      "_confidence": "high"
+    },
+    "tringa-glareola": {
+      "season": "winter",
+      "facts": [
+        "The smallest of the shanks, a freshwater wader that winters in Africa, South Asia and Australia.",
+        "It nests on the ground, or sometimes reuses an old tree nest of a thrush such as a fieldfare."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Wood_sandpiper"
+      ],
+      "_confidence": "medium"
+    },
+    "tringa-totanus": {
+      "season": "winter",
+      "facts": [
+        "Wary and loud, it alerts other birds with its piping call.",
+        "It winters on coasts in South Asia among other places."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_redshank"
+      ],
+      "_confidence": "medium"
+    },
+    "chroicocephalus-brunnicephalus": {
+      "season": "winter",
+      "facts": [
+        "It breeds on the high plateaus of Central Asia and winters on the coasts and big inland lakes of the Indian subcontinent.",
+        "It nests on the ground in colonies in reedbeds, marshes or lake islands, and is highly gregarious in winter."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Brown-headed_gull"
+      ],
+      "_confidence": "medium"
+    },
+    "ichthyaetus-ichthyaetus": {
+      "season": "winter",
+      "facts": [
+        "Easily the world's largest black-headed gull, and the third-largest gull of any kind.",
+        "Its scientific name means 'fish eagle' in Greek.",
+        "It breeds in Central Asia and winters south to India."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pallas%27s_gull"
+      ],
+      "_confidence": "medium"
+    },
+    "sternula-albifrons": {
+      "season": "resident",
+      "facts": [
+        "A small tern; the Asian subspecies sinensis is resident on the river systems of northern India and eastward.",
+        "It fiercely defends its nest and young, attacking intruders.",
+        "Its call is a loud, distinctive creaking."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Little_tern"
+      ],
+      "_confidence": "medium"
+    },
+    "hydroprogne-caspia": {
+      "season": "winter",
+      "facts": [
+        "The world's largest tern, with a wingspan of up to 145 cm.",
+        "Its name refers to the Caspian Sea.",
+        "It nests on bare ground among gravel and sand, alone or in colonies."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Caspian_tern"
+      ],
+      "_confidence": "medium"
+    },
+    "chlidonias-hybrida": {
+      "season": "winter",
+      "facts": [
+        "The largest of the marsh terns; tropical birds are resident while Asian breeders winter south to the Indian subcontinent.",
+        "Pallas thought it might be a hybrid of two other terns, hence its scientific name hybrida."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Whiskered_tern"
+      ],
+      "_confidence": "medium"
+    },
+    "sterna-aurantia": {
+      "season": "resident",
+      "facts": [
+        "A resident tern of big inland rivers, almost never seen on salt water.",
+        "It lays three blotched eggs in a scrape on bare sand or rock.",
+        "It has become very rare in the east of its range, in China, Cambodia, Laos and Thailand."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/River_tern"
+      ],
+      "_confidence": "medium"
+    },
+    "rynchops-albicollis": {
+      "season": "resident",
+      "facts": [
+        "Its lower bill is longer than the upper and is ploughed through the water as it flies low over rivers.",
+        "India and Bangladesh are the last strongholds of this declining species.",
+        "It nests in a scrape on open sandbanks and sometimes lays eggs in river terns' nests."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_skimmer"
+      ],
+      "_confidence": "high"
+    },
+    "anastomus-oscitans": {
+      "season": "resident",
+      "facts": [
+        "Widespread and common in Bangladesh; adults have a gap between the arched upper and curved lower bill.",
+        "Young birds are born without the gap, which forms only with age.",
+        "A bird ringed in Thailand was found 1,500 km to the west in Bangladesh."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Asian_openbill"
+      ],
+      "_confidence": "high"
+    },
+    "ephippiorhynchus-asiaticus": {
+      "season": "vagrant",
+      "facts": [
+        "A tall, black-and-white stork with a heavy bill; males and females differ in eye colour, which is rare among storks.",
+        "It is exceedingly rare in Bangladesh and may no longer breed here."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-necked_stork"
+      ],
+      "_confidence": "medium"
+    },
+    "leptoptilos-javanicus": {
+      "season": "resident",
+      "facts": [
+        "A big bald-headed stork that keeps to wetlands and fields and scavenges less than the greater adjutant.",
+        "In 2011 a small colony of about 6 nests and 20 birds was found near Thakurgaon in Bangladesh.",
+        "Mostly silent, it clatters its bill, hisses and moans at the nest."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Lesser_adjutant"
+      ],
+      "_confidence": "high"
+    },
+    "leptoptilos-dubius": {
+      "season": "vagrant",
+      "facts": [
+        "Its Bangla name hargila is said to come from Sanskrit for 'bone swallower'.",
+        "Once widespread, it was recorded breeding in the Sundarbans in the 1850s, but the IUCN considers it probably extinct in Bangladesh.",
+        "Its wingspan averages 250 cm, making it a rival for the largest stork in the world."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Greater_adjutant"
+      ],
+      "_confidence": "medium"
+    },
+    "mycteria-leucocephala": {
+      "season": "resident",
+      "facts": [
+        "Named for the pink feathers on the adults' back.",
+        "It sweeps its half-open bill through the water and snaps it shut on fish it senses by touch.",
+        "Mostly silent like other storks, it clatters its bill at the nest."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Painted_stork"
+      ],
+      "_confidence": "medium"
+    },
+    "anhinga-melanogaster": {
+      "season": "resident",
+      "facts": [
+        "It swims with its body underwater and only its thin neck showing, which earns it the name snakebird.",
+        "It spears fish underwater, then tosses and juggles them at the surface before swallowing them head first.",
+        "It nests in mixed heronries, building stick platforms in trees usually standing in water."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Oriental_darter"
+      ],
+      "_confidence": "medium"
+    },
+    "microcarbo-niger": {
+      "season": "resident",
+      "facts": [
+        "A small cormorant of ponds, lakes and streams; a study in Bangladesh found it breeds from May to October.",
+        "When it surfaces to swallow a fish, other birds, including other cormorants, storks, gulls and egrets, try to steal it.",
+        "It nests in colonies beside pond herons and little egrets, sometimes on coconut palms."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Little_cormorant"
+      ],
+      "_confidence": "high"
+    },
+    "phalacrocorax-carbo": {
+      "season": "winter",
+      "facts": [
+        "Called the large cormorant in India; it ties for the second-largest cormorant in the world.",
+        "Pairs reuse the same nest site year after year."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Great_cormorant"
+      ],
+      "_confidence": "medium"
+    },
+    "pelecanus-philippensis": {
+      "season": "vagrant",
+      "facts": [
+        "The smallest pelican in its region, told by the dark spots on the upper bill, which appear only after the first year.",
+        "Fishermen in eastern Bengal once used it as a decoy for certain fish.",
+        "Reports of it in Bangladesh have been questioned; it breeds only in peninsular India, Sri Lanka and Cambodia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Spot-billed_pelican"
+      ],
+      "_confidence": "medium"
+    },
+    "ixobrychus-cinnamomeus": {
+      "season": "resident",
+      "facts": [
+        "A small, chestnut-coloured bittern of tropical and subtropical Asia, mostly resident.",
+        "When surprised, it freezes in the classic bittern pose, called the 'on-guard'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Cinnamon_bittern"
+      ],
+      "_confidence": "medium"
+    },
+    "ardea-cinerea": {
+      "season": "winter",
+      "facts": [
+        "A tall heron that hunts by standing motionless beside or in the water, or stalking slowly through the shallows.",
+        "Its main call is a loud, croaking 'fraaank'.",
+        "Resident in much of its range, but northern populations migrate south in autumn."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey_heron"
+      ],
+      "_confidence": "medium"
+    },
+    "ardea-purpurea": {
+      "season": "resident",
+      "facts": [
+        "Slimmer and darker than the grey heron, it weighs only 0.5 to 1.35 kg despite its size.",
+        "Tropical Asian populations are mainly sedentary.",
+        "It is more secretive than the grey heron, and its harsh 'frarnk' call is quieter and higher-pitched."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Purple_heron"
+      ],
+      "_confidence": "medium"
+    },
+    "ardea-alba": {
+      "season": "resident",
+      "facts": [
+        "A large egret, only slightly smaller than the grey heron.",
+        "It builds tree nests in colonies close to water; the male chooses the site and starts the nest before attracting a female.",
+        "Despite its name it is not an Egretta egret: it sits in the genus Ardea with the great herons."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Great_egret"
+      ],
+      "_confidence": "medium"
+    },
+    "egretta-garzetta": {
+      "season": "resident",
+      "facts": [
+        "A slim white heron with a slender black bill and long black legs.",
+        "It nests in colonies with other wading birds, on stick platforms in trees, bushes, reed beds or bamboo clumps.",
+        "Both parents incubate the three to five bluish-green eggs for about three weeks."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Little_egret"
+      ],
+      "_confidence": "medium"
+    },
+    "bubulcus-ibis": {
+      "season": "resident",
+      "facts": [
+        "It follows cattle and other large animals, snapping up the insects and small creatures they disturb.",
+        "It uses drier, more open habitats than other herons, which helped it spread across much of the world.",
+        "Its species name ibis was applied by mistake; it originally referred to the sacred ibis."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Cattle_egret"
+      ],
+      "_confidence": "medium"
+    },
+    "ardeola-grayii": {
+      "season": "resident",
+      "facts": [
+        "Also called the paddybird, it stalks the edges of ponds and paddies all over South Asia.",
+        "Its streaky camouflage lets people walk right up to it, which gave rise to folk beliefs that it is short-sighted or blind.",
+        "When it takes off, bright white wings suddenly flash from its drab brown body."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_pond_heron"
+      ],
+      "_confidence": "medium"
+    },
+    "butorides-striata": {
+      "season": "resident",
+      "facts": [
+        "A small, mostly sedentary heron also called the mangrove heron.",
+        "It sometimes fishes with bait, dropping a feather or leaf on the water and grabbing the fish that come to look."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Striated_heron"
+      ],
+      "_confidence": "medium"
+    },
+    "nycticorax-nycticorax": {
+      "season": "resident",
+      "facts": [
+        "Often just called the night heron; it is found across most of the world.",
+        "Very noisy at its nesting colonies, with calls written as 'quok' or 'woc'.",
+        "It nests in colonies on stick platforms in groups of trees or in reed beds."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-crowned_night_heron"
+      ],
+      "_confidence": "medium"
+    },
+    "threskiornis-melanocephalus": {
+      "season": "resident",
+      "facts": [
+        "Like storks, it has no true voice and is silent apart from grunts made by pairs at the nest.",
+        "It nests only in the rainy season, in mixed heronry colonies near wetlands.",
+        "It is the only native all-white ibis in its range with a black head and neck."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-headed_ibis"
+      ],
+      "_confidence": "medium"
+    },
+    "platalea-leucorodia": {
+      "season": "winter",
+      "facts": [
+        "A white wader with a flat, spoon-shaped bill.",
+        "Northern breeders migrate south for the winter, while populations in warmer parts of Asia stay put or move locally.",
+        "In England it was once called the 'shovelard'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Eurasian_spoonbill"
+      ],
+      "_confidence": "medium"
+    },
+    "pandion-haliaetus": {
+      "season": "winter",
+      "facts": [
+        "A fish-eating raptor found on every continent except Antarctica.",
+        "It is an uncommon to fairly common winter visitor to all parts of South Asia; a bird tagged in Norway was tracked to western India."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Osprey"
+      ],
+      "_confidence": "high"
+    },
+    "elanus-caeruleus": {
+      "season": "resident",
+      "facts": [
+        "A small raptor best known for hovering over open grassland like a kestrel.",
+        "It builds a loose twig platform and lays 3 or 4 eggs; the female does most of the nest building."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-winged_kite"
+      ],
+      "_confidence": "medium"
+    },
+    "gyps-bengalensis": {
+      "season": "resident",
+      "facts": [
+        "Once numbered in the millions; now Critically Endangered, with fewer than 6,000 mature birds worldwide in 2021.",
+        "It is killed by kidney failure after eating carcasses of livestock treated with the painkiller diclofenac.",
+        "It nests in tall trees, often near villages in Bangladesh and India, laying a single egg."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White-rumped_vulture"
+      ],
+      "_confidence": "high"
+    },
+    "spilornis-cheela": {
+      "season": "resident",
+      "facts": [
+        "A forest eagle that hunts snakes and lizards, often near wet grassland.",
+        "Size varies unusually much across its many subspecies, from the Himalayas to Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Crested_serpent_eagle"
+      ],
+      "_confidence": "medium"
+    },
+    "nisaetus-cirrhatus": {
+      "season": "resident",
+      "facts": [
+        "Its plumage varies from pale to dark with age and moult, giving it the name 'changeable'.",
+        "The most widespread, adaptable and abundant hawk-eagle in its genus, it hunts birds, mammals and reptiles in forest."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Changeable_hawk-eagle"
+      ],
+      "_confidence": "medium"
+    },
+    "circus-aeruginosus": {
+      "season": "winter",
+      "facts": [
+        "It hunts by gliding low over open ground with its wings held in a shallow V and its legs often dangling.",
+        "The genus name Circus comes from Greek kirkos, 'circle', for its circling flight.",
+        "Some breeding birds migrate to the Indian subcontinent and Myanmar for the winter."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Western_marsh_harrier"
+      ],
+      "_confidence": "medium"
+    },
+    "accipiter-badius": {
+      "season": "resident",
+      "facts": [
+        "A small hawk, also called the little banded goshawk; its call is a 'pee-wee' with a higher first note and a longer second.",
+        "Drongos mimic its calls, apparently to scare other birds off their food so they can steal it.",
+        "The Indian subspecies dussumieri, found in Bangladesh, is resident on the plains and lower hills."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Shikra"
+      ],
+      "_confidence": "high"
+    },
+    "milvus-migrans": {
+      "season": "resident",
+      "facts": [
+        "Thought to be the world's most abundant member of the hawk and eagle family, with up to 6.7 million birds.",
+        "An opportunistic scavenger; it has even been seen tearing apart baya weaver nests to get at the eggs or chicks.",
+        "Northern birds migrate to South Asia in winter, joining the resident Indian race; its call is a shrill whistle followed by a rapid whinny."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black_kite"
+      ],
+      "_confidence": "medium"
+    },
+    "haliastur-indus": {
+      "season": "resident",
+      "facts": [
+        "A familiar, resident kite of Bangladesh, with a reddish-brown body and white head and breast.",
+        "Mainly a scavenger of dead fish and crabs, it also steals prey from other birds.",
+        "Both parents build the nest, often in mangroves."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Brahminy_kite"
+      ],
+      "_confidence": "high"
+    },
+    "haliaeetus-leucoryphus": {
+      "season": "resident",
+      "facts": [
+        "An Endangered fish eagle that breeds from Central Asia to India, Bangladesh and Myanmar.",
+        "In Bangladesh its prey includes rohu, catla, mrigal carp and even ilish.",
+        "It is partially migratory: Central Asian birds spend the winter among the resident birds of northern South Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pallas%27s_fish_eagle"
+      ],
+      "_confidence": "medium"
+    },
+    "haliaeetus-leucogaster": {
+      "season": "resident",
+      "facts": [
+        "A big white-and-grey eagle found regularly along the coasts of Bangladesh.",
+        "Pairs often honk in unison, a loud goose-like call that carries a long way.",
+        "Some nest sites are used continuously for many years; one in Australia was occupied for over fifty years."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White-bellied_sea_eagle"
+      ],
+      "_confidence": "high"
+    },
+    "haliaeetus-ichthyaetus": {
+      "season": "resident",
+      "facts": [
+        "A large fish-eating eagle that is uncommon and local in Bangladesh.",
+        "It builds a huge stick nest, up to 1.5 m across and, with repeated use, up to 2 m deep.",
+        "It is easily confused with the lesser fish eagle and Pallas's fish eagle."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey-headed_fish_eagle"
+      ],
+      "_confidence": "medium"
+    },
+    "tyto-javanica": {
+      "season": "resident",
+      "facts": [
+        "It hunts by flying slowly and quartering the ground, hovering over spots that might hide prey.",
+        "Rodents make up the largest share of its food.",
+        "Before she starts laying, the female is fed entirely by the male."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Eastern_barn_owl"
+      ],
+      "_confidence": "medium"
+    },
+    "otus-lettia": {
+      "season": "resident",
+      "facts": [
+        "A small owl with ear tufts, resident from northern Pakistan and India to Bangladesh and southern China.",
+        "It is nocturnal, but small birds often give away its daytime roost by mobbing it.",
+        "It nests in tree hollows, laying 3 to 5 eggs."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Collared_scops_owl"
+      ],
+      "_confidence": "high"
+    },
+    "ketupa-zeylonensis": {
+      "season": "resident",
+      "facts": [
+        "The most widespread and common of the four fish owls, resident across the Indian subcontinent.",
+        "Unlike fish-eating hawks, it does not plunge in: it snatches fish with its feet or wades into the shallows on foot."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Brown_fish_owl"
+      ],
+      "_confidence": "high"
+    },
+    "athene-brama": {
+      "season": "resident",
+      "facts": [
+        "A common little owl of farmland and villages that has adapted to life in cities.",
+        "Small birds mob it in daytime, which often gives away where it is perched.",
+        "Its call is a harsh, loud churring and chuckling 'chirurr-chirurr-chirurr'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Spotted_owlet"
+      ],
+      "_confidence": "high"
+    },
+    "upupa-epops": {
+      "season": "resident",
+      "facts": [
+        "Its soft 'oop-oop-oop' call may be the origin of both its English and scientific names.",
+        "Cinnamon-coloured, with a tall crest, black-and-white wings and a long, curved bill.",
+        "The nesting female and chicks can make a foul-smelling liquid to deter predators."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_hoopoe"
+      ],
+      "_confidence": "medium"
+    },
+    "buceros-bicornis": {
+      "season": "resident",
+      "facts": [
+        "A huge forest hornbill, listed as Vulnerable by the IUCN since 2018.",
+        "The female seals herself into a tree hollow with a plaster made mostly of droppings, and is fed through a slit while she nests.",
+        "Pairs call in unison, building to a rapid mix of roars and barks; one has lived nearly 50 years in captivity."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Great_hornbill"
+      ],
+      "_confidence": "medium"
+    },
+    "anthracoceros-albirostris": {
+      "season": "resident",
+      "facts": [
+        "One of the smallest and most common Asian hornbills, with the widest range in its genus.",
+        "The female seals herself inside a tree cavity with a mix of saliva, mud, fruit, droppings and bark, leaving only a slit for food to be passed in.",
+        "Its calls range from crow-like sounds to braying, harsh crackles and screeches."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Oriental_pied_hornbill"
+      ],
+      "_confidence": "medium"
+    },
+    "alcedo-atthis": {
+      "season": "resident",
+      "facts": [
+        "A sparrow-sized kingfisher with blue upperparts and orange underparts that dives for fish.",
+        "In the tropics it lives by slow rivers, mangrove creeks and swamps, such as those of Bangladesh.",
+        "Its flight call is a short, sharp whistled 'chee', repeated two or three times."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_kingfisher"
+      ],
+      "_confidence": "high"
+    },
+    "pelargopsis-amauropterus": {
+      "season": "resident",
+      "facts": [
+        "A big kingfisher found only along the north and east coasts of the Bay of Bengal, from Bangladesh to Thailand.",
+        "It lives in mangrove forest; in India it is mainly known from the Sundarbans."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Brown-winged_kingfisher"
+      ],
+      "_confidence": "high"
+    },
+    "pelargopsis-capensis": {
+      "season": "resident",
+      "facts": [
+        "A big kingfisher with a heavy bill that hunts fish, frogs, crabs, rodents and even young birds.",
+        "Its far-carrying call is a low 'peer-por-por' repeated about every five seconds.",
+        "It digs its nest in river banks, rotting trees or tree termite nests, and stays in the same area all year."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Stork-billed_kingfisher"
+      ],
+      "_confidence": "high"
+    },
+    "halcyon-coromanda": {
+      "season": "resident",
+      "facts": [
+        "A rust-red kingfisher with a very large, bright red bill and red legs.",
+        "It lives in thick forest, so its high, descending call is heard far more often than the bird is seen.",
+        "Its scientific name recalls the Coromandel Coast of India."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Ruddy_kingfisher"
+      ],
+      "_confidence": "medium"
+    },
+    "halcyon-smyrnensis": {
+      "season": "resident",
+      "facts": [
+        "Often found far from water, it eats reptiles, frogs, crabs, rodents and even small birds.",
+        "In Bengali it is called the sada-buk machhranga, the 'white-breasted kingfisher'.",
+        "To start a nest, the pair fly straight into a mud bank until they make a dent, then dig a tunnel with their bills."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White-throated_kingfisher"
+      ],
+      "_confidence": "high"
+    },
+    "halcyon-pileata": {
+      "season": "resident",
+      "facts": [
+        "A striking kingfisher with a black cap, white throat, purple-blue wings and a coral-red bill.",
+        "It is the most northerly of the tree kingfishers; northern populations migrate south for the winter.",
+        "Its call is a cackling 'ki-ki-ki-ki-ki'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-capped_kingfisher"
+      ],
+      "_confidence": "medium"
+    },
+    "todirhamphus-chloris": {
+      "season": "resident",
+      "facts": [
+        "Also called the mangrove kingfisher; local subspecies live along the coasts of India and Bangladesh.",
+        "Its typical call is a loud, harsh, metallic 'kee-kee-kee'.",
+        "It lays its eggs straight onto the floor of a burrow in a rotten tree, termite nest or earth bank, with no nest material."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Collared_kingfisher"
+      ],
+      "_confidence": "medium"
+    },
+    "ceryle-rudis": {
+      "season": "resident",
+      "facts": [
+        "A black-and-white kingfisher that hovers over water before diving bill-first for fish.",
+        "Males have two breast bands, females a single broken one.",
+        "It digs a nest tunnel 4 to 5 feet long into a vertical mud bank."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pied_kingfisher"
+      ],
+      "_confidence": "medium"
+    },
+    "merops-orientalis": {
+      "season": "resident",
+      "facts": [
+        "A small green bee-eater resident in the lowlands of South Asia, increasingly common in towns.",
+        "It hunts from low perches, often launching from wires or TV antennas in a zigzag flight to snatch an insect.",
+        "It nests in tunnels dug into vertical mud banks."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Asian_green_bee-eater"
+      ],
+      "_confidence": "high"
+    },
+    "merops-philippinus": {
+      "season": "summer",
+      "facts": [
+        "Many populations are strongly migratory and breed in colonies, mostly in river valleys.",
+        "It digs a nest tunnel up to nearly 2 m long into a sandy bank.",
+        "It calls mainly in flight with a rolling, chirping 'teerp'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Blue-tailed_bee-eater"
+      ],
+      "_confidence": "medium"
+    },
+    "coracias-benghalensis": {
+      "season": "resident",
+      "facts": [
+        "Its wings flash brilliant light and dark blue in flight; in breeding displays it rolls through the air with harsh 'kaarsch' calls.",
+        "In Bengal, seeing one was a good omen: people chanted a couplet to Vishnu, wishing to see the bird at the time of their death.",
+        "It boldly drives off crows from its nest and has even been seen dive-bombing vultures and people."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_roller"
+      ],
+      "_confidence": "medium"
+    },
+    "psilopogon-haemacephalus": {
+      "season": "resident",
+      "facts": [
+        "Its metronomic 'tuk…tuk…tuk' sounds like a coppersmith beating copper sheet, which gives it its name.",
+        "It carves its own nest hole in dead wood and also uses holes for roosting.",
+        "Red-vented bulbuls sometimes rob the male of berries he brings to the nest."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Coppersmith_barbet"
+      ],
+      "_confidence": "high"
+    },
+    "psilopogon-asiaticus": {
+      "season": "resident",
+      "facts": [
+        "Its green plumage blends into the canopy, so its loud calls are often the only sign it is there.",
+        "It repeats its 'took-a-rook' call 90 to 105 times a minute.",
+        "Both parents dig the nest hole in a tree trunk and raise the young."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Blue-throated_barbet"
+      ],
+      "_confidence": "medium"
+    },
+    "dinopium-benghalense": {
+      "season": "resident",
+      "facts": [
+        "One of the few woodpeckers often seen in towns, with a rattling, whinnying call and bouncing flight.",
+        "It is the only golden-backed woodpecker with both a black throat and a black rump.",
+        "It appears on a 3.75 Taka postage stamp from Bangladesh."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-rumped_flameback"
+      ],
+      "_confidence": "high"
+    },
+    "falco-tinnunculus": {
+      "season": "winter",
+      "facts": [
+        "A small falcon that spots prey and drops on it in a short, steep dive.",
+        "Northern birds winter south of the breeding range, including northeastern India.",
+        "It nests in holes in cliffs, trees or buildings and often reuses old crow nests."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_kestrel"
+      ],
+      "_confidence": "medium"
+    },
+    "psittacula-eupatria": {
+      "season": "resident",
+      "facts": [
+        "One of the largest parakeets, 56 to 62 cm long, and uncommon in Bangladesh.",
+        "It is named after Alexander the Great, who is said to have taken many of these birds from Punjab to Europe.",
+        "Its calls are deeper and harsher than those of the rose-ringed parakeet."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Alexandrine_parakeet"
+      ],
+      "_confidence": "high"
+    },
+    "psittacula-krameri": {
+      "season": "resident",
+      "facts": [
+        "Native to the Indian subcontinent and tropical Africa, it has set up feral populations around the world after escaping from the pet trade.",
+        "A noisy parakeet with an unmistakable squawk.",
+        "It picks and defends nest holes in the cool season, and the young leave the nest before the monsoon."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Rose-ringed_parakeet"
+      ],
+      "_confidence": "medium"
+    },
+    "loriculus-vernalis": {
+      "season": "resident",
+      "facts": [
+        "A tiny green parrot only 14 cm long, with a short tail; the male has a red rump and bill.",
+        "It wanders locally following fruit, seeds and blossoms, visiting banyan figs and banana flowers for nectar.",
+        "It nests in tree cavities lined with bits of leaves."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Vernal_hanging_parrot"
+      ],
+      "_confidence": "medium"
+    },
+    "pitta-brachyura": {
+      "season": "summer",
+      "facts": [
+        "Called navrang or nauranga, 'nine colours', in parts of India; in Bengali it is the shumcha.",
+        "Shy despite its colours, it gives a distinctive two-note whistle at dawn and dusk.",
+        "It breeds during the south-west monsoon, building a ball-shaped nest with a side entrance on or near the ground."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_pitta"
+      ],
+      "_confidence": "medium"
+    },
+    "pitta-megarhyncha": {
+      "season": "resident",
+      "facts": [
+        "A colourful pitta of mangroves, found from Bangladesh and India to Malaysia and Indonesia.",
+        "Unlike most pittas, it is fairly easy to see because it perches high in mangrove trees to call.",
+        "Its call, written 'wieuw-wieuw', is more slurred than that of the blue-winged pitta."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Mangrove_pitta"
+      ],
+      "_confidence": "medium"
+    },
+    "oriolus-xanthornus": {
+      "season": "resident",
+      "facts": [
+        "A bright yellow oriole with a black hood, resident across tropical southern Asia; Bengal is its type locality.",
+        "A Bengali folk tale says a merchant's wife, tortured by her mother-in-law, was brought back by a goddess as this bird, so it is called benebou ('merchant's wife').",
+        "It is also called haldi pakhi, the 'turmeric bird'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-hooded_oriole"
+      ],
+      "_confidence": "high"
+    },
+    "artamus-fuscus": {
+      "season": "resident",
+      "facts": [
+        "Widespread in Bangladesh, usually seen perched in tight groups on power lines, bare trees or palms.",
+        "It often nests at the base of a palm frond, or even in a hollow on top of a street-light post.",
+        "Its wheezy song can include imitations of other birds."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Ashy_woodswallow"
+      ],
+      "_confidence": "high"
+    },
+    "aegithina-tiphia": {
+      "season": "resident",
+      "facts": [
+        "Easy to find by its loud whistles; the song is a trilled 'wheeeee-tee'.",
+        "In the breeding season the male fluffs up and spirals through the air like a green, black, yellow and white ball.",
+        "It builds a neat cup of grass bound with cobwebs in the fork of a tree."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_iora"
+      ],
+      "_confidence": "medium"
+    },
+    "dicrurus-macrocercus": {
+      "season": "resident",
+      "facts": [
+        "A glossy black bird with a deeply forked tail, a common resident in Bangladesh; in Bengali it is the finge.",
+        "Only 28 cm long, it fearlessly attacks much bigger birds, including crows and birds of prey, that enter its nesting territory.",
+        "In Hindi it is called kotwal, 'policeman'; one of its calls imitates the shikra."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black_drongo"
+      ],
+      "_confidence": "high"
+    },
+    "dicrurus-paradiseus": {
+      "season": "resident",
+      "facts": [
+        "Its two long outer tail feathers are bare shafts with 'rackets' only at the tips.",
+        "A brilliant mimic, it learns and copies the alarm calls of other birds in mixed feeding flocks.",
+        "In most of its Asian range it is the largest drongo."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Greater_racket-tailed_drongo"
+      ],
+      "_confidence": "medium"
+    },
+    "terpsiphone-paradisi": {
+      "season": "resident",
+      "facts": [
+        "Adult males grow drooping central tail streamers up to 30 cm long; some males are rufous while others are white.",
+        "It has resident and breeding populations in most of Bangladesh.",
+        "Pairs sometimes nest near drongos, which keep predators away; the nest is a neat cup of twigs and spider webs."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_paradise_flycatcher"
+      ],
+      "_confidence": "medium"
+    },
+    "lanius-cristatus": {
+      "season": "winter",
+      "facts": [
+        "It breeds from Mongolia to Siberia and winters in South Asia, Myanmar and the Malay Peninsula, setting up winter territories soon after it arrives.",
+        "Lanius is Latin for 'butcher': shrikes are known as butcher birds for the way they treat their prey.",
+        "When it sings it keeps its bill closed, so only its throat pulses."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Brown_shrike"
+      ],
+      "_confidence": "medium"
+    },
+    "lanius-schach": {
+      "season": "resident",
+      "facts": [
+        "Its scientific name schach imitates its call, and 'shrike' comes from Old English for 'shriek'.",
+        "In Bangladesh it is one of the hosts of the Asian koel and other parasitic cuckoos.",
+        "It often perches on roadside wires, watching for prey."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Long-tailed_shrike"
+      ],
+      "_confidence": "high"
+    },
+    "dendrocitta-vagabunda": {
+      "season": "resident",
+      "facts": [
+        "A long-tailed, rusty-brown member of the crow family with loud, musical calls, common in gardens and farmland.",
+        "Its common 'ko-tree' or 'bob-o-link' call gives it the local name kotri; another name is taka chor, 'coin thief'.",
+        "Like other crows it is omnivorous and opportunistic."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Rufous_treepie"
+      ],
+      "_confidence": "high"
+    },
+    "corvus-splendens": {
+      "season": "resident",
+      "facts": [
+        "Described in 1817 from a specimen collected in Bengal, it has since spread around the world on ships.",
+        "It is the only crow known to pass the mirror test of self-recognition in a laboratory.",
+        "It nests in trees, sometimes several nests to a tree, and occasionally on telephone towers."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/House_crow"
+      ],
+      "_confidence": "high"
+    },
+    "corvus-macrorhynchos": {
+      "season": "resident",
+      "facts": [
+        "Formerly called the jungle crow, it is named for its heavy bill: macrorhynchos is Greek for 'long-billed'.",
+        "Extremely adaptable, it can eat almost anything and colonise new areas, so it is often seen as a nuisance.",
+        "It builds a twig platform nest high up in a tree."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Large-billed_crow"
+      ],
+      "_confidence": "medium"
+    },
+    "orthotomus-sutorius": {
+      "season": "resident",
+      "facts": [
+        "Famous for sewing leaves together around its nest, it appears as Darzee in Kipling's Jungle Book.",
+        "In Bangla it is the tuntuni, and Upendrakishore Ray's classic children's folk-tale book 'Tuntunir Boi' is named after it.",
+        "Shy and hidden in foliage, it gives itself away with a loud 'cheeup-cheeup-cheeup'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_tailorbird"
+      ],
+      "_confidence": "high"
+    },
+    "prinia-inornata": {
+      "season": "resident",
+      "facts": [
+        "A small, plain wren-warbler that is a resident breeder from Pakistan and India to south China and Southeast Asia.",
+        "It builds its nest in a shrub or tall grass and lays three to six eggs."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Plain_prinia"
+      ],
+      "_confidence": "medium"
+    },
+    "cisticola-juncidis": {
+      "season": "resident",
+      "facts": [
+        "A tiny grassland warbler named for the regular 'zit' calls the male gives during his zigzagging display flight.",
+        "The male builds the first frame of the nest deep in the grass, then invites females with a special display.",
+        "It was formerly called the fan-tailed warbler."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Zitting_cisticola"
+      ],
+      "_confidence": "medium"
+    },
+    "riparia-chinensis": {
+      "season": "resident",
+      "facts": [
+        "A small brown martin of open farmland and grassland, usually near water.",
+        "It was formerly treated as part of the plain martin, now called the brown-throated martin."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey-throated_martin"
+      ],
+      "_confidence": "medium"
+    },
+    "hirundo-rustica": {
+      "season": "winter",
+      "facts": [
+        "The most widespread swallow in the world, found on every continent, with vagrants even in Antarctica.",
+        "One subspecies breeds in Siberia and winters from eastern Bengal to Thailand and Malaysia.",
+        "It has separate alarm calls: a sharp 'siflitt' for cats and a 'flitt-flitt' for hawks."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Barn_swallow"
+      ],
+      "_confidence": "high"
+    },
+    "pycnonotus-cafer": {
+      "season": "resident",
+      "facts": [
+        "One of our commonest garden birds; elsewhere it is on the list of the world's 100 worst invasive species.",
+        "Its typical call has been written as 'ginger beer', and many other birds heed its alarm calls.",
+        "It has nested in odd places, including on floating water hyacinth and inside a bus in regular use."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Red-vented_bulbul"
+      ],
+      "_confidence": "high"
+    },
+    "pycnonotus-jocosus": {
+      "season": "resident",
+      "facts": [
+        "A crested bulbul with a red 'whisker' patch, common in hill forests and gardens.",
+        "Its loud call is a sharp 'kink-a-joo', also written as 'pleased to meet you'.",
+        "It often calls from treetops in the morning."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Red-whiskered_bulbul"
+      ],
+      "_confidence": "medium"
+    },
+    "phylloscopus-fuscatus": {
+      "season": "winter",
+      "facts": [
+        "A skulking leaf warbler that breeds in the eastern Palearctic and winters in South and Southeast Asia.",
+        "In winter its harsh 'check' call is often the first clue that it is hiding in nearby bushes or reeds."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Dusky_warbler"
+      ],
+      "_confidence": "medium"
+    },
+    "zosterops-palpebrosus": {
+      "season": "resident",
+      "facts": [
+        "A small yellow-green bird with a bright white eye-ring, described in 1824 from a Bengal specimen.",
+        "Highly sociable, it forages in small groups for nectar and insects, rarely coming down to the ground.",
+        "It hangs a compact cup nest of cobwebs, lichen and plant fibre like a hammock in the fork of a branch."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_white-eye"
+      ],
+      "_confidence": "medium"
+    },
+    "argya-striata": {
+      "season": "resident",
+      "facts": [
+        "It moves about in noisy groups of six to ten, which is why it is called 'seven sisters' in northern India and 'seven brothers' in Bengali.",
+        "Groups defend territories, mob snakes and other predators together, and groom and play-fight with each other.",
+        "It is a common resident across most of the subcontinent, first described from Bengal specimens in 1823."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Jungle_babbler"
+      ],
+      "_confidence": "high"
+    },
+    "gracula-religiosa": {
+      "season": "resident",
+      "facts": [
+        "Famous as a talking cage bird, it is now virtually extinct in Bangladesh because of forest loss and the pet trade.",
+        "Each bird has 3 to 13 call types, learned when young, and birds more than 15 km apart share none.",
+        "Its calls include whistles, wails, screeches and gurgles, often eerily human-like."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_hill_myna"
+      ],
+      "_confidence": "high"
+    },
+    "gracupica-contra": {
+      "season": "resident",
+      "facts": [
+        "A black-and-white myna found in small groups across the Gangetic plains and Bangladesh.",
+        "It builds a messy domed nest of straw with a side entrance, often in a banyan, mango or jackfruit tree near people.",
+        "Linnaeus named it from a 'Contra, from Bengall', though the Bengali name 'contra' was later unknown."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_pied_myna"
+      ],
+      "_confidence": "high"
+    },
+    "acridotheres-tristis": {
+      "season": "resident",
+      "facts": [
+        "Native to South Asia including Bangladesh, it has spread so fast elsewhere that the IUCN lists it among the world's 100 worst invasive species.",
+        "Before settling into communal roosts, flocks call together in a din known as 'communal noise'.",
+        "Its repertoire includes croaks, squawks, chirps, clicks, whistles and growls, often delivered with fluffed feathers and bobbing head."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_myna"
+      ],
+      "_confidence": "high"
+    },
+    "acridotheres-ginginianus": {
+      "season": "resident",
+      "facts": [
+        "Named for its habit of nesting almost only in burrows it digs into earthen riverbanks and embankments, often in big colonies.",
+        "It looks like a common myna but has brick-red, not yellow, bare skin behind the eye.",
+        "A noisy bird whose calls range from clucks and croaks to screeches, whistles and warbles."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Bank_myna"
+      ],
+      "_confidence": "medium"
+    },
+    "acridotheres-fuscus": {
+      "season": "resident",
+      "facts": [
+        "A common resident myna of Bangladesh, recognised by the tuft of feathers on its forehead.",
+        "It was first described from Bengal in 1827.",
+        "It sometimes lines its nest hole with shed snake skins."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Jungle_myna"
+      ],
+      "_confidence": "high"
+    },
+    "copsychus-saularis": {
+      "season": "resident",
+      "facts": [
+        "The national bird of Bangladesh, known as the doyel (দোয়েল).",
+        "It appears on a Bangladeshi currency note, and Doel Chattar (Doel Square) in Dhaka is named after it.",
+        "Famous for its song, it nests in tree hollows or niches in walls and buildings and readily uses nest boxes."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Oriental_magpie-robin"
+      ],
+      "_confidence": "high"
+    },
+    "luscinia-svecica": {
+      "season": "winter",
+      "facts": [
+        "It breeds in boggy birch woods and swamps from Europe to western Alaska and winters in southern Asia, including the Indian subcontinent.",
+        "Besides the male's blue throat, look for the tail: brown with rusty-red patches at the base."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Bluethroat"
+      ],
+      "_confidence": "medium"
+    },
+    "saxicola-maurus": {
+      "season": "winter",
+      "facts": [
+        "It breeds in the eastern Palearctic and the Himalayas and winters in the Old World tropics.",
+        "The male's call is a click like two pebbles knocked together."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Siberian_stonechat"
+      ],
+      "_confidence": "medium"
+    },
+    "dicaeum-cruentatum": {
+      "season": "resident",
+      "facts": [
+        "The tiny male has a bright scarlet stripe running down his back from crown to tail.",
+        "It weaves a pouch-shaped nest with a side entrance, hung from a branch high in a tree."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Scarlet-backed_flowerpecker"
+      ],
+      "_confidence": "medium"
+    },
+    "leptocoma-zeylonica": {
+      "season": "resident",
+      "facts": [
+        "A common resident sunbird of Bangladesh, southern India and Sri Lanka.",
+        "The female alone builds a hanging pouch nest of cobwebs and plant fibres, studded outside with lichen, bark and seeds.",
+        "Males are told from purple sunbirds by their pale underparts."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Purple-rumped_sunbird"
+      ],
+      "_confidence": "high"
+    },
+    "cinnyris-asiaticus": {
+      "season": "resident",
+      "facts": [
+        "It can hover like a hummingbird to sip nectar, though it usually perches at the base of the flower.",
+        "In harsh sunlight the male can look all black; the purple sheen shows in good light.",
+        "It sometimes steals nectar by slitting flowers open at the base."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Purple_sunbird"
+      ],
+      "_confidence": "medium"
+    },
+    "arachnothera-longirostra": {
+      "season": "resident",
+      "facts": [
+        "A long-billed nectar feeder of moist forests; unlike most sunbirds, males and females look alike.",
+        "It hangs its hammock-like nest under a banana leaf with about 150 'pop-rivets' of cobweb and plant fibre, a unique use of spider silk."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Little_spiderhunter"
+      ],
+      "_confidence": "medium"
+    },
+    "ploceus-philippinus": {
+      "season": "resident",
+      "facts": [
+        "The babui (বাবুই) of Bangla, famous for its hanging, retort-shaped nests often hung from palm fronds.",
+        "Males weave the nests from strips of paddy leaves, grasses and palm fronds, making up to 500 trips per nest.",
+        "A long vertical entrance tube leads up to the nest chamber, keeping predators out."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Baya_weaver"
+      ],
+      "_confidence": "high"
+    },
+    "ploceus-benghalensis": {
+      "season": "resident",
+      "facts": [
+        "In Bangla it is the kalo-buk babui (কালোবুক বাবুই), the 'black-breasted weaver'.",
+        "The male builds the nest alone; females visit late in construction, tugging and testing it before choosing a mate.",
+        "His soft courtship song sounds like a cricket or a squeaky, unoiled bicycle wheel."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-breasted_weaver"
+      ],
+      "_confidence": "medium"
+    },
+    "amandava-amandava": {
+      "season": "resident",
+      "facts": [
+        "A tiny finch whose breeding males turn strawberry-red; it breeds in the monsoon.",
+        "Both its scientific name and 'avadavat' come from Ahmedabad, the Indian city from which caged birds were exported.",
+        "It builds a ball-shaped nest of grass blades."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Red_avadavat"
+      ],
+      "_confidence": "high"
+    },
+    "lonchura-punctulata": {
+      "season": "resident",
+      "facts": [
+        "A common munia named for the scale-like markings on its breast and belly; the pet trade calls it the nutmeg mannikin.",
+        "The male's song is so soft it can only be heard close by.",
+        "In courtship, a bird holding nest material flies around in a zigzag path."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Scaly-breasted_munia"
+      ],
+      "_confidence": "high"
+    },
+    "passer-domesticus": {
+      "season": "resident",
+      "facts": [
+        "A small bird that lives alongside people across most of the world.",
+        "Most of its calls are variations on a short chirp, used by males to claim a nest and invite a mate.",
+        "Females and young are plain brown and grey; males have bolder black, white and brown markings."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/House_sparrow"
+      ],
+      "_confidence": "medium"
+    },
+    "motacilla-cinerea": {
+      "season": "winter",
+      "facts": [
+        "Many populations breed in Eurosiberia and migrate to tropical Asia and Africa for the winter.",
+        "In winter it often feeds along roadsides, flushing with a sharp 'chi-cheep', flying ahead and then circling back.",
+        "Breeding males have a black throat; the yellow underneath is limited to the throat and vent."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey_wagtail"
+      ],
+      "_confidence": "medium"
+    },
+    "motacilla-flava": {
+      "season": "winter",
+      "facts": [
+        "Like all wagtails it constantly wags its long tail; most populations migrate to tropical Africa and southern Asia for the winter.",
+        "Breeding males are olive above and yellow below, and the call is a high-pitched 'jeet'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Western_yellow_wagtail"
+      ],
+      "_confidence": "medium"
+    },
+    "motacilla-citreola": {
+      "season": "winter",
+      "facts": [
+        "A small wagtail of wet meadows and bogs that migrates to South Asia for the winter.",
+        "Its scientific name citreola is Latin for 'lemon yellow', after its colouring."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Citrine_wagtail"
+      ],
+      "_confidence": "medium"
+    },
+    "motacilla-alba": {
+      "season": "winter",
+      "facts": [
+        "Asiatic white wagtails migrate to the Middle East, India and Southeast Asia for the winter.",
+        "As many as six subspecies may winter together in India and Southeast Asia, which makes them tricky to tell apart.",
+        "Its call is a sharp 'chissick'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White_wagtail"
+      ],
+      "_confidence": "high"
+    },
+    "anthus-rufulus": {
+      "season": "resident",
+      "facts": [
+        "One of the few pipits that breeds in South Asia; it is non-migratory.",
+        "In the breeding season it sings by repeating a note as it drops from a short, fluttering flight.",
+        "Its usual call is a 'chip-chip-chip', quite different from the winter-visiting pipits."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Paddyfield_pipit"
+      ],
+      "_confidence": "medium"
+    },
+    "emberiza-aureola": {
+      "season": "winter",
+      "facts": [
+        "Once abundant, it has crashed since the early 2000s and is now Critically Endangered.",
+        "The decline is blamed mainly on heavy trapping during migration and on the wintering grounds, especially in China.",
+        "It breeds from Finland to the Bering Sea and winters in southern and southeastern Asia, including India."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Yellow-breasted_bunting"
+      ],
+      "_confidence": "medium"
+    }
+  }
+}

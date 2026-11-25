@@ -1,0 +1,11 @@
+data/cache/
+data/work/
+data/out/
+__pycache__/
+*.pyc
+.venv/
+.gradle/
+.kotlin/
+build/
+app/build/
+local.properties
