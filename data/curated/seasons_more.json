@@ -1,0 +1,3166 @@
+{
+  "_readme": "More seasons + facts for regular BD birds (non-overlapping with seasons_facts.json and overrides.json), drafted by an agent from the cited Wikipedia articles; plus name_sci display fixes (ids unchanged) confirmed from current English Wikipedia titles/taxoboxes. Name-fix-only entries carry just name_sci/_why/_sources. Needs human review.",
+  "species": {
+    "columba-punicea": {
+      "season": "resident",
+      "facts": [
+        "A big, slow-flying pigeon that spends long spells sitting still in the foliage of large fruiting trees.",
+        "Males have a whitish-grey cap; females have a browner cap and less gloss.",
+        "Outside the breeding season it may visit mangroves and small forested islands."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pale-capped_pigeon"
+      ],
+      "_confidence": "medium"
+    },
+    "streptopelia-orientalis": {
+      "season": "winter",
+      "facts": [
+        "Northern populations migrate south to winter in India, while those nearer the tropics stay put.",
+        "It feeds mainly on seeds picked up from the ground.",
+        "Strays have turned up as far away as North America and Europe."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Oriental_turtle_dove"
+      ],
+      "_confidence": "medium"
+    },
+    "streptopelia-decaocto": {
+      "season": "resident",
+      "facts": [
+        "Named for the black half-collar, edged with white, on the back of its neck.",
+        "Its original range ran from Turkey through India; in the 20th century it spread right across Europe.",
+        "It has even reached Iceland as a vagrant."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Eurasian_collared_dove"
+      ],
+      "_confidence": "medium"
+    },
+    "streptopelia-senegalensis": {
+      "season": "resident",
+      "facts": [
+        "A small, long-tailed dove of dry scrub and farmland that often becomes very tame around people.",
+        "In Asia it is often called the little brown dove.",
+        "Birds released from Perth Zoo in 1898 founded a wild population in Western Australia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Laughing_dove"
+      ],
+      "_confidence": "medium"
+    },
+    "treron-bicincta": {
+      "season": "resident",
+      "facts": [
+        "The male has a pinkish band across the upper breast above a broader orange one.",
+        "Feeding flocks move slowly and quietly through the trees, eating mainly small fruit.",
+        "Rival males fight by slapping each other with their wings."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Orange-breasted_green_pigeon"
+      ],
+      "_confidence": "medium"
+    },
+    "treron-phayerei": {
+      "season": "resident",
+      "facts": [
+        "Found from Nepal, northeast India and Bangladesh east to Vietnam.",
+        "Many authorities split it from the pompadour green pigeon complex."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Ashy-headed_green_pigeon"
+      ],
+      "_confidence": "high"
+    },
+    "treron-curvirostra": {
+      "season": "resident",
+      "facts": [
+        "A green pigeon of the eastern subcontinent and Southeast Asia, found across Bangladesh.",
+        "Besides lowland forest it also lives in mangroves."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Thick-billed_green_pigeon"
+      ],
+      "_confidence": "high"
+    },
+    "treron-apicauda": {
+      "season": "resident",
+      "facts": [
+        "Named for its long, pointed central tail feathers.",
+        "Resident in some parts of its range but nomadic in others, following fruiting trees."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pin-tailed_green_pigeon"
+      ],
+      "_confidence": "medium"
+    },
+    "treron-sphenura": {
+      "season": "resident",
+      "facts": [
+        "Also called the kokla green pigeon.",
+        "Its range takes in Bangladesh, the Himalayan foothills and Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Wedge-tailed_green_pigeon"
+      ],
+      "_confidence": "medium"
+    },
+    "ducula-aenea": {
+      "season": "resident",
+      "facts": [
+        "A large forest pigeon, widespread as a resident from Nepal and India east to Indonesia and the Philippines.",
+        "The distinctive Sulawesi form is known as the chestnut-naped imperial pigeon."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Green_imperial_pigeon"
+      ],
+      "_confidence": "medium"
+    },
+    "ducula-badia": {
+      "season": "resident",
+      "facts": [
+        "Also called the maroon-backed or Hodgson's imperial pigeon.",
+        "It occurs in Bangladesh and across Southeast Asia, from mangroves at sea level up to 2,550 m in the Himalayas."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Mountain_imperial_pigeon"
+      ],
+      "_confidence": "medium"
+    },
+    "batrachostomus-hodgsoni": {
+      "season": "resident",
+      "facts": [
+        "A nocturnal frogmouth related to the nightjars; both have bristles around the bill.",
+        "It is named after the British naturalist Brian Houghton Hodgson."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Hodgson's_frogmouth"
+      ],
+      "_confidence": "medium"
+    },
+    "eurostopodus-macrotis": {
+      "season": "resident",
+      "facts": [
+        "A very large nightjar with long ear-tufts, which it often keeps laid flat.",
+        "Unlike many nightjars it has no white on its wings or tail."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Great_eared_nightjar"
+      ],
+      "_confidence": "medium"
+    },
+    "caprimulgus-asiaticus": {
+      "season": "resident",
+      "facts": [
+        "Its call at dawn and dusk is likened to a stone skipping on a frozen lake: clicks that get shorter and faster.",
+        "It is often seen on roads at night, its eyes glowing red in headlights.",
+        "It builds no nest, laying two marbled eggs on the bare ground."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_nightjar"
+      ],
+      "_confidence": "medium"
+    },
+    "caprimulgus-affinis": {
+      "season": "resident",
+      "facts": [
+        "A nocturnal bird with big eyes, a huge gape and superb camouflage.",
+        "In growing Asian cities, the flat roofs of tall buildings have become favourite nest sites."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Savanna_nightjar"
+      ],
+      "_confidence": "medium"
+    },
+    "burhinus-indicus": {
+      "season": "resident",
+      "facts": [
+        "Streaky brown camouflage makes it very hard to spot against soil and stones.",
+        "Mostly active after dark; its calls resemble those of curlews, hence the name stone-curlew."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_stone-curlew"
+      ],
+      "_confidence": "medium"
+    },
+    "recurvirostra-avosetta": {
+      "season": "winter",
+      "facts": [
+        "Easily known by its long, upturned bill and bold black-and-white plumage.",
+        "It usually nests in colonies of 10 to 70 pairs on islets or dikes."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pied_avocet"
+      ],
+      "_confidence": "medium"
+    },
+    "pluvialis-squatarola": {
+      "season": "winter",
+      "facts": [
+        "A large plover that breeds in the Arctic and is a long-distance migrant.",
+        "Outside the breeding season it is found on coasts almost worldwide."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey_plover"
+      ],
+      "_confidence": "medium"
+    },
+    "vanellus-vanellus": {
+      "season": "winter",
+      "facts": [
+        "Also called the peewit after its call.",
+        "Highly migratory, it winters as far south as northern India and Nepal.",
+        "In the breeding season the male performs a crazed, tumbling display flight."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Northern_lapwing"
+      ],
+      "_confidence": "medium"
+    },
+    "vanellus-duvaucelii": {
+      "season": "resident",
+      "facts": [
+        "A lapwing of rivers in northern and northeastern India and Southeast Asia that appears to be entirely sedentary.",
+        "It used to be called the spur-winged lapwing, a name now kept for an African species."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/River_lapwing"
+      ],
+      "_confidence": "medium"
+    },
+    "vanellus-leucurus": {
+      "season": "winter",
+      "facts": [
+        "Russian breeders migrate south to winter in the Indian subcontinent, the Middle East and northeast Africa.",
+        "It is the only lapwing likely to be seen wading in anything but very shallow water.",
+        "Long yellow legs and a pure white tail make it distinctive."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White-tailed_lapwing"
+      ],
+      "_confidence": "medium"
+    },
+    "charadrius-leschenaultii": {
+      "season": "winter",
+      "facts": [
+        "A strongly migratory plover that breeds in Central Asian semi-deserts and winters on sandy beaches in South Asia, East Africa and Australasia.",
+        "In mixed flocks on Indian beaches it is told from the smaller sand plover by size and shape.",
+        "It was until recently placed in the genus Charadrius."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Greater_sand_plover"
+      ],
+      "_confidence": "medium"
+    },
+    "limosa-lapponica": {
+      "season": "winter",
+      "facts": [
+        "Some birds of the European race fly as far as India for the winter.",
+        "Alaskan birds fly non-stop across the Pacific to New Zealand: the longest known non-stop flight of any bird.",
+        "It probes coastal mudflats with its long, upturned bill for worms and shellfish."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Bar-tailed_godwit"
+      ],
+      "_confidence": "medium"
+    },
+    "arenaria-interpres": {
+      "season": "winter",
+      "facts": [
+        "Breeds in the far north and flies south to winter on coastlines almost worldwide, including South Asia.",
+        "It was once placed with the plovers but is now classed as a sandpiper."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Ruddy_turnstone"
+      ],
+      "_confidence": "medium"
+    },
+    "calidris-tenuirostris": {
+      "season": "winter",
+      "facts": [
+        "One of the largest Calidris sandpipers; it breeds on Siberian tundra and winters on coasts from southern Asia to Australia.",
+        "It forms enormous flocks in winter."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Great_knot"
+      ],
+      "_confidence": "medium"
+    },
+    "calidris-canutus": {
+      "season": "winter",
+      "facts": [
+        "It has one of the longest migrations of any bird; some American birds fly more than 9,000 miles from the Arctic to the tip of South America.",
+        "Some birds winter on the mudflats of the Gulf of Mannar and the east coast of India.",
+        "Away from the breeding grounds it feeds mostly on hard-shelled molluscs."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Red_knot"
+      ],
+      "_confidence": "medium"
+    },
+    "calidris-falcinellus": {
+      "season": "winter",
+      "facts": [
+        "Its name comes from the Latin for 'a small sickle'.",
+        "It breeds in Arctic bogs and winters from East Africa through South Asia to Australasia, often flocking with dunlins."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Broad-billed_sandpiper"
+      ],
+      "_confidence": "medium"
+    },
+    "calidris-ferruginea": {
+      "season": "winter",
+      "facts": [
+        "It breeds only on the Siberian high Arctic tundra, arriving in June and leaving by August or September.",
+        "First-year birds stay in the wintering range all year rather than flying north to breed.",
+        "Habitat loss has made it Vulnerable on the IUCN Red List."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Curlew_sandpiper"
+      ],
+      "_confidence": "medium"
+    },
+    "calidris-temminckii": {
+      "season": "winter",
+      "facts": [
+        "Named after the Dutch naturalist Coenraad Jacob Temminck.",
+        "It winters at freshwater sites in tropical Africa, the Indian subcontinent and Southeast Asia.",
+        "In winter it looks like a tiny common sandpiper."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Temminck's_stint"
+      ],
+      "_confidence": "medium"
+    },
+    "calidris-subminuta": {
+      "season": "winter",
+      "facts": [
+        "A tiny stint that breeds in Siberia and winters in South and Southeast Asia and Australasia.",
+        "Its name subminuta means 'nearly small', after its likeness to the little stint."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Long-toed_stint"
+      ],
+      "_confidence": "medium"
+    },
+    "calidris-alba": {
+      "season": "winter",
+      "facts": [
+        "One of the most northerly breeding birds in the world, nesting only on the coldest Arctic tundra.",
+        "In the northern winter it is found on sea coasts almost worldwide, often in large flocks.",
+        "Migrating birds in the Delaware Bay eat large numbers of horseshoe crab eggs."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Sanderling"
+      ],
+      "_confidence": "medium"
+    },
+    "calidris-alpina": {
+      "season": "winter",
+      "facts": [
+        "Its name is a dialect form of 'dunling', from dun, meaning dull brown.",
+        "Birds breeding in far northern Europe and Asia are long-distance migrants, wintering as far south as Africa and southern Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Dunlin"
+      ],
+      "_confidence": "medium"
+    },
+    "calidris-minuta": {
+      "season": "winter",
+      "facts": [
+        "A very small wader that breeds in the Arctic and winters south to Africa and South Asia.",
+        "In winter it forms flocks with other small waders on mudflats and the edges of pools."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Little_stint"
+      ],
+      "_confidence": "medium"
+    },
+    "lymnocryptes-minimus": {
+      "season": "winter",
+      "facts": [
+        "The smallest snipe, and the only member of its genus.",
+        "It constantly bobs up and down as it feeds.",
+        "It winters as far as India and is silent in winter."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Jack_snipe"
+      ],
+      "_confidence": "medium"
+    },
+    "scolopax-rusticola": {
+      "season": "winter",
+      "facts": [
+        "Its eyes are set so far back on its head that it can see all the way around, 360 degrees.",
+        "Asian populations migrate to the Indian subcontinent for the winter.",
+        "It probes the ground with its long, sensitive bill, so frozen ground makes it vulnerable."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Eurasian_woodcock"
+      ],
+      "_confidence": "medium"
+    },
+    "gallinago-solitaria": {
+      "season": "winter",
+      "facts": [
+        "A stocky snipe that breeds in the mountains of eastern Asia.",
+        "Some birds stay high in the mountains year-round, but others migrate to winter in places including northern India and Bangladesh."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Solitary_snipe"
+      ],
+      "_confidence": "high"
+    },
+    "gallinago-nemoricola": {
+      "season": "vagrant",
+      "facts": [
+        "A dark snipe that breeds in Himalayan alpine meadows above 3,000 m from May to July.",
+        "In winter it moves lower; it has been recorded as a vagrant in Bangladesh."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Wood_snipe"
+      ],
+      "_confidence": "high"
+    },
+    "gallinago-stenura": {
+      "season": "winter",
+      "facts": [
+        "Breeds in northern Russia and spends the non-breeding season in southern Asia from Pakistan to Indonesia.",
+        "It is the most common migrant snipe in southern India, Sri Lanka and much of Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pin-tailed_snipe"
+      ],
+      "_confidence": "medium"
+    },
+    "gallinago-megala": {
+      "season": "winter",
+      "facts": [
+        "Also called the forest snipe; it breeds in forest glades and meadows in Siberia and Mongolia.",
+        "The whole population migrates, wintering mainly in eastern and southern India, Southeast Asia and New Guinea.",
+        "Named after the British naturalist Robert Swinhoe, who described it in 1861."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Swinhoe's_snipe"
+      ],
+      "_confidence": "medium"
+    },
+    "tringa-ochropus": {
+      "season": "winter",
+      "facts": [
+        "Unlike most sandpipers it nests in trees.",
+        "It winters in the Indian subcontinent, among other places, and is very much a bird of freshwater.",
+        "It is not gregarious and usually feeds alone around the edges of ponds."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Green_sandpiper"
+      ],
+      "_confidence": "medium"
+    },
+    "tringa-erythropus": {
+      "season": "winter",
+      "facts": [
+        "Black in breeding plumage but very pale in winter.",
+        "It breeds in the Arctic and migrates to tropical Asia, Africa and the Mediterranean for the winter."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Spotted_redshank"
+      ],
+      "_confidence": "medium"
+    },
+    "tringa-stagnatilis": {
+      "season": "winter",
+      "facts": [
+        "Its name stagnatilis comes from the Latin for 'swamp'.",
+        "Most birds winter in Africa and India, usually alone or in small groups on freshwater wetlands.",
+        "In flight it shows a white wedge up its back."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Marsh_sandpiper"
+      ],
+      "_confidence": "medium"
+    },
+    "glareola-maldivarum": {
+      "season": "summer",
+      "facts": [
+        "Also called the grasshopper-bird or swallow-plover.",
+        "It breeds from northern Pakistan through South and East Asia and winters across the Indomalayan region and northern Australia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Oriental_pratincole"
+      ],
+      "_confidence": "medium"
+    },
+    "glareola-lactea": {
+      "season": "resident",
+      "facts": [
+        "A resident breeder in India, Bangladesh and Southeast Asia.",
+        "It nests from December to March on gravel or sand banks by rivers, laying 2–4 eggs in a ground scrape."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Small_pratincole"
+      ],
+      "_confidence": "high"
+    },
+    "gelochelidon-nilotica": {
+      "season": "winter",
+      "facts": [
+        "Northern breeders are strongly migratory, wintering south to southern Asia, Africa and the Americas.",
+        "In winter it loses its black cap, keeping only a dark patch through the eye."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Gull-billed_tern"
+      ],
+      "_confidence": "medium"
+    },
+    "sterna-hirundo": {
+      "season": "winter",
+      "facts": [
+        "Breeding adults have a black cap, orange-red legs and a narrow pointed bill.",
+        "Western Asian birds winter in the northern Indian Ocean.",
+        "First-summer birds usually stay in their wintering quarters instead of flying north."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_tern"
+      ],
+      "_confidence": "medium"
+    },
+    "thalasseus-sandvicensis": {
+      "season": "winter",
+      "facts": [
+        "Birds breeding on the Caspian Sea migrate to the Indian subcontinent, south to Sri Lanka.",
+        "Its black bill has a yellow tip, and it has a shaggy black crest."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Sandwich_tern"
+      ],
+      "_confidence": "medium"
+    },
+    "thalasseus-bengalensis": {
+      "season": "winter",
+      "facts": [
+        "Its name bengalensis means 'of Bengal', the place it was first described from.",
+        "It breeds on coasts from the Red Sea across the Indian Ocean to Australia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Lesser_crested_tern"
+      ],
+      "_confidence": "medium"
+    },
+    "ixobrychus-sinensis": {
+      "season": "resident",
+      "facts": [
+        "A small bittern of freshwater marshes, mainly resident in the northern Indian subcontinent and East Asia.",
+        "It builds a small platform nest of reeds or twigs above water."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Yellow_bittern"
+      ],
+      "_confidence": "medium"
+    },
+    "ixobrychus-flavicollis": {
+      "season": "resident",
+      "facts": [
+        "A dark bittern breeding in tropical Asia, including Bangladesh, east to China and Australia.",
+        "It is mainly resident, but some northern birds migrate short distances."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black_bittern"
+      ],
+      "_confidence": "high"
+    },
+    "ardea-intermedia": {
+      "season": "resident",
+      "facts": [
+        "A medium-sized egret that is a resident breeder in southern and eastern Asia.",
+        "Some taxonomists put it in the genus Egretta or Mesophoyx instead of Ardea."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Medium_egret"
+      ],
+      "_confidence": "medium"
+    },
+    "gorsachius-melanolophus": {
+      "season": "resident",
+      "facts": [
+        "Also called the tiger bittern, it lives in forests, streams and marshes.",
+        "It has been found in Bangladesh and across South and East Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Malayan_night_heron"
+      ],
+      "_confidence": "medium"
+    },
+    "pernis-ptilorhynchus": {
+      "season": "resident",
+      "facts": [
+        "It feeds mainly on the larvae of bees and wasps, which it tears from their combs.",
+        "Northern birds breed in Siberia and Japan and winter in Southeast Asia and the Indian subcontinent; elsewhere it is more or less resident.",
+        "Japanese birds fly non-stop over the East China Sea on migration."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Crested_honey_buzzard"
+      ],
+      "_confidence": "medium"
+    },
+    "aviceda-jerdoni": {
+      "season": "resident",
+      "facts": [
+        "A brown hawk with a thin, white-tipped black crest that it usually holds erect.",
+        "A resident of foothill forests from the eastern Himalayas to Bangladesh and Southeast Asia.",
+        "Named after the surgeon-naturalist Thomas C. Jerdon."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Jerdon's_baza"
+      ],
+      "_confidence": "high"
+    },
+    "aviceda-leuphotes": {
+      "season": "winter",
+      "facts": [
+        "A small, crested raptor of dense forest that often perches on bare branches above the canopy.",
+        "Many populations migrate; in flight it looks rather like a crow and is often seen in small flocks."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black_baza"
+      ],
+      "_confidence": "medium"
+    },
+    "gyps-indicus": {
+      "season": "resident",
+      "facts": [
+        "A keystone scavenger that has been Critically Endangered since 2002 after a severe population crash.",
+        "It is not migratory but can travel hundreds of miles in a day searching for food.",
+        "Unlike the slender-billed vulture, it nests mainly on cliffs."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_vulture"
+      ],
+      "_confidence": "medium"
+    },
+    "gyps-tenuirostris": {
+      "season": "resident",
+      "facts": [
+        "Critically Endangered: fewer than 870 mature birds were thought to remain in 2021.",
+        "It is found in north and central Bangladesh and nests in trees, unlike the cliff-nesting Indian vulture.",
+        "It is sedentary and does not migrate."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Slender-billed_vulture"
+      ],
+      "_confidence": "high"
+    },
+    "clanga-hastata": {
+      "season": "resident",
+      "facts": [
+        "Native to Bangladesh, India, Nepal, Myanmar and Cambodia, in farmland and dry forest.",
+        "It was long treated as a race of the lesser spotted eagle and only recognised as a separate species in 2006."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_spotted_eagle"
+      ],
+      "_confidence": "high"
+    },
+    "clanga-clanga": {
+      "season": "winter",
+      "facts": [
+        "A large migratory eagle that winters mainly in South and Southeast Asia, the Middle East and East Africa.",
+        "Birds wintering in India average about 5% bigger than those wintering in the Middle East.",
+        "It was once placed in the genus Aquila."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Greater_spotted_eagle"
+      ],
+      "_confidence": "medium"
+    },
+    "hieraaetus-pennatus": {
+      "season": "winter",
+      "facts": [
+        "Northern populations migrate, spending November to February in sub-Saharan Africa and South Asia.",
+        "On migration it uses almost any habitat except dense forest."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Booted_eagle"
+      ],
+      "_confidence": "medium"
+    },
+    "aquila-nipalensis": {
+      "season": "winter",
+      "facts": [
+        "Almost the whole population migrates en masse each year, and in winter it reaches much of the Indian subcontinent.",
+        "In winter it feeds sluggishly, focusing on insect swarms and landfills.",
+        "It was once lumped with the tawny eagle."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Steppe_eagle"
+      ],
+      "_confidence": "medium"
+    },
+    "butastur-teesa": {
+      "season": "resident",
+      "facts": [
+        "A hawk with a striking white iris, a rufous tail and a white throat with a dark central stripe.",
+        "A resident in Bangladesh, Pakistan, Nepal, Myanmar and across India's plains.",
+        "It sits upright on perches for long periods; pairs call a lot as they soar together in the breeding season."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White-eyed_buzzard"
+      ],
+      "_confidence": "high"
+    },
+    "circus-spilonotus": {
+      "season": "winter",
+      "facts": [
+        "Breeds in northeast China, Mongolia and southeast Siberia and winters in places including northeast India and Bangladesh.",
+        "It was previously lumped with the western marsh harrier."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Eastern_marsh_harrier"
+      ],
+      "_confidence": "high"
+    },
+    "circus-macrourus": {
+      "season": "winter",
+      "facts": [
+        "Breeds on the steppes of eastern Europe and Central Asia and winters mainly in India and Southeast Asia.",
+        "A pair nested in a Dutch barley field in 2017, the first known breeding in the Netherlands."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pallid_harrier"
+      ],
+      "_confidence": "medium"
+    },
+    "circus-melanoleucos": {
+      "season": "winter",
+      "facts": [
+        "Named for the male's distinctive black-and-white plumage.",
+        "It breeds from Lake Baikal to North Korea and winters from eastern India through Southeast Asia, hunting over paddy fields and swamps."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pied_harrier"
+      ],
+      "_confidence": "medium"
+    },
+    "accipiter-trivirgatus": {
+      "season": "resident",
+      "facts": [
+        "A crested hawk of tropical Asian lowlands that stays put all year.",
+        "It was formerly placed in the genus Accipiter and is now Lophospiza trivirgata."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Crested_goshawk"
+      ],
+      "_confidence": "medium"
+    },
+    "accipiter-virgatus": {
+      "season": "resident",
+      "facts": [
+        "Its name 'besra' comes from the Hindi word for this bird.",
+        "A resident of dense forest across southern Asia; it builds a new nest every year.",
+        "In winter it ventures into more open woodland and cultivation."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Besra"
+      ],
+      "_confidence": "medium"
+    },
+    "haliaeetus-humilis": {
+      "season": "resident",
+      "facts": [
+        "A fish eagle seen most often along hill streams and fast-flowing water.",
+        "Its range takes in Bangladesh, Nepal and Southeast Asia.",
+        "In northern India it breeds from March to August."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Lesser_fish_eagle"
+      ],
+      "_confidence": "medium",
+      "name_sci": "Icthyophaga humilis",
+      "_why": "English Wikipedia lead and taxobox (genus = Icthyophaga) use Icthyophaga humilis."
+    },
+    "tyto-longimembris": {
+      "season": "resident",
+      "facts": [
+        "It lives in tall grassland and swamps, roosting in flattened 'tunnels' through the vegetation.",
+        "It feeds mainly on small rodents."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Eastern_grass_owl"
+      ],
+      "_confidence": "medium"
+    },
+    "otus-spilocephalus": {
+      "season": "resident",
+      "facts": [
+        "An altitudinal migrant of hill forests from Pakistan and the Himalayas to Malaysia.",
+        "Its call is a short, high, two-note whistle, 'plew-plew'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Mountain_scops_owl"
+      ],
+      "_confidence": "medium"
+    },
+    "otus-bakkamoena": {
+      "season": "resident",
+      "facts": [
+        "A small scops owl found from eastern Arabia through the Indian subcontinent.",
+        "It is very similar to the slightly larger collared scops owl."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_scops_owl"
+      ],
+      "_confidence": "medium"
+    },
+    "otus-sunia": {
+      "season": "resident",
+      "facts": [
+        "A scops owl with a very wide range across South, Southeast and East Asia.",
+        "It nests in tree holes, especially in mahua trees, from February to April."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Oriental_scops_owl"
+      ],
+      "_confidence": "medium"
+    },
+    "bubo-bengalensis": {
+      "season": "resident",
+      "facts": [
+        "A big horned owl of rocky, scrubby hills in the Indian subcontinent, usually seen in pairs.",
+        "Its deep, booming call carries at dawn and dusk.",
+        "It was once treated as a race of the Eurasian eagle-owl."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_eagle-owl"
+      ],
+      "_confidence": "medium"
+    },
+    "bubo-nipalensis": {
+      "season": "resident",
+      "facts": [
+        "Also called the forest eagle-owl, a formidable-looking owl of old forests in the Indian subcontinent and Southeast Asia.",
+        "It is now placed in the genus Ketupa."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Spot-bellied_eagle-owl"
+      ],
+      "_confidence": "medium"
+    },
+    "bubo-coromandus": {
+      "season": "resident",
+      "facts": [
+        "Found from Pakistan, India, Nepal and Bangladesh east to China.",
+        "It lives in forests, wooded wetlands and even roadside avenues of big old trees.",
+        "Its scientific name comes from the Coromandel Coast, where the first specimen was collected."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Dusky_eagle-owl"
+      ],
+      "_confidence": "high"
+    },
+    "ketupa-flavipes": {
+      "season": "resident",
+      "facts": [
+        "A fish owl of forest tracts with mountain streams, from southern Nepal to Bangladesh, China and Vietnam.",
+        "In India it breeds from November to February."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Tawny_fish_owl"
+      ],
+      "_confidence": "high"
+    },
+    "taenioptynx-brodiei": {
+      "season": "resident",
+      "facts": [
+        "The smallest owl in Asia, just 15 cm long and about 60 g.",
+        "A resident of hill and mountain forests from the Himalayas to eastern China and Malaysia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Collared_owlet"
+      ],
+      "_confidence": "medium"
+    },
+    "glaucidium-cuculoides": {
+      "season": "resident",
+      "facts": [
+        "Also called the cuckoo owlet; one of the larger pygmy owls.",
+        "Mostly insectivorous, it also takes lizards, small rodents and birds.",
+        "The race rufescens lives in northeast India, Bangladesh and north Myanmar."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Asian_barred_owlet"
+      ],
+      "_confidence": "high"
+    },
+    "glaucidium-radiatum": {
+      "season": "resident",
+      "facts": [
+        "A small owlet of the Indian subcontinent, usually found by its calls at dawn and dusk.",
+        "It nests in tree hollows, breeding from March to May in India."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Jungle_owlet"
+      ],
+      "_confidence": "medium"
+    },
+    "strix-leptogrammica": {
+      "season": "resident",
+      "facts": [
+        "An earless owl found in India, Bangladesh, Sri Lanka and east to China and Indonesia.",
+        "It is uniformly dark brown above with a brown or rufous facial disc."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Brown_wood_owl"
+      ],
+      "_confidence": "high"
+    },
+    "ninox-scutulata": {
+      "season": "resident",
+      "facts": [
+        "Also known as the brown hawk-owl; a resident breeder in India, Bangladesh and across tropical South Asia.",
+        "It is common even in towns and cities like Colombo.",
+        "A stray was photographed on St. Paul Island, Alaska, in 2007."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Brown_boobook"
+      ],
+      "_confidence": "high"
+    },
+    "alcedo-meninting": {
+      "season": "resident",
+      "facts": [
+        "A kingfisher of shaded forest streams, darker than the common kingfisher and lacking its rufous ear stripe.",
+        "Males have an all-dark bill; females have a reddish lower mandible.",
+        "It ranges from India across Bangladesh to Malaysia and is largely resident."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Blue-eared_kingfisher"
+      ],
+      "_confidence": "high"
+    },
+    "ceyx-erithacus": {
+      "season": "resident",
+      "facts": [
+        "A pocket-sized forest kingfisher, also called the three-toed kingfisher.",
+        "Its breeding range includes eastern Bangladesh; some birds migrate south to the Malay Peninsula in winter.",
+        "Linnaeus described it from 'the small kingfisher from Bengall'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-backed_dwarf_kingfisher"
+      ],
+      "_confidence": "medium"
+    },
+    "psilopogon-duvaucelii": {
+      "season": "resident",
+      "facts": [
+        "A resident barbet of hill forests; the race cyanotis lives from southeastern Nepal and Bangladesh to southern China.",
+        "It nests in tree cavities."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Blue-eared_barbet"
+      ],
+      "_confidence": "high"
+    },
+    "psilopogon-virens": {
+      "season": "resident",
+      "facts": [
+        "A large barbet of forests up to 3,000 m.",
+        "A resident of the Himalayas and hills of Bangladesh and Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Great_barbet"
+      ],
+      "_confidence": "high"
+    },
+    "psilopogon-lineatus": {
+      "season": "resident",
+      "facts": [
+        "A fruit-eating barbet of the Terai and the Brahmaputra basin to Southeast Asia.",
+        "It nests in holes in tree trunks."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Lineated_barbet"
+      ],
+      "_confidence": "medium"
+    },
+    "jynx-torquilla": {
+      "season": "winter",
+      "facts": [
+        "A member of the woodpecker family whose bill is shorter and less dagger-like than other woodpeckers'.",
+        "Most populations migrate, wintering in tropical Africa and in southern Asia from Iran to the Indian subcontinent."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Eurasian_wryneck"
+      ],
+      "_confidence": "medium"
+    },
+    "picumnus-innominatus": {
+      "season": "resident",
+      "facts": [
+        "A tiny woodpecker found across the subcontinent and Southeast Asia, including Bangladesh.",
+        "It often forages in bamboo jungle."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Speckled_piculet"
+      ],
+      "_confidence": "high"
+    },
+    "sasia-ochracea": {
+      "season": "resident",
+      "facts": [
+        "A tiny woodpecker of dense forest with vines and bamboo, from northern India and Bangladesh to Vietnam.",
+        "It is fairly common, with no particular known threats."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White-browed_piculet"
+      ],
+      "_confidence": "high"
+    },
+    "yungipicus-canicapillus": {
+      "season": "resident",
+      "facts": [
+        "A small, dark pied woodpecker with dark eyes; males have a red nape.",
+        "Its range extends from the Himalayas and Manchuria to Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey-capped_pygmy_woodpecker"
+      ],
+      "_confidence": "medium"
+    },
+    "dendrocopos-macei": {
+      "season": "resident",
+      "facts": [
+        "A pied woodpecker found in Bangladesh, Bhutan, Nepal, India and Myanmar.",
+        "The freckle-breasted woodpecker of Southeast Asia used to be lumped with it."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Fulvous-breasted_woodpecker"
+      ],
+      "_confidence": "high"
+    },
+    "dendrocopos-hyperythrus": {
+      "season": "resident",
+      "facts": [
+        "It drills rows of small pits in tree bark, which is why it was once grouped with the sapsuckers.",
+        "Generally uncommon; it has vanished from parts of its range as deciduous forest has been cleared."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Rufous-bellied_woodpecker"
+      ],
+      "_confidence": "medium"
+    },
+    "blythipicus-pyrrhotis": {
+      "season": "resident",
+      "facts": [
+        "A woodpecker of densely wooded ravines in evergreen and mixed forest, from 50 m up to 2,750 m.",
+        "Bangladesh is among the countries where it is most commonly found."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Bay_woodpecker"
+      ],
+      "_confidence": "high"
+    },
+    "chrysocolaptes-guttacristatus": {
+      "season": "resident",
+      "facts": [
+        "Also called the greater goldenback; it is widespread from the northern subcontinent to Borneo and Java."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Greater_flameback"
+      ],
+      "_confidence": "medium"
+    },
+    "micropternus-brachyurus": {
+      "season": "resident",
+      "facts": [
+        "A brown woodpecker that feeds mainly on ants and termites.",
+        "It builds its nest inside the carton nests of tree ants.",
+        "It breeds in the dry pre-monsoon period from February to June."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Rufous_woodpecker"
+      ],
+      "_confidence": "medium"
+    },
+    "gecinulus-grantia": {
+      "season": "resident",
+      "facts": [
+        "A bamboo specialist found in Bangladesh, northeast India and Southeast Asia.",
+        "A 2017 DNA study found it actually sits inside the flameback genus Dinopium."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pale-headed_woodpecker"
+      ],
+      "_confidence": "high"
+    },
+    "dinopium-shorii": {
+      "season": "resident",
+      "facts": [
+        "Also called the Himalayan goldenback; very little is known about it.",
+        "A year-round resident of mature sal and semi-evergreen forests in Bangladesh, Bhutan, India, Myanmar and Nepal."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Himalayan_flameback"
+      ],
+      "_confidence": "high"
+    },
+    "dinopium-javanense": {
+      "season": "resident",
+      "facts": [
+        "A three-toed woodpecker of South and Southeast Asia.",
+        "Shy and secretive, it lives in open forest, scrub and mangroves but avoids towns."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_flameback"
+      ],
+      "_confidence": "medium"
+    },
+    "picus-chlorolophus": {
+      "season": "resident",
+      "facts": [
+        "A widespread and often common woodpecker from India and Bangladesh east to Indonesia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Lesser_yellownape"
+      ],
+      "_confidence": "high"
+    },
+    "picus-viridanus": {
+      "season": "resident",
+      "facts": [
+        "Found from far southeastern Bangladesh to the central Malay Peninsula, in lowland forest and mangroves.",
+        "The only Bangladesh specimen of the laced woodpecker turned out to be one of these."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Streak-breasted_woodpecker"
+      ],
+      "_confidence": "high"
+    },
+    "picus-canus": {
+      "season": "resident",
+      "facts": [
+        "Its range runs from Europe across Asia to the Pacific and south to the Himalaya and Malay Peninsula.",
+        "In late autumn it adds berries and other fruit to its diet."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey-headed_woodpecker"
+      ],
+      "_confidence": "medium"
+    },
+    "chrysophlegma-flavinucha": {
+      "season": "resident",
+      "facts": [
+        "A big woodpecker with a yellow crest, found from northern and eastern India to southeastern China and Sumatra."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Greater_yellownape"
+      ],
+      "_confidence": "medium"
+    },
+    "mulleripicus-pulverulentus": {
+      "season": "resident",
+      "facts": [
+        "Probably the largest woodpecker still alive, since the imperial and ivory-billed woodpeckers are likely extinct.",
+        "It lives in Bangladesh and across the subcontinent and Southeast Asia, in semi-open forest with tall trees.",
+        "Young birds probably stay with their parents until the next breeding season."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Great_slaty_woodpecker"
+      ],
+      "_confidence": "high"
+    },
+    "microhierax-caerulescens": {
+      "season": "resident",
+      "facts": [
+        "A tiny falcon only 18 cm long; when perched it looks rather like a shrike.",
+        "It flies with rapid wingbeats broken by long glides.",
+        "It was first described from a specimen collected in Bengal."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Collared_falconet"
+      ],
+      "_confidence": "high"
+    },
+    "microhierax-melanoleucus": {
+      "season": "resident",
+      "facts": [
+        "Its genus contains the smallest birds of prey in the world.",
+        "It nests in old woodpecker holes and stays in the same area all year."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pied_falconet"
+      ],
+      "_confidence": "high"
+    },
+    "falco-chicquera": {
+      "season": "resident",
+      "facts": [
+        "A falcon with a chestnut-red cap, found in open plains of the Indian subcontinent and in Africa.",
+        "It was described from a specimen obtained at Chandernagore in Bengal, where locals called it 'chicquera'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Red-necked_falcon"
+      ],
+      "_confidence": "medium"
+    },
+    "falco-amurensis": {
+      "season": "passage",
+      "facts": [
+        "It breeds in southeastern Siberia and northern China and migrates in big flocks across India and the Arabian Sea to winter in southern Africa.",
+        "Birds crossing India are thought to ride strong westward winds at about 3,000 m."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Amur_falcon"
+      ],
+      "_confidence": "medium"
+    },
+    "falco-subbuteo": {
+      "season": "winter",
+      "facts": [
+        "A small, slim falcon; the nominate race winters in Africa and South Asia.",
+        "A smaller race is resident from Myanmar to south China."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Eurasian_hobby"
+      ],
+      "_confidence": "medium"
+    },
+    "falco-jugger": {
+      "season": "resident",
+      "facts": [
+        "Found across the Indian subcontinent, including Bangladesh.",
+        "Once one of the region's commonest falcons, it has declined because of pesticides and its use as a decoy to trap larger falcons."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Laggar_falcon"
+      ],
+      "_confidence": "high"
+    },
+    "falco-peregrinus": {
+      "season": "winter",
+      "facts": [
+        "Famous for its speed; its English and scientific names mean 'wandering falcon'.",
+        "The northern race calidus is completely migratory and winters as far south as South Asia.",
+        "The South Asian race peregrinator is known as the shaheen falcon."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Peregrine_falcon"
+      ],
+      "_confidence": "medium"
+    },
+    "orthotomus-atrogularis": {
+      "season": "resident",
+      "facts": [
+        "A tailorbird of lowland forest and mangroves in Bangladesh, northeast India and Southeast Asia.",
+        "It is often kept as a pet."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Dark-necked_tailorbird"
+      ],
+      "_confidence": "high"
+    },
+    "prinia-rufescens": {
+      "season": "resident",
+      "facts": [
+        "The nominate race lives in east and northeast India, Bhutan, Bangladesh, south China and Myanmar."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Rufescent_prinia"
+      ],
+      "_confidence": "high"
+    },
+    "prinia-hodgsonii": {
+      "season": "resident",
+      "facts": [
+        "Easily told by a smoky-grey band across the breast that contrasts with its white throat.",
+        "It loses the breast band outside the breeding season.",
+        "The nominate race is resident from the Gangetic plains east to Bangladesh."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey-breasted_prinia"
+      ],
+      "_confidence": "high"
+    },
+    "prinia-sylvatica": {
+      "season": "resident",
+      "facts": [
+        "A resident breeder in Bangladesh, India and Sri Lanka, in dry grassland, scrub and sometimes gardens.",
+        "The sexes look alike, but in the breeding season the male has a blacker bill and mouth."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Jungle_prinia"
+      ],
+      "_confidence": "high"
+    },
+    "prinia-flaviventris": {
+      "season": "resident",
+      "facts": [
+        "A prinia of the southern Himalayan foothills, the northeastern subcontinent and Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Yellow-bellied_prinia"
+      ],
+      "_confidence": "medium"
+    },
+    "prinia-socialis": {
+      "season": "resident",
+      "facts": [
+        "A common resident of gardens and farmland across the subcontinent, including Bangladesh.",
+        "Its small size, upright tail and ashy-grey colours make it easy to identify."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Ashy_prinia"
+      ],
+      "_confidence": "high"
+    },
+    "cisticola-exilis": {
+      "season": "resident",
+      "facts": [
+        "Known as the 'finest tailor of all birds', it stitches its nest from plants and spider silk.",
+        "In the breeding season the male turns golden and grows a much shorter tail."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Golden-headed_cisticola"
+      ],
+      "_confidence": "medium"
+    },
+    "arundinax-aedon": {
+      "season": "winter",
+      "facts": [
+        "A big warbler, nearly as large as the great reed warbler, that breeds from south Siberia to Mongolia.",
+        "It winters in tropical South and Southeast Asia, in reeds, bushes and thick undergrowth."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Thick-billed_warbler"
+      ],
+      "_confidence": "medium"
+    },
+    "iduna-caligata": {
+      "season": "winter",
+      "facts": [
+        "Breeds from central Russia to western China and winters in the Indian subcontinent as far south as Sri Lanka.",
+        "It has spread west in recent decades and now nests as far as Finland."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Booted_warbler"
+      ],
+      "_confidence": "medium"
+    },
+    "acrocephalus-agricola": {
+      "season": "winter",
+      "facts": [
+        "A small reed warbler that breeds in the central Palearctic and winters in Bangladesh, India and Pakistan.",
+        "Its name agricola is Latin for 'farmer'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Paddyfield_warbler"
+      ],
+      "_confidence": "high"
+    },
+    "acrocephalus-concinens": {
+      "season": "winter",
+      "facts": [
+        "It breeds from Afghanistan to China and winters in Myanmar, Thailand and Bangladesh.",
+        "It was first described by Robert Swinhoe in 1870."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Blunt-winged_warbler"
+      ],
+      "_confidence": "high"
+    },
+    "acrocephalus-dumetorum": {
+      "season": "winter",
+      "facts": [
+        "It breeds from the Baltic almost to Lake Baikal and winters in India, Sri Lanka, Nepal, Bangladesh and Myanmar.",
+        "It has been spreading west and first bred in Scotland in 2024.",
+        "In winter it lives in trees in both wet and dry places, not just reeds."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Blyth's_reed_warbler"
+      ],
+      "_confidence": "high"
+    },
+    "acrocephalus-orientalis": {
+      "season": "winter",
+      "facts": [
+        "Once lumped with the great reed warbler, it breeds in East Asia and winters from northeast India through Southeast Asia.",
+        "Outside reedbeds it also turns up in paddy fields, grassland and scrub."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Oriental_reed_warbler"
+      ],
+      "_confidence": "medium"
+    },
+    "megalurus-palustris": {
+      "season": "resident",
+      "facts": [
+        "Noisy and conspicuous, it often sings from exposed perches on grass tops, bushes and telephone wires.",
+        "It is now the only species in its genus, Megalurus."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Striated_grassbird"
+      ],
+      "_confidence": "high"
+    },
+    "helopsaltes-certhiola": {
+      "season": "winter",
+      "facts": [
+        "Also called the rusty-rumped warbler; it breeds in the eastern Palearctic and winters from India east to Indonesia.",
+        "A skulker of tall grass near water; as a vagrant it turns up with some regularity on Fair Isle, Shetland."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pallas's_grasshopper_warbler"
+      ],
+      "_confidence": "medium"
+    },
+    "schoenicola-striatus": {
+      "season": "resident",
+      "facts": [
+        "Endemic to the Indian subcontinent, it skulks in tall, dense grassland, often in marshes.",
+        "It was once described as common in parts of Bangladesh, but grassland loss threatens it.",
+        "Long thought to be sedentary, it may in fact migrate within the subcontinent."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Bristled_grassbird"
+      ],
+      "_confidence": "medium"
+    },
+    "brachypodius-melanocephalos": {
+      "season": "resident",
+      "facts": [
+        "A forest bulbul; the race atriceps ranges from northeastern India and Bangladesh to the Greater Sundas.",
+        "It is now placed in the genus Microtarsus."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-headed_bulbul"
+      ],
+      "_confidence": "high"
+    },
+    "rubigula-flaviventris": {
+      "season": "resident",
+      "facts": [
+        "A bulbul of forest and dense scrub from the Indian subcontinent to Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-crested_bulbul"
+      ],
+      "_confidence": "medium"
+    },
+    "pycnonotus-flavescens": {
+      "season": "resident",
+      "facts": [
+        "Its name comes from 'flavescent', a yellowish colour.",
+        "The nominate race lives in northeastern India, northeastern Bangladesh and western Myanmar, in hill forest."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Flavescent_bulbul"
+      ],
+      "_confidence": "high"
+    },
+    "iole-cacharensis": {
+      "season": "resident",
+      "facts": [
+        "A local endemic of northeastern India and the Sylhet and Chittagong divisions of Bangladesh.",
+        "It was split from the olive bulbul in 2017, after DNA showed the two diverged 1.7 million years ago."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Cachar_bulbul"
+      ],
+      "_confidence": "high"
+    },
+    "hemixos-flavala": {
+      "season": "resident",
+      "facts": [
+        "A hill-forest bulbul whose range includes northeastern Bangladesh.",
+        "It often moves down to the lowlands in winter, though rarely right down to sea level."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Ashy_bulbul"
+      ],
+      "_confidence": "high"
+    },
+    "ixos-mcclellandii": {
+      "season": "resident",
+      "facts": [
+        "A bulbul of broadleaf evergreen forest between about 800 and 2,600 m.",
+        "Named after the East India Company surgeon John McClelland."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Mountain_bulbul"
+      ],
+      "_confidence": "medium"
+    },
+    "alophoixus-flaveolus": {
+      "season": "resident",
+      "facts": [
+        "A bulbul of moist lowland forest from the eastern Himalayas to Myanmar and western Thailand."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White-throated_bulbul"
+      ],
+      "_confidence": "medium"
+    },
+    "phylloscopus-inornatus": {
+      "season": "winter",
+      "facts": [
+        "A tiny leaf warbler that breeds in the east Palearctic and winters mainly in tropical South and Southeast Asia, including Bangladesh.",
+        "It is abundant, and small numbers now also winter in western Europe."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Yellow-browed_warbler"
+      ],
+      "_confidence": "high"
+    },
+    "phylloscopus-schwarzi": {
+      "season": "winter",
+      "facts": [
+        "It breeds in southern Siberia and winters in Bangladesh, Myanmar, Thailand, Laos and Cambodia.",
+        "Its scientific name honours the German astronomer Ludwig Schwarz."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Radde's_warbler"
+      ],
+      "_confidence": "high"
+    },
+    "phylloscopus-coronatus": {
+      "season": "winter",
+      "facts": [
+        "Breeds from eastern Siberia to Japan and winters from eastern India and Bangladesh to Java.",
+        "It often joins mixed flocks of small birds."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Eastern_crowned_warbler"
+      ],
+      "_confidence": "high"
+    },
+    "phylloscopus-trochiloides": {
+      "season": "winter",
+      "facts": [
+        "A strongly migratory leaf warbler that breeds across Asia and winters in India.",
+        "A few pairs nest each year as far west as Germany."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Greenish_warbler"
+      ],
+      "_confidence": "medium"
+    },
+    "phylloscopus-collybita": {
+      "season": "winter",
+      "facts": [
+        "Named for its simple 'chiff-chaff' song.",
+        "It winters in southern Asia, southern Europe and north Africa, and is among the first songbirds back in spring."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_chiffchaff"
+      ],
+      "_confidence": "medium"
+    },
+    "tesia-cyaniventer": {
+      "season": "resident",
+      "facts": [
+        "A tiny, almost tailless bush warbler of moist hill forest, from the Himalayas through southern China and Indochina."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey-bellied_tesia"
+      ],
+      "_confidence": "medium"
+    },
+    "abroscopus-superciliaris": {
+      "season": "resident",
+      "facts": [
+        "A small warbler of forest, found from Bangladesh and the Himalayas through Southeast Asia to Indonesia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Yellow-bellied_warbler"
+      ],
+      "_confidence": "high"
+    },
+    "abroscopus-albogularis": {
+      "season": "resident",
+      "facts": [
+        "A small warbler of moist lowland forest, found in Bangladesh and from the Himalayas to Taiwan."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Rufous-faced_warbler"
+      ],
+      "_confidence": "high"
+    },
+    "phyllergates-cucullatus": {
+      "season": "resident",
+      "facts": [
+        "Despite its name it is not a true tailorbird; it is now placed in the bush warbler family Cettiidae.",
+        "It lives in hill forest of the Purvanchal range, southern China and Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Mountain_tailorbird"
+      ],
+      "_confidence": "medium"
+    },
+    "horornis-fortipes": {
+      "season": "resident",
+      "facts": [
+        "A skulking bush warbler of the Himalayas, south China and Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Brown-flanked_bush_warbler"
+      ],
+      "_confidence": "medium"
+    },
+    "chrysomma-sinense": {
+      "season": "resident",
+      "facts": [
+        "A babbler of grassy and thorny scrub and farmland, found from Pakistan through India to Bangladesh and China.",
+        "Usually seen in small groups of five to fifteen, especially outside the breeding season.",
+        "Despite its name it is more closely related to the parrotbills than to true babblers."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Yellow-eyed_babbler"
+      ],
+      "_confidence": "high"
+    },
+    "psittiparus-gularis": {
+      "season": "resident",
+      "facts": [
+        "A parrotbill of moist hill forest from the Himalayas to Indochina and Hainan."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey-headed_parrotbill"
+      ],
+      "_confidence": "medium"
+    },
+    "psittiparus-bakeri": {
+      "season": "resident",
+      "facts": [
+        "A parrotbill of moist forest from the eastern Himalayas to Indochina."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Rufous-headed_parrotbill"
+      ],
+      "_confidence": "medium"
+    },
+    "paradoxornis-guttaticollis": {
+      "season": "resident",
+      "facts": [
+        "A thick-billed parrotbill found in Bangladesh, India and east to China and Vietnam."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Spot-breasted_parrotbill"
+      ],
+      "_confidence": "high"
+    },
+    "chleuasicus-atrosuperciliaris": {
+      "season": "resident",
+      "facts": [
+        "A small, round, short-tailed parrotbill of bamboo and evergreen forest with tall grass.",
+        "It moves lower down the hills at certain times of year to escape the cold."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pale-billed_parrotbill"
+      ],
+      "_confidence": "medium"
+    },
+    "timalia-pileata": {
+      "season": "resident",
+      "facts": [
+        "The only species in its genus; the race bengalensis lives in the lower Himalayas, Bangladesh and northeastern India.",
+        "Its range has recently been found to extend further west, into southern Uttarakhand."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Chestnut-capped_babbler"
+      ],
+      "_confidence": "high"
+    },
+    "mixornis-gularis": {
+      "season": "resident",
+      "facts": [
+        "Also called the yellow-breasted babbler; widespread from Nepal and Bangladesh through Southeast Asia.",
+        "It breeds from February to July and builds a loose ball-shaped nest of grass and leaves."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pin-striped_tit-babbler"
+      ],
+      "_confidence": "high"
+    },
+    "dumetia-hyperythra": {
+      "season": "resident",
+      "facts": [
+        "A small babbler that forages in little groups in low scrub and tall grass.",
+        "Like most babblers it does not migrate and has short, rounded wings and a weak flight."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Tawny-bellied_babbler"
+      ],
+      "_confidence": "medium"
+    },
+    "cyanoderma-chrysaeum": {
+      "season": "resident",
+      "facts": [
+        "A small babbler with yellow underparts and a golden-yellow, finely striped crown.",
+        "It lives in forests from the eastern Himalayan foothills to Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Golden_babbler"
+      ],
+      "_confidence": "medium"
+    },
+    "cyanoderma-ambiguum": {
+      "season": "resident",
+      "facts": [
+        "The buff-chested babbler is now usually merged into the rufous-fronted babbler.",
+        "That species ranges from the eastern Himalayan foothills to Sumatra and Borneo."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Rufous-fronted_babbler"
+      ],
+      "_confidence": "medium"
+    },
+    "pomatorhinus-ochraceiceps": {
+      "season": "resident",
+      "facts": [
+        "It has the long, down-curved reddish-orange bill typical of scimitar babblers and a long white eyebrow.",
+        "It lives in forest from northeast India to Southeast Asia, often in bamboo."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Red-billed_scimitar_babbler"
+      ],
+      "_confidence": "medium"
+    },
+    "pomatorhinus-superciliaris": {
+      "season": "resident",
+      "facts": [
+        "Its slender, strongly curved bill once earned it a genus of its own, Xiphirhynchus.",
+        "It lives in moist hill forest from the Himalayas to northwestern Vietnam."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Slender-billed_scimitar_babbler"
+      ],
+      "_confidence": "medium"
+    },
+    "pomatorhinus-ruficollis": {
+      "season": "resident",
+      "facts": [
+        "A scimitar babbler of hill forest found in Bangladesh, the Himalayas and east to Vietnam.",
+        "It forms mixed flocks with other species."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Streak-breasted_scimitar_babbler"
+      ],
+      "_confidence": "high"
+    },
+    "pomatorhinus-schisticeps": {
+      "season": "resident",
+      "facts": [
+        "A scimitar babbler of moist forest in Bangladesh, the Himalayas and Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White-browed_scimitar_babbler"
+      ],
+      "_confidence": "high"
+    },
+    "erythrogenys-hypoleucos": {
+      "season": "resident",
+      "facts": [
+        "A big scimitar babbler of moist forest in Bangladesh and across Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Large_scimitar_babbler"
+      ],
+      "_confidence": "high"
+    },
+    "erythrogenys-erythrogenys": {
+      "season": "resident",
+      "facts": [
+        "A scimitar babbler of the Himalayas from northeast Pakistan to Bhutan and Myanmar.",
+        "It was formerly lumped with the red-eyed scimitar babbler of Myanmar and Thailand."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Rusty-cheeked_scimitar_babbler"
+      ],
+      "_confidence": "medium"
+    },
+    "stachyris-nigriceps": {
+      "season": "resident",
+      "facts": [
+        "A small forest babbler found from the Himalayas and Bangladesh to Indonesia; twelve subspecies are recognised."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey-throated_babbler"
+      ],
+      "_confidence": "high"
+    },
+    "gampsorhynchus-rufulus": {
+      "season": "resident",
+      "facts": [
+        "A babbler of moist forest from the eastern Himalayas to central Myanmar and southwestern China."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White-hooded_babbler"
+      ],
+      "_confidence": "medium"
+    },
+    "schoeniparus-cinereus": {
+      "season": "resident",
+      "facts": [
+        "Its name is misleading: it is not closely related to the 'typical' fulvettas.",
+        "It lives in hill forest from the Himalayas to north-central Vietnam."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Yellow-throated_fulvetta"
+      ],
+      "_confidence": "medium"
+    },
+    "schoeniparus-castaneceps": {
+      "season": "resident",
+      "facts": [
+        "A small, noisy fulvetta with a streaked chestnut crown and bright rufous wing feathers against black coverts.",
+        "Its name is misleading, as it is not a close relative of the typical fulvettas."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Rufous-winged_fulvetta"
+      ],
+      "_confidence": "medium"
+    },
+    "schoeniparus-rufogularis": {
+      "season": "resident",
+      "facts": [
+        "A fulvetta of moist lowland forest from the Himalayas through Indochina to southwestern Cambodia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Rufous-throated_fulvetta"
+      ],
+      "_confidence": "medium"
+    },
+    "laticilla-cinerascens": {
+      "season": "resident",
+      "facts": [
+        "A grass babbler of the Brahmaputra plains of Assam and nearby northern Bangladesh.",
+        "It prefers tall grassland near large rivers or swamps and is easiest to find when singing in the breeding season."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Swamp_grass_babbler"
+      ],
+      "_confidence": "high"
+    },
+    "pellorneum-ruficeps": {
+      "season": "resident",
+      "facts": [
+        "Also called the spotted babbler; it forages in small groups on the forest floor, flipping over leaf litter.",
+        "Hard to see but easy to hear, with loud calls and a distinctive morning song."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Puff-throated_babbler"
+      ],
+      "_confidence": "medium"
+    },
+    "pellorneum-palustre": {
+      "season": "resident",
+      "facts": [
+        "Endemic to the Brahmaputra floodplain and nearby hills of northeast India and eastern Bangladesh."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Marsh_babbler"
+      ],
+      "_confidence": "high"
+    },
+    "pellorneum-albiventre": {
+      "season": "resident",
+      "facts": [
+        "A babbler found mainly in eastern Bangladesh, Bhutan, northeast India, Yunnan, Myanmar and Vietnam."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Spot-throated_babbler"
+      ],
+      "_confidence": "high"
+    },
+    "pellorneum-tickelli": {
+      "season": "resident",
+      "facts": [
+        "A babbler of moist forest found in Bangladesh and across Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Buff-breasted_babbler"
+      ],
+      "_confidence": "high"
+    },
+    "napothera-malacoptila": {
+      "season": "resident",
+      "facts": [
+        "A wren-babbler of hill forest from northeastern India to southern China."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Long-billed_wren-babbler"
+      ],
+      "_confidence": "medium"
+    },
+    "malacocincla-abbotti": {
+      "season": "resident",
+      "facts": [
+        "A stout, short-tailed babbler that forages in pairs in dense undergrowth near the ground.",
+        "It is resident in east and south Bangladesh, including around Jessore and Khulna."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Abbott's_babbler"
+      ],
+      "_confidence": "high"
+    },
+    "graminicola-bengalensis": {
+      "season": "resident",
+      "facts": [
+        "Also called the rufous-rumped grassbird; it lives in tall vegetation by swamps and rivers in the lowlands of Bangladesh, northern India, Bhutan and Nepal.",
+        "It is threatened by habitat loss."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_grassbird"
+      ],
+      "_confidence": "high"
+    },
+    "alcippe-poioicephala": {
+      "season": "resident",
+      "facts": [
+        "Formerly called the quaker babbler in India.",
+        "It forages in trees, sometimes hanging tit-like from branches, and also visits flowers for nectar.",
+        "The race fusca lives in eastern Bangladesh."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Brown-cheeked_fulvetta"
+      ],
+      "_confidence": "high"
+    },
+    "argya-earlei": {
+      "season": "resident",
+      "facts": [
+        "An omnivorous babbler found in southern Asia from Pakistan to Myanmar.",
+        "A 2018 DNA study moved it from Turdoides to the revived genus Argya."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Striated_babbler"
+      ],
+      "_confidence": "medium"
+    },
+    "argya-longirostris": {
+      "season": "resident",
+      "facts": [
+        "A babbler of seasonally flooded lowland grassland in Bangladesh, Nepal and northeast India.",
+        "It is threatened by the loss of its grassland habitat."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Slender-billed_babbler"
+      ],
+      "_confidence": "high"
+    },
+    "garrulax-leucolophus": {
+      "season": "resident",
+      "facts": [
+        "A highly social, noisy laughingthrush of forest and scrub from the Himalayan foothills to Southeast Asia.",
+        "The race patkaicus lives in northeast India, Bangladesh and Myanmar.",
+        "It has one of the widest ranges of any laughingthrush."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White-crested_laughingthrush"
+      ],
+      "_confidence": "high"
+    },
+    "garrulax-monileger": {
+      "season": "resident",
+      "facts": [
+        "A laughingthrush of moist forest across the eastern Himalayas, southern China and Indochina."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Lesser_necklaced_laughingthrush"
+      ],
+      "_confidence": "medium"
+    },
+    "ianthocincla-rufogularis": {
+      "season": "resident",
+      "facts": [
+        "A laughingthrush of the northern subcontinent; the race assamensis lives in southeast Assam, east Bangladesh and west Myanmar."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Rufous-chinned_laughingthrush"
+      ],
+      "_confidence": "high"
+    },
+    "pterorhinus-pectoralis": {
+      "season": "resident",
+      "facts": [
+        "A laughingthrush of moist forest found in Bangladesh and from the Himalayas to Vietnam.",
+        "It has been introduced to Hawaii."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Greater_necklaced_laughingthrush"
+      ],
+      "_confidence": "high"
+    },
+    "pterorhinus-ruficollis": {
+      "season": "resident",
+      "facts": [
+        "A laughingthrush of moist forest in Bangladesh, the Himalayas, China and Myanmar.",
+        "It is non-migratory and spends its whole life in the same area."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Rufous-necked_laughingthrush"
+      ],
+      "_confidence": "high"
+    },
+    "pterorhinus-gularis": {
+      "season": "resident",
+      "facts": [
+        "A laughingthrush of moist forest found in Bangladesh, Bhutan, India, Laos, Myanmar and Vietnam."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Rufous-vented_laughingthrush"
+      ],
+      "_confidence": "high"
+    },
+    "minla-ignotincta": {
+      "season": "resident",
+      "facts": [
+        "The only species in its genus, living in moist hill forest of the subcontinent and Southeast Asia, including Bangladesh."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Red-tailed_minla"
+      ],
+      "_confidence": "high"
+    },
+    "liocichla-phoenicea": {
+      "season": "resident",
+      "facts": [
+        "A bird of hill forest found in Bangladesh, Bhutan, Myanmar, northeast India, Nepal and western Yunnan.",
+        "It moves through dense undergrowth in pairs or in flocks, sometimes with other species."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Red-faced_liocichla"
+      ],
+      "_confidence": "high"
+    },
+    "actinodura-cyanouroptera": {
+      "season": "resident",
+      "facts": [
+        "Also called the blue-winged siva; it has been placed in the genera Minla and Siva in the past.",
+        "It lives in moist hill forest from Bangladesh and the Himalayas to Malaysia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Blue-winged_minla"
+      ],
+      "_confidence": "high"
+    },
+    "muscicapa-dauurica": {
+      "season": "winter",
+      "facts": [
+        "Its name dauurica refers to Dauria, a region of southeastern Siberia.",
+        "It breeds in Japan, eastern Siberia and the Himalayas and winters in tropical southern Asia.",
+        "A first-winter bird at Flamborough Head, England, in 2007 drew hundreds of birdwatchers."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Asian_brown_flycatcher"
+      ],
+      "_confidence": "medium"
+    },
+    "copsychus-fulicatus": {
+      "season": "resident",
+      "facts": [
+        "It often runs along the ground with its long tail cocked, showing chestnut under the tail.",
+        "Males can be so aggressive in the breeding season that they attack their own reflections.",
+        "It often lives close to people and perches on rooftops."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_robin"
+      ],
+      "_confidence": "high"
+    },
+    "copsychus-malabaricus": {
+      "season": "resident",
+      "facts": [
+        "A famous songster native to dense scrub and secondary forest of South and Southeast Asia.",
+        "Its popularity as a cage bird has led to escaped populations, including in Hawaii and Taiwan, where it is invasive."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White-rumped_shama"
+      ],
+      "_confidence": "medium"
+    },
+    "cyornis-poliogenys": {
+      "season": "resident",
+      "facts": [
+        "A dull bluish-grey flycatcher with a rufous chest; males lack the bright blue of most Cyornis species.",
+        "The nominate race lives from the central Himalaya to eastern Bangladesh.",
+        "It nests from April to June."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pale-chinned_flycatcher"
+      ],
+      "_confidence": "high"
+    },
+    "cyornis-rubeculoides": {
+      "season": "winter",
+      "facts": [
+        "Told from Tickell's blue flycatcher by its blue throat.",
+        "It favours thicker forest than other flycatchers and spreads to the plains in the cold months."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Blue-throated_blue_flycatcher"
+      ],
+      "_confidence": "medium"
+    },
+    "cyornis-tickelliae": {
+      "season": "resident",
+      "facts": [
+        "A blue flycatcher with a rufous throat and breast that breeds from the Indian subcontinent to Bangladesh and western Myanmar.",
+        "It is named after the wife of the British ornithologist Samuel Tickell."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Tickell's_blue_flycatcher"
+      ],
+      "_confidence": "medium"
+    },
+    "enicurus-maculatus": {
+      "season": "resident",
+      "facts": [
+        "A long-tailed forktail of hill streams with a white-spotted black back and a deeply forked tail.",
+        "It breeds high up, mostly at 1,200–3,600 m, and comes down to about 600 m in winter."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Spotted_forktail"
+      ],
+      "_confidence": "medium"
+    },
+    "enicurus-immaculatus": {
+      "season": "resident",
+      "facts": [
+        "A forktail of fast-flowing streams in moist forest, with a broad white stripe across its forehead.",
+        "Its range extends from Uttarakhand across Nepal to Bangladesh, Myanmar and Thailand."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-backed_forktail"
+      ],
+      "_confidence": "medium"
+    },
+    "calliope-calliope": {
+      "season": "winter",
+      "facts": [
+        "A small chat that breeds in Siberian forests and winters in places including India and Bangladesh.",
+        "It was first described by Peter Simon Pallas in 1776."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Siberian_rubythroat"
+      ],
+      "_confidence": "high"
+    },
+    "calliope-pectoralis": {
+      "season": "winter",
+      "facts": [
+        "Unlike the Siberian rubythroat it has white tips and bases to its tail.",
+        "It breeds high in the Tien Shan and Himalayas and moves lower and further south in winter."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Himalayan_rubythroat"
+      ],
+      "_confidence": "medium"
+    },
+    "calliope-tschebaiewi": {
+      "season": "winter",
+      "facts": [
+        "It breeds along the edge of the Tibetan plateau and winters to the south, from Nepal to Assam.",
+        "It used to be lumped with the Himalayan rubythroat as the white-tailed rubythroat."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Chinese_rubythroat"
+      ],
+      "_confidence": "medium"
+    },
+    "myiomela-leucura": {
+      "season": "resident",
+      "facts": [
+        "A forest robin of the northern subcontinent and Southeast Asia, including Bangladesh."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White-tailed_robin"
+      ],
+      "_confidence": "medium"
+    },
+    "ficedula-albicilla": {
+      "season": "winter",
+      "facts": [
+        "A winter visitor to South and Southeast Asia, including Bangladesh.",
+        "Breeding males have an orange-red throat; the female has a blackish tail flanked with white."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Taiga_flycatcher"
+      ],
+      "_confidence": "high"
+    },
+    "phoenicurus-fuliginosus": {
+      "season": "winter",
+      "facts": [
+        "Males are slate blue, a lead-like colour that gives the bird its name; females are grey.",
+        "It lives by fast, boulder-strewn streams, breeding high in the Himalayas and moving lower in winter."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Plumbeous_water_redstart"
+      ],
+      "_confidence": "medium"
+    },
+    "phoenicurus-ochruros": {
+      "season": "winter",
+      "facts": [
+        "Resident in milder parts of its range, but northern and eastern birds migrate to winter in southern Asia, Europe and north Africa.",
+        "It nests in crevices or holes in buildings."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black_redstart"
+      ],
+      "_confidence": "medium"
+    },
+    "monticola-solitarius": {
+      "season": "winter",
+      "facts": [
+        "Migratory Asian populations winter in India, Southeast Asia and sub-Saharan Africa.",
+        "It is the national bird of Malta."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Blue_rock_thrush"
+      ],
+      "_confidence": "medium"
+    },
+    "saxicola-leucurus": {
+      "season": "resident",
+      "facts": [
+        "A stonechat of tall grass, reeds and tamarisk in marshy places, resident in places including Bangladesh.",
+        "It makes local movements depending on water levels."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White-tailed_stonechat"
+      ],
+      "_confidence": "high"
+    },
+    "saxicola-caprata": {
+      "season": "resident",
+      "facts": [
+        "A familiar bird of open country that perches on top of short thorn bushes, watching for insects on the ground.",
+        "It colonised Papua New Guinea around 1950.",
+        "About sixteen subspecies are recognised, many of them on islands."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pied_bush_chat"
+      ],
+      "_confidence": "medium"
+    },
+    "chalcoparia-singalensis": {
+      "season": "resident",
+      "facts": [
+        "A sunbird of lowland forest and mangroves; the race assamensis ranges from the eastern Himalayas and Bangladesh to south China."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Ruby-cheeked_sunbird"
+      ],
+      "_confidence": "high"
+    },
+    "leptocoma-brasiliana": {
+      "season": "resident",
+      "facts": [
+        "A sunbird of lowland forest and mangroves; the nominate race ranges from northeast India and east Bangladesh to Borneo."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Van_Hasselt's_sunbird"
+      ],
+      "_confidence": "high"
+    },
+    "aethopyga-ignicauda": {
+      "season": "winter",
+      "facts": [
+        "Breeding males have a scarlet nape and back and grow a long scarlet tail.",
+        "It lives in conifer forest up to 4,000 m and comes down to broadleaved forest in the valleys in the cold season."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Fire-tailed_sunbird"
+      ],
+      "_confidence": "medium"
+    },
+    "aethopyga-saturata": {
+      "season": "resident",
+      "facts": [
+        "A sunbird of moist forest found in Bangladesh and across the subcontinent and Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-throated_sunbird"
+      ],
+      "_confidence": "medium"
+    },
+    "aethopyga-siparaja": {
+      "season": "resident",
+      "facts": [
+        "A resident sunbird from India and Bangladesh to Indonesia, feeding largely on nectar.",
+        "It is the unofficial national bird of Singapore.",
+        "It lays two or three eggs in a nest suspended from a tree."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Crimson_sunbird"
+      ],
+      "_confidence": "high"
+    },
+    "arachnothera-magna": {
+      "season": "resident",
+      "facts": [
+        "A spiderhunter of moist forest from central Nepal through northeast India and Indochina to the Malay Peninsula."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Streaked_spiderhunter"
+      ],
+      "_confidence": "medium"
+    },
+    "euodice-malabarica": {
+      "season": "resident",
+      "facts": [
+        "Also called the white-throated munia; it forages in small flocks in dry scrub and fallow fields.",
+        "Escaped birds have founded populations far away, including in the Middle East, Puerto Rico and the United States."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_silverbill"
+      ],
+      "_confidence": "high"
+    },
+    "lonchura-striata": {
+      "season": "resident",
+      "facts": [
+        "A common munia of open woodland, grassland and farmland; it can be a local pest of millets.",
+        "Its domesticated descendant, the Bengalese or society finch, is kept worldwide and used in research."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White-rumped_munia"
+      ],
+      "_confidence": "high"
+    },
+    "lonchura-malacca": {
+      "season": "resident",
+      "facts": [
+        "A gregarious munia of wet grassland, native to Bangladesh, India, Sri Lanka, Pakistan and southern China.",
+        "It has been introduced to several Caribbean islands."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Tricoloured_munia"
+      ],
+      "_confidence": "high"
+    },
+    "lonchura-atricapilla": {
+      "season": "resident",
+      "facts": [
+        "Also called the black-headed munia; a resident breeder in Bangladesh and across Southeast Asia.",
+        "It builds a large domed grass nest in a bush or tall grass.",
+        "Until 1995 it was the national bird of the Philippines."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Chestnut_munia"
+      ],
+      "_confidence": "high"
+    },
+    "mareca-penelope": {
+      "season": "winter",
+      "facts": [
+        "A strongly migratory dabbling duck that breeds in the far north and winters south to southern Asia and Africa.",
+        "It is the Old World counterpart of the American wigeon."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Eurasian_wigeon"
+      ],
+      "_confidence": "medium"
+    },
+    "netta-rufina": {
+      "season": "winter",
+      "facts": [
+        "The adult male is unmistakable, with a rounded orange head and a red bill.",
+        "It breeds from southern Europe to Mongolia and winters in the Indian subcontinent and Africa, in big flocks with other diving ducks.",
+        "Its name rufina is Latin for 'golden-red'."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Red-crested_pochard"
+      ],
+      "_confidence": "medium"
+    },
+    "polyplectron-bicalcaratum": {
+      "season": "resident",
+      "facts": [
+        "A large pheasant of lowland and hill forest in Bangladesh, northeast India and Southeast Asia.",
+        "It eats mainly seeds, termites, fruit and invertebrates, and the female usually lays just two eggs."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey_peacock-pheasant"
+      ],
+      "_confidence": "high"
+    },
+    "lophura-leucomelanos": {
+      "season": "resident",
+      "facts": [
+        "A pheasant of forest and thickets, especially in the Himalayan foothills, from Pakistan to western Thailand.",
+        "Males are partly glossy blue-black and females brown; both have a bare red face."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Kalij_pheasant"
+      ],
+      "_confidence": "medium"
+    },
+    "taccocua-leschenaultii": {
+      "season": "resident",
+      "facts": [
+        "Unlike many cuckoos, it does not lay its eggs in other birds' nests.",
+        "It creeps on or near the ground through grass and bushes, eating small lizards and insects.",
+        "Its curved red bill has a yellow tip."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Sirkeer_malkoha"
+      ],
+      "_confidence": "high"
+    },
+    "cacomantis-sonneratii": {
+      "season": "summer",
+      "facts": [
+        "A small cuckoo with rufous, dark-banded upperparts and a white eyebrow.",
+        "Populations are often migratory; in India it is found mainly during the monsoon.",
+        "Males sing from exposed branches in the breeding season."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Banded_bay_cuckoo"
+      ],
+      "_confidence": "medium"
+    },
+    "cacomantis-passerinus": {
+      "season": "summer",
+      "facts": [
+        "Also called the Indian plaintive cuckoo.",
+        "Birds from further north and higher ground are summer visitors that leave for warmer areas in winter."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey-bellied_cuckoo"
+      ],
+      "_confidence": "medium"
+    },
+    "rallus-indicus": {
+      "season": "winter",
+      "facts": [
+        "Breeds from Mongolia to northern Japan and winters in Southeast Asia; it is uncommon in northern Bangladesh.",
+        "It used to be considered a subspecies of the water rail."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Brown-cheeked_rail"
+      ],
+      "_confidence": "high"
+    },
+    "lewinia-striata": {
+      "season": "resident",
+      "facts": [
+        "A rail of wetlands native to the Indian subcontinent and Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Slaty-breasted_rail"
+      ],
+      "_confidence": "medium"
+    },
+    "zapornia-fusca": {
+      "season": "resident",
+      "facts": [
+        "A crake of swamps from the Indian subcontinent to Japan and Indonesia, mostly resident.",
+        "Its body is flattened from side to side so it can slip easily through reeds."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Ruddy-breasted_crake"
+      ],
+      "_confidence": "medium"
+    },
+    "zapornia-akool": {
+      "season": "resident",
+      "facts": [
+        "Also called the brown bush-hen, a crake of South Asia.",
+        "The origin of its species name akool is uncertain; it may come from a Sinhalese word for moorhen."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Brown_crake"
+      ],
+      "_confidence": "medium"
+    },
+    "zapornia-pusilla": {
+      "season": "winter",
+      "facts": [
+        "A tiny, secretive crake, more often heard than seen.",
+        "Migratory populations winter in East Africa and South Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Baillon's_crake"
+      ],
+      "_confidence": "medium"
+    },
+    "turnix-suscitator": {
+      "season": "resident",
+      "facts": [
+        "It looks like a quail but is not closely related to true quails.",
+        "Found across tropical Asia including Bangladesh, in scrub, light forest and farmland."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Barred_buttonquail"
+      ],
+      "_confidence": "high"
+    },
+    "ciconia-nigra": {
+      "season": "winter",
+      "facts": [
+        "Mostly black with white underparts, long red legs and a red bill.",
+        "Asian populations winter in the Indian subcontinent.",
+        "On migration it avoids long sea crossings, detouring via land bridges and narrow straits."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black_stork"
+      ],
+      "_confidence": "medium"
+    },
+    "ciconia-episcopus": {
+      "season": "resident",
+      "facts": [
+        "A resident stork of wetlands and farmland from India to Indonesia.",
+        "It nests in trees, on cliffs and even on cell phone towers."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Asian_woolly-necked_stork"
+      ],
+      "_confidence": "medium"
+    },
+    "harpactes-erythrocephalus": {
+      "season": "resident",
+      "facts": [
+        "A trogon of dense broadleaf forest; it is locally dispersed in Bangladesh.",
+        "It is mostly sedentary but moves between elevations in parts of Laos."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Red-headed_trogon"
+      ],
+      "_confidence": "high"
+    },
+    "nyctyornis-athertoni": {
+      "season": "resident",
+      "facts": [
+        "Its elongated blue throat feathers, often fluffed out, give it its name.",
+        "Unlike smaller bee-eaters it has a square-ended tail without tail-wires and is less gregarious.",
+        "Courtship involves ritual feeding, bowing and tail fanning."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Blue-bearded_bee-eater"
+      ],
+      "_confidence": "medium"
+    },
+    "merops-leschenaulti": {
+      "season": "resident",
+      "facts": [
+        "A slender green bee-eater with a rich chestnut crown and nape and a yellow throat.",
+        "It breeds from India, Bangladesh and Sri Lanka across Southeast Asia to Indonesia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Chestnut-headed_bee-eater"
+      ],
+      "_confidence": "high"
+    },
+    "coracias-affinis": {
+      "season": "resident",
+      "facts": [
+        "Also called the Burmese roller, it ranges from Nepal and eastern India to Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indochinese_roller"
+      ],
+      "_confidence": "medium"
+    },
+    "psittacula-cyanocephala": {
+      "season": "resident",
+      "facts": [
+        "Males have a pinkish-purple head; females have a grey head.",
+        "Flocks fly swiftly with twists and turns, calling as they go."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Plum-headed_parakeet"
+      ],
+      "_confidence": "medium"
+    },
+    "psittacula-roseata": {
+      "season": "resident",
+      "facts": [
+        "A lime-green parakeet with a pink or bluish-grey head.",
+        "A non-migratory resident from eastern Bangladesh and northeast India to Indochina."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Blossom-headed_parakeet"
+      ],
+      "_confidence": "high"
+    },
+    "psittacula-alexandri": {
+      "season": "resident",
+      "facts": [
+        "Easily identified by the large red patch on its breast; also called the moustached parakeet.",
+        "It has more geographical variations than any other Psittacula parakeet."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Red-breasted_parakeet"
+      ],
+      "_confidence": "medium"
+    },
+    "psarisomus-dalhousiae": {
+      "season": "resident",
+      "facts": [
+        "The only species in its genus: a green broadbill with a yellow throat and a long tail.",
+        "A non-migratory forest bird found from the Himalayan foothills and southeast Bangladesh to Southeast Asia.",
+        "It is often detected by its shrill call."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Long-tailed_broadbill"
+      ],
+      "_confidence": "high"
+    },
+    "hydrornis-nipalensis": {
+      "season": "resident",
+      "facts": [
+        "A pitta of moist forest and bamboo jungle, found in Bangladesh and from Nepal to Vietnam."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Blue-naped_pitta"
+      ],
+      "_confidence": "medium"
+    },
+    "hydrornis-cyanea": {
+      "season": "resident",
+      "facts": [
+        "An unobtrusive, solitary pitta that forages on the ground for insects.",
+        "The nominate race lives in northeastern India, eastern Bangladesh and Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Blue_pitta"
+      ],
+      "_confidence": "high"
+    },
+    "pericrocotus-cinnamomeus": {
+      "season": "resident",
+      "facts": [
+        "A widespread and common resident of thorn jungle and scrub across tropical southern Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Small_minivet"
+      ],
+      "_confidence": "medium"
+    },
+    "pericrocotus-flammeus": {
+      "season": "resident",
+      "facts": [
+        "Males are scarlet to orange with black upperparts; females are yellow with greyish-olive upperparts.",
+        "A common resident of forests and wooded gardens, especially in hilly country."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Scarlet_minivet"
+      ],
+      "_confidence": "medium"
+    },
+    "coracina-macei": {
+      "season": "resident",
+      "facts": [
+        "Formerly called the large cuckooshrike, when it included many Southeast Asian subspecies.",
+        "It breeds in the dry winter months; around Bengal the usual clutch is two eggs."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_cuckooshrike"
+      ],
+      "_confidence": "medium"
+    },
+    "lalage-melaschistos": {
+      "season": "winter",
+      "facts": [
+        "Despite the name, cuckooshrikes are related to neither cuckoos nor shrikes.",
+        "It breeds in mountains at 300–2,450 m and winters in the foothills and further south, east to Bengal and Bangladesh."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-winged_cuckooshrike"
+      ],
+      "_confidence": "high"
+    },
+    "erpornis-zantholeuca": {
+      "season": "resident",
+      "facts": [
+        "The only member of its genus, found from Bangladesh and the Himalayas to Taiwan and Indonesia.",
+        "It is common in much of its very wide range."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White-bellied_erpornis"
+      ],
+      "_confidence": "medium"
+    },
+    "oriolus-chinensis": {
+      "season": "winter",
+      "facts": [
+        "Its black eye-stripe broadens and joins around the back of the neck, unlike the Indian golden oriole's.",
+        "The race diffusus breeds in eastern Siberia, China, Korea and Japan and winters in India and Bangladesh."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-naped_oriole"
+      ],
+      "_confidence": "high"
+    },
+    "oriolus-traillii": {
+      "season": "resident",
+      "facts": [
+        "An oriole of moist lowland forest found in Bangladesh and from the Himalayas to Taiwan."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Maroon_oriole"
+      ],
+      "_confidence": "medium"
+    },
+    "tephrodornis-gularis": {
+      "season": "resident",
+      "facts": [
+        "A woodshrike of forests and mangroves across southeastern Asia to Sumatra, Java and Borneo."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Large_woodshrike"
+      ],
+      "_confidence": "medium"
+    },
+    "hemipus-picatus": {
+      "season": "resident",
+      "facts": [
+        "A small black-and-white bird that perches upright and hunts insects in the mid-canopy, often in mixed flocks.",
+        "The race capitalis ranges along the Himalayas east to Manipur and Chittagong."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Bar-winged_flycatcher-shrike"
+      ],
+      "_confidence": "high"
+    },
+    "rhipidura-albicollis": {
+      "season": "resident",
+      "facts": [
+        "A small fantail of forest, scrub and cultivation from the Himalayas, India and Bangladesh to Indonesia.",
+        "The white-spotted fantail of peninsular India was until recently treated as part of this species."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White-throated_fantail"
+      ],
+      "_confidence": "high"
+    },
+    "dicrurus-leucophaeus": {
+      "season": "winter",
+      "facts": [
+        "Its populations vary in shade of grey and in the white patches around the eye.",
+        "Many northern populations are migratory; in winter it is particularly fond of hill forests."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Ashy_drongo"
+      ],
+      "_confidence": "medium"
+    },
+    "dicrurus-aeneus": {
+      "season": "resident",
+      "facts": [
+        "A small, compact drongo of moist broadleaf forest with a glossy plumage.",
+        "It catches insects flying in the shade of the canopy with aerial sallies from its perch."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Bronzed_drongo"
+      ],
+      "_confidence": "medium"
+    },
+    "dicrurus-remifer": {
+      "season": "resident",
+      "facts": [
+        "A racket-tailed drongo of moist hill forest; the race tectirostris lives in the lower Himalayas and northeast Bangladesh."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Lesser_racket-tailed_drongo"
+      ],
+      "_confidence": "high"
+    },
+    "dicrurus-hottentottus": {
+      "season": "resident",
+      "facts": [
+        "A drongo native from Pakistan and Bangladesh through Indochina to China and Indonesia.",
+        "It moves in small flocks and is very noisy."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Hair-crested_drongo"
+      ],
+      "_confidence": "medium"
+    },
+    "hypothymis-azurea": {
+      "season": "resident",
+      "facts": [
+        "The male has a black patch on the back of the head and a narrow black 'necklace'; the female lacks these.",
+        "Its neat cup nest is decorated with spider egg-cases."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-naped_monarch"
+      ],
+      "_confidence": "medium"
+    },
+    "terpsiphone-affinis": {
+      "season": "resident",
+      "facts": [
+        "Split from the Asian paradise flycatcher by the IOC in 2015.",
+        "The race saturatior breeds in eastern Nepal, northeast India, eastern Bangladesh and northern Myanmar."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Blyth's_paradise_flycatcher"
+      ],
+      "_confidence": "medium"
+    },
+    "lanius-tephronotus": {
+      "season": "winter",
+      "facts": [
+        "It breeds at high elevations in the Himalayas and China.",
+        "Its non-breeding range stretches south to Bangladesh, Myanmar, Thailand and Indochina, where it uses gardens and abandoned cultivation."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey-backed_shrike"
+      ],
+      "_confidence": "high"
+    },
+    "urocissa-erythrorhyncha": {
+      "season": "resident",
+      "facts": [
+        "It has one of the longest tails of any member of the crow family, at 65 cm or more in total length.",
+        "It has adapted to cities and can be seen in Beijing and Hong Kong."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Red-billed_blue_magpie"
+      ],
+      "_confidence": "medium"
+    },
+    "cissa-chinensis": {
+      "season": "resident",
+      "facts": [
+        "A bright green magpie with a black eye-stripe and red bill and eye-rims.",
+        "Its green colour comes from carotenoid pigments, so it often fades to turquoise in captivity."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Common_green_magpie"
+      ],
+      "_confidence": "medium"
+    },
+    "dendrocitta-formosae": {
+      "season": "resident",
+      "facts": [
+        "Also called the Himalayan treepie; a long-tailed member of the crow family.",
+        "It is found in Bangladesh and from the Himalayan foothills to Taiwan, in forest, cultivation and around villages."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey_treepie"
+      ],
+      "_confidence": "high"
+    },
+    "culicicapa-ceylonensis": {
+      "season": "resident",
+      "facts": [
+        "A small flycatcher-like bird with a square crest, grey hood and yellow underparts.",
+        "Pairs forage with flycatcher-like sallies, calling loudly, often in mixed flocks."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey-headed_canary-flycatcher"
+      ],
+      "_confidence": "medium"
+    },
+    "melanochlora-sultanea": {
+      "season": "resident",
+      "facts": [
+        "A big tit with black upperparts, yellow underparts and a yellow or black crest.",
+        "It is the only member of its genus."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Sultan_tit"
+      ],
+      "_confidence": "medium"
+    },
+    "parus-cinereus": {
+      "season": "resident",
+      "facts": [
+        "Formerly treated as part of the great tit; grey-backed with white underparts.",
+        "The race planorum lives in north India, Nepal, Bhutan, Bangladesh and Myanmar."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Cinereous_tit"
+      ],
+      "_confidence": "high"
+    },
+    "mirafra-assamica": {
+      "season": "resident",
+      "facts": [
+        "A common resident lark of dry, open country and farmland in Bangladesh, India, Bhutan, Myanmar and Nepal.",
+        "It was formerly placed in the genus Mirafra."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Bengal_bush_lark"
+      ],
+      "_confidence": "high"
+    },
+    "alauda-gulgula": {
+      "season": "resident",
+      "facts": [
+        "A skylark of open grassland, marshes and lake edges from sea level up to 4,300 m.",
+        "Most populations are resident, but high-altitude northern races migrate in winter."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Oriental_skylark"
+      ],
+      "_confidence": "medium"
+    },
+    "yuhina-nigrimenta": {
+      "season": "resident",
+      "facts": [
+        "A small yuhina of the white-eye family, found in Bangladesh and from the Himalayas to Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-chinned_yuhina"
+      ],
+      "_confidence": "high"
+    },
+    "sitta-castanea": {
+      "season": "resident",
+      "facts": [
+        "Found in Bangladesh, India and Nepal; resident in the Terai, the Gangetic plain and the Sundarbans.",
+        "It is the only grey-backed, rufous-bellied nuthatch in peninsular India."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Indian_nuthatch"
+      ],
+      "_confidence": "high"
+    },
+    "sitta-frontalis": {
+      "season": "resident",
+      "facts": [
+        "Its strongly curved claws let it climb down tree trunks head-first, unlike woodpeckers.",
+        "In the Sundarbans it lives in Sonneratia mangroves."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Velvet-fronted_nuthatch"
+      ],
+      "_confidence": "high"
+    },
+    "sturnia-malabarica": {
+      "season": "resident",
+      "facts": [
+        "Also called the grey-headed starling; the nominate race lives in India, south Nepal and Bangladesh.",
+        "Its name comes from the Malabar region, home of a former subspecies now split as the Malabar starling."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Chestnut-tailed_starling"
+      ],
+      "_confidence": "high"
+    },
+    "acridotheres-grandis": {
+      "season": "resident",
+      "facts": [
+        "Also known as the white-vented myna, it ranges from Sikkim across northeast India to Indochina."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Great_myna"
+      ],
+      "_confidence": "medium"
+    },
+    "geokichla-citrina": {
+      "season": "resident",
+      "facts": [
+        "The male has grey upperparts and an orange head and underparts.",
+        "A secretive thrush of shady, damp woods; the nominate race breeds to eastern Bangladesh and winters further south."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Orange-headed_thrush"
+      ],
+      "_confidence": "medium"
+    },
+    "dicaeum-agile": {
+      "season": "resident",
+      "facts": [
+        "A tiny flowerpecker that feeds mainly on fruit high in the treetops.",
+        "The race pallescens ranges from Bangladesh to Myanmar, Thailand and Vietnam."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Thick-billed_flowerpecker"
+      ],
+      "_confidence": "high"
+    },
+    "dicaeum-erythrorhynchos": {
+      "season": "resident",
+      "facts": [
+        "A tiny bird of nectar and berries, common in gardens in India, Sri Lanka and Bangladesh.",
+        "It swallows mistletoe berries whole, then wipes the sticky seeds onto branches, where they may sprout."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Pale-billed_flowerpecker"
+      ],
+      "_confidence": "high"
+    },
+    "dicaeum-trigonostigma": {
+      "season": "resident",
+      "facts": [
+        "A flowerpecker of lowland forest and mangroves found in Bangladesh and Southeast Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Orange-bellied_flowerpecker"
+      ],
+      "_confidence": "medium"
+    },
+    "irena-puella": {
+      "season": "resident",
+      "facts": [
+        "A forest bird found in Bangladesh and across tropical southern Asia; its only relative is the Philippine fairy-bluebird.",
+        "It lays two or three eggs in a small cup nest in a tree."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Asian_fairy-bluebird"
+      ],
+      "_confidence": "high"
+    },
+    "chloropsis-aurifrons": {
+      "season": "resident",
+      "facts": [
+        "A common resident leafbird of forest canopies, woodlands and gardens in India, Bangladesh and Sri Lanka.",
+        "It eats insects and berries."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Golden-fronted_leafbird"
+      ],
+      "_confidence": "high"
+    },
+    "chloropsis-hardwickii": {
+      "season": "resident",
+      "facts": [
+        "A non-migratory leafbird of the central and eastern Himalayas and northern Southeast Asia.",
+        "Named after the English naturalist Thomas Hardwicke."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Orange-bellied_leafbird"
+      ],
+      "_confidence": "medium"
+    },
+    "ploceus-manyar": {
+      "season": "resident",
+      "facts": [
+        "Like the baya weaver but with streaked underparts.",
+        "It nests in small colonies, often in reed beds near water."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Streaked_weaver"
+      ],
+      "_confidence": "high"
+    },
+    "passer-montanus": {
+      "season": "resident",
+      "facts": [
+        "A sparrow with a chestnut crown and a black patch on each white cheek; males and females look alike.",
+        "In South Asia it is found mainly in the temperate zone."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Eurasian_tree_sparrow"
+      ],
+      "_confidence": "medium"
+    },
+    "dendronanthus-indicus": {
+      "season": "winter",
+      "facts": [
+        "The only wagtail that nests in trees, and it wags its tail sideways instead of up and down.",
+        "It breeds in East Asia and winters in shady forests across tropical Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Forest_wagtail"
+      ],
+      "_confidence": "medium"
+    },
+    "motacilla-tschutschensis": {
+      "season": "winter",
+      "facts": [
+        "Split from the western yellow wagtail in 2003 after DNA studies.",
+        "It breeds in the eastern Palearctic and Alaska; its winter range reaches west to eastern India and Sri Lanka."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Eastern_yellow_wagtail"
+      ],
+      "_confidence": "medium"
+    },
+    "anthus-richardi": {
+      "season": "winter",
+      "facts": [
+        "A large pipit that breeds in Siberia, Mongolia and China and winters in the Indian subcontinent and Southeast Asia.",
+        "Named after the French naturalist Charles Richard."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Richard's_pipit"
+      ],
+      "_confidence": "medium"
+    },
+    "anthus-hodgsoni": {
+      "season": "winter",
+      "facts": [
+        "Also called the Indian or Hodgson's pipit; more olive and less streaked above than the tree pipit.",
+        "It breeds in the Himalayas and northern Asia and winters across southern Asia."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Olive-backed_pipit"
+      ],
+      "_confidence": "medium"
+    },
+    "emberiza-bruniceps": {
+      "season": "winter",
+      "facts": [
+        "It breeds in Central Asia and winters in India and Bangladesh.",
+        "It was moved in 2026 to the revived genus Melophus."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Red-headed_bunting"
+      ],
+      "_confidence": "high"
+    },
+    "emberiza-spodocephala": {
+      "season": "winter",
+      "facts": [
+        "It breeds in Siberia and northern China and winters in northeast India, southern China and Southeast Asia.",
+        "In winter it stays close to water in farmland and bushy open country."
+      ],
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Black-faced_bunting"
+      ],
+      "_confidence": "medium"
+    },
+    "accipiter-badius": {
+      "name_sci": "Tachyspiza badia",
+      "_why": "English Wikipedia taxobox/lead uses Tachyspiza badia; formerly placed in Accipiter.",
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Shikra"
+      ]
+    },
+    "ixobrychus-cinnamomeus": {
+      "name_sci": "Botaurus cinnamomeus",
+      "_why": "English Wikipedia lead uses Botaurus cinnamomeus; 'formerly placed in the genus Ixobrychus'.",
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Cinnamon_bittern"
+      ]
+    },
+    "haliaeetus-ichthyaetus": {
+      "name_sci": "Icthyophaga ichthyaetus",
+      "_why": "English Wikipedia lead uses Icthyophaga ichthyaetus.",
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Grey-headed_fish_eagle"
+      ]
+    },
+    "haliaeetus-leucogaster": {
+      "name_sci": "Icthyophaga leucogaster",
+      "_why": "English Wikipedia lead uses Icthyophaga leucogaster; 'now one of six eagles placed in the genus Icthyophaga'.",
+      "_sources": [
+        "https://en.wikipedia.org/wiki/White-bellied_sea_eagle"
+      ]
+    },
+    "charadrius-dubius": {
+      "name_sci": "Thinornis dubius",
+      "_why": "English Wikipedia lead uses Thinornis dubius; 'now one of seven plovers placed in the genus Thinornis'.",
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Little_ringed_plover"
+      ]
+    },
+    "butorides-striata": {
+      "name_sci": "Butorides atricapilla",
+      "_why": "Old World birds are now the little heron (Butorides atricapilla, Wikipedia taxobox); striated heron proper (B. striata) is restricted to South America. The South Asian race javanica belongs to B. atricapilla.",
+      "_sources": [
+        "https://en.wikipedia.org/wiki/Little_heron"
+      ]
+    }
+  }
+}

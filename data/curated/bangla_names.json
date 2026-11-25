@@ -1,0 +1,2171 @@
+{
+ "_readme": "Bangla names, curated by an agent from cited sources; needs human review.",
+ "species": {
+  "abroscopus-superciliaris": {
+   "name_bn": "হলদেপেট ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "accipiter-badius": {
+   "name_bn": "পাতি শিকরে",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "তুর্কি বাজ",
+   "_confidence": "high"
+  },
+  "accipiter-gentilis": {
+   "name_bn": "উত্তুরে গোদাশিকরে",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "accipiter-gularis": {
+   "name_bn": "জাপানি চড়াইশিকরে",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "accipiter-nisus": {
+   "name_bn": "ইউরেশীয় চড়াইশিকরে",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "accipiter-trivirgatus": {
+   "name_bn": "ঝুঁটিয়াল গোদাশিকরে",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "accipiter-virgatus": {
+   "name_bn": "বসরা শিকরে",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "aceros-nipalensis": {
+   "name_bn": "লালচেঘাড় ধনেশ",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "রুফুয়স ঘাড়যুক্ত ধনেশ",
+   "_confidence": "high"
+  },
+  "acridotheres-cinereus": {
+   "name_bn": "ধলাতলা শালিক",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "acrocephalus-agricola": {
+   "name_bn": "ধানি ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "acrocephalus-bistrigiceps": {
+   "name_bn": "কালাভ্রু নলফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "acrocephalus-concinens": {
+   "name_bn": "ভোঁতাডানা ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "acrocephalus-dumetorum": {
+   "name_bn": "বাইদের ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "acrocephalus-stentoreus": {
+   "name_bn": "বাচাল নলফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "aegypius-monachus": {
+   "name_bn": "কালা শকুন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "aerodramus-brevirostris": {
+   "name_bn": "হিমালয়ী কুটিবাতাসি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "aethopyga-ignicauda": {
+   "name_bn": "লাললেজ মৌটুসি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "alaudala-raytal": {
+   "name_bn": "বালি ভরত",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "alcedo-hercules": {
+   "name_bn": "ব্লাইদের মাছরাঙা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "ব্লিথের মাছরাঙা",
+   "_confidence": "high"
+  },
+  "alcippe-nipalensis": {
+   "name_bn": "নেপালি ফুলভেটা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "alophoixus-flaveolus": {
+   "name_bn": "ধলাগলা বুলবুল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "anthipes-monileger": {
+   "name_bn": "ধলামালা চুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "anthus-campestris": {
+   "name_bn": "তামাটে তুলিকা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "anthus-cervinus": {
+   "name_bn": "লালগলা তুলিকা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "anthus-godlewskii": {
+   "name_bn": "বাইদের তুলিকা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "anthus-hodgsoni": {
+   "name_bn": "জলপাইপিঠ তুলিকা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "anthus-richardi": {
+   "name_bn": "রিচার্ডের তুলিকা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "anthus-roseatus": {
+   "name_bn": "গোলাপি তুলিকা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "apus-affinis": {
+   "name_bn": "ঘর বাতাসি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "apus-melba": {
+   "name_bn": "আলপাইন বাতাসি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "apus-pacificus": {
+   "name_bn": "চেরালেজ বাতাসি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "চেরালেজ বাতাসী",
+   "_confidence": "high"
+  },
+  "aquila-fasciata": {
+   "name_bn": "বনেলির ঈগল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "aquila-nipalensis": {
+   "name_bn": "নেপালি ঈগল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "ardea-cinerea": {
+   "name_bn": "ধুপনি বক",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "সাদা বক",
+   "_confidence": "high"
+  },
+  "ardea-insignis": {
+   "name_bn": "ধলাপেট বক",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "ardeola-bacchus": {
+   "name_bn": "চীনা কানিবক",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "arenaria-interpres": {
+   "name_bn": "লাল নুড়িবাটান",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "artamus-fuscus": {
+   "name_bn": "মেটে বনাবাবিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "অঞ্জন",
+   "_confidence": "high"
+  },
+  "arundinax-aedon": {
+   "name_bn": "মোটাঠোঁট ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "asio-flammeus": {
+   "name_bn": "ছোটকান প্যাঁচা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "aviceda-jerdoni": {
+   "name_bn": "জার্ডনের বাজ",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "aviceda-leuphotes": {
+   "name_bn": "কালা বাজ",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "aythya-fuligula": {
+   "name_bn": "টিকি হাঁস",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf ; https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "কালো হাঁস",
+   "_confidence": "high"
+  },
+  "batrachostomus-hodgsoni": {
+   "name_bn": "হজসনি ব্যাঙমুখো",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "botaurus-stellaris": {
+   "name_bn": "বাঘা বগলা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "brachypodius-melanocephalos": {
+   "name_bn": "কালামাথা বুলবুল",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "bubo-bengalensis": {
+   "name_bn": "বাংলা হুতোমপ্যাঁচা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "বেঙ্গল ঈগল পেঁচা",
+   "_confidence": "high"
+  },
+  "bubo-bubo": {
+   "name_bn": "ইউরেশীয় হুতোমপ্যাঁচা",
+   "_source": "https://bn.wikipedia.org/wiki/লাদাখের_প্রাণিকুল",
+   "_confidence": "medium"
+  },
+  "bubo-nipalensis": {
+   "name_bn": "চিতিপেট হুতোমপ্যাঁচা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "burhinus-indicus": {
+   "name_bn": "দেশি মোটাহাঁটু",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "butastur-teesa": {
+   "name_bn": "ধলাচোখ তিসাবাজ",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "buteo-buteo": {
+   "name_bn": "পাতি তিসাবাজ",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "buteo-rufinus": {
+   "name_bn": "লম্বাপা তিসাবাজ",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "butorides-striata": {
+   "name_bn": "খুদে বক",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "সবুজ বক",
+   "_confidence": "high"
+  },
+  "cacomantis-passerinus": {
+   "name_bn": "মেটেপেট পাপিয়া",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "মেঠে পেট পাপিয়া",
+   "_confidence": "high"
+  },
+  "cacomantis-sonneratii": {
+   "name_bn": "দাগি তামাপাপিয়া",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "দাগী তামা পাপিয়া",
+   "_confidence": "high"
+  },
+  "calandrella-acutirostris": {
+   "name_bn": "হিউমের ভোতাভরত",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "calandrella-brachydactyla": {
+   "name_bn": "বড় ভোতাভরত",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "calidris-alba": {
+   "name_bn": "স্যান্ডারলিং",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "medium"
+  },
+  "calidris-canutus": {
+   "name_bn": "লাল নট",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "calidris-falcinellus": {
+   "name_bn": "মোটাঠুঁটো বাটান",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "calidris-ferruginea": {
+   "name_bn": "গুলিন্দা বাটান",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "calidris-minuta": {
+   "name_bn": "ছোট চাপাখি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "calidris-pugnax": {
+   "name_bn": "গেওয়ালা বাটান",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "calidris-pygmaea": {
+   "name_bn": "চামচঠুঁটো বাটান",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "চামচঠুঁটো  বাটান",
+   "_confidence": "high"
+  },
+  "calidris-ruficollis": {
+   "name_bn": "লালঘাড় চাপাখি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "calidris-subminuta": {
+   "name_bn": "লম্বাঙ্গুল চাপাখি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "calidris-temminckii": {
+   "name_bn": "টেমিঙ্কের চাপাখি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "calidris-tenuirostris": {
+   "name_bn": "বড় নট",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "calliope-pectardens": {
+   "name_bn": "লালগলা ফিদ্দা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "calliope-pectoralis": {
+   "name_bn": "ধলালেজ চুনিকণ্ঠী",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "caprimulgus-affinis": {
+   "name_bn": "মেঠো রাতচরা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "caprimulgus-asiaticus": {
+   "name_bn": "দেশি রাতচরা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "caprimulgus-jotaka": {
+   "name_bn": "মেটে রাতচরা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "caprimulgus-macrurus": {
+   "name_bn": "ল্যাঞ্জা রাতচরা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "দিনকানা",
+   "_confidence": "high"
+  },
+  "cecropis-daurica": {
+   "name_bn": "লালকোমর আবাবিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "cecropis-striolata": {
+   "name_bn": "দাগি আবাবিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "ceryle-rudis": {
+   "name_bn": "পাকরা মাছরাঙা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "দাগযুক্ত মাছরাঙা",
+   "_confidence": "high"
+  },
+  "cettia-castaneocoronata": {
+   "name_bn": "খয়রামাথা টেসিয়া",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "charadrius-alexandrinus": {
+   "name_bn": "কেন্টিশ জিরিয়া",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "কেনটিশ প্লোভার",
+   "_confidence": "high"
+  },
+  "charadrius-dubius": {
+   "name_bn": "ছোট নথজিরিয়া",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "charadrius-hiaticula": {
+   "name_bn": "পাতি নথজিরিয়া",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "charadrius-leschenaultii": {
+   "name_bn": "বড় ধুলজিরিয়া",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "charadrius-mongolus": {
+   "name_bn": "ছোট ধুলজিরিয়া",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "charadrius-placidus": {
+   "name_bn": "লম্বাঠুঁটো জিরিয়া",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "chelidorhynx-hypoxanthus": {
+   "name_bn": "হলদেপেট লেজনাচানি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "হলুদঘন্টী ফ্যান্টাইল",
+   "_confidence": "high"
+  },
+  "chlidonias-leucopterus": {
+   "name_bn": "ধলাপাখ পানচিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "chloropsis-aurifrons": {
+   "name_bn": "সোনাকপালি হরবোলা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "সোনালি-কপাল পাতা বুলবুলি",
+   "_confidence": "high"
+  },
+  "chloropsis-cochinchinensis": {
+   "name_bn": "নীলডানা হরবোলা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "chloropsis-hardwickii": {
+   "name_bn": "কমলাপেট হরবোলা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "কমলাপেট পাতা বুলবুলি",
+   "_confidence": "high"
+  },
+  "chroicocephalus-brunnicephalus": {
+   "name_bn": "খয়রামাথা গাঙচিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "chroicocephalus-genei": {
+   "name_bn": "সরুঠুঁটি গাঙচিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "chroicocephalus-ridibundus": {
+   "name_bn": "কালোমাথা গাঙচিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "chrysococcyx-maculatus": {
+   "name_bn": "এশীয় শ্যামাপাপিয়া",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "পান্না কোকিল",
+   "_confidence": "high"
+  },
+  "chrysococcyx-xanthorhynchus": {
+   "name_bn": "বেগুনি পাপিয়া",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "বেগুনি কোকিল",
+   "_confidence": "high"
+  },
+  "cinclus-pallasii": {
+   "name_bn": "এশীয় ডিপার",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "medium",
+   "_note": "list has typo এশীয় ড্রিপার; spelling corrected"
+  },
+  "cinnyris-jugularis": {
+   "name_bn": "জলপাইপিঠ মৌটুসি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "circaetus-gallicus": {
+   "name_bn": "খাটোআঙুল সাপঈগল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "circus-cyaneus": {
+   "name_bn": "মুরগি কাপাসি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "circus-macrourus": {
+   "name_bn": "ধলা কাপাসি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "circus-melanoleucos": {
+   "name_bn": "রাখাল ভুলানি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "medium"
+  },
+  "circus-pygargus": {
+   "name_bn": "মন্টেগুর কাপাসি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "circus-spilonotus": {
+   "name_bn": "পুবের পানকাপাসি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "cisticola-exilis": {
+   "name_bn": "ধলামাথা ছোটন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "clamator-coromandus": {
+   "name_bn": "খয়রাপাখ পাপিয়া",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "খয়েরি-ডানা পাপিয়া",
+   "_confidence": "high"
+  },
+  "clanga-clanga": {
+   "name_bn": "বড় গুটিঈগল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "clanga-hastata": {
+   "name_bn": "দেশি গুটিঈগল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "cochoa-purpurea": {
+   "name_bn": "বেগুনি কোচোয়া",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "copsychus-fulicatus": {
+   "name_bn": "দেশি রবিন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "coracina-macei": {
+   "name_bn": "বড় কাবাসি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "coturnix-chinensis": {
+   "name_bn": "রাজ বটেরা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "cuculus-poliocephalus": {
+   "name_bn": "ছোট পাপিয়া",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "ধূসর মাথার পাপিয়া",
+   "_confidence": "high"
+  },
+  "cuculus-saturatus": {
+   "name_bn": "উদয়ী পাপিয়া",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "উদয় পাপিয়া",
+   "_confidence": "high"
+  },
+  "culicicapa-ceylonensis": {
+   "name_bn": "মেটেমাথা ক্যানারিচুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "cursorius-coromandelicus": {
+   "name_bn": "দেশী কোর্সার",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "cyornis-poliogenys": {
+   "name_bn": "ধলাগলা চুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "cyornis-rubeculoides": {
+   "name_bn": "নীলগলা নীলচুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "cyornis-tickelliae": {
+   "name_bn": "টিকেলের নীলচুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "cyornis-unicolor": {
+   "name_bn": "নীলচে চুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "delichon-dasypus": {
+   "name_bn": "এশীয় ঘরনাকুটি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "delichon-nipalense": {
+   "name_bn": "নেপালি ঘরনাকুটি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "dendrocitta-formosae": {
+   "name_bn": "মেটে হাঁড়িচাচা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "dendrocitta-frontalis": {
+   "name_bn": "কণ্ঠী হাঁড়িচাচা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "dicaeum-agile": {
+   "name_bn": "ঠোঁটমোটা ফুলঝুরি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "dicaeum-chrysorrheum": {
+   "name_bn": "হলদেতলা ফুলঝুরি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "dicaeum-cruentatum": {
+   "name_bn": "লালপিঠ ফুলঝুরি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "সিঁদুরে ফুলঝুরি পাখি",
+   "_confidence": "high"
+  },
+  "dicaeum-ignipectus": {
+   "name_bn": "লালবুক ফুলঝুরি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "dicaeum-melanozanthum": {
+   "name_bn": "হলদেপেট ফুলঝুরি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "dicaeum-minullum": {
+   "name_bn": "নিরল ফুলঝুরি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "dicaeum-trigonostigma": {
+   "name_bn": "কমলাপেট ফুলঝুরি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "dicrurus-aeneus": {
+   "name_bn": "ব্রোঞ্জ ফিঙে",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "dicrurus-annectens": {
+   "name_bn": "কাকঠুঁটো ফিঙে",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "dicrurus-caerulescens": {
+   "name_bn": "ধলাপেট ফিঙে",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "dicrurus-leucophaeus": {
+   "name_bn": "মেটে ফিঙে",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "medium"
+  },
+  "dicrurus-remifer": {
+   "name_bn": "ছোট ভীমরাজ",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "ducula-aenea": {
+   "name_bn": "সবুজ ধুমকল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "ducula-badia": {
+   "name_bn": "পাহাড়ি ধুমকল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "egretta-sacra": {
+   "name_bn": "প্রশান্ত শৈলবগা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "elanus-caeruleus": {
+   "name_bn": "কাটুয়া চিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "কালো ডানা চিল",
+   "_confidence": "high"
+  },
+  "emberiza-aureola": {
+   "name_bn": "হলদেবুক চটক",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "emberiza-bruniceps": {
+   "name_bn": "লালমাথা চটক",
+   "_source": "https://bn.wikipedia.org/wiki/লাদাখের_প্রাণিকুল",
+   "_confidence": "medium"
+  },
+  "emberiza-buchanani": {
+   "name_bn": "মেটেঘাড় চটক",
+   "_source": "https://bn.wikipedia.org/wiki/লাদাখের_প্রাণিকুল",
+   "_confidence": "medium"
+  },
+  "emberiza-fucata": {
+   "name_bn": "লালকান চটক",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "emberiza-pusilla": {
+   "name_bn": "ক্ষুদে চটক",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "emberiza-spodocephala": {
+   "name_bn": "কালামুখ চটক",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "enicurus-leschenaulti": {
+   "name_bn": "ধলাচাঁদি চেরালেজ",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "enicurus-maculatus": {
+   "name_bn": "তিলা চেরালেজ",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "enicurus-schistaceus": {
+   "name_bn": "স্লেটপিঠ চেরালেজ",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "enicurus-scouleri": {
+   "name_bn": "ছোট চেরালেজ",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "esacus-recurvirostris": {
+   "name_bn": "বড় মোটাহাঁটু",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "eumyias-thalassinus": {
+   "name_bn": "অম্বর চুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "নীল কটকটিয়া",
+   "_confidence": "high"
+  },
+  "falco-amurensis": {
+   "name_bn": "আমুর শাহিন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "falco-cherrug": {
+   "name_bn": "সাকের শাহিন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "সাকের শাহীন",
+   "_confidence": "high"
+  },
+  "falco-jugger": {
+   "name_bn": "লগ্গর শাহিন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "লাজ্ঞর শাহীন",
+   "_confidence": "high"
+  },
+  "falco-naumanni": {
+   "name_bn": "ছোট কেস্ট্রেল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "falco-peregrinus": {
+   "name_bn": "পেরেগ্রিন শাহিন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "বহেরী বাজ",
+   "_confidence": "high"
+  },
+  "falco-severus": {
+   "name_bn": "উদয়ী টিকাশাহিন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "falco-subbuteo": {
+   "name_bn": "ইউরেশীয় টিকাশাহিন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "ficedula-albicilla": {
+   "name_bn": "তাইগা চুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "ficedula-hyperythra": {
+   "name_bn": "ধলাভ্রু চুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "সাদা-ভ্রু চুটকি",
+   "_confidence": "high"
+  },
+  "ficedula-parva": {
+   "name_bn": "লালবুক চুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "লালগলা চুটকি",
+   "_confidence": "medium"
+  },
+  "ficedula-ruficauda": {
+   "name_bn": "মরচে লেজ চুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "খয়রা-লেজ চুটকি",
+   "_confidence": "medium"
+  },
+  "ficedula-sapphira": {
+   "name_bn": "নীলকান্ত চুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "ficedula-strophiata": {
+   "name_bn": "লালমালা চুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "ficedula-superciliaris": {
+   "name_bn": "ঘননীল চুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "ficedula-tricolor": {
+   "name_bn": "কালচেনীল চুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "ficedula-westermanni": {
+   "name_bn": "ছোট পাকরাচুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "fregetta-tropica": {
+   "name_bn": "কালোপেট ঝড়োপেট্রেল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "gallinago-gallinago": {
+   "name_bn": "পাতি চ্যাগা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "gallinago-megala": {
+   "name_bn": "সুইনহোর চ্যাগা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "gallinago-nemoricola": {
+   "name_bn": "বন চ্যাগা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "gallinago-solitaria": {
+   "name_bn": "একলা চ্যাগা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "gallinago-stenura": {
+   "name_bn": "ল্যাঞ্জা চ্যাগা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "garrulax-leucolophus": {
+   "name_bn": "ধলাঝুঁটি পেঙ্গা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "garrulax-monileger": {
+   "name_bn": "ছোট মালাপেঙ্গা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "garrulus-glandarius": {
+   "name_bn": "ইউরেশীয় জে",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "gelochelidon-nilotica": {
+   "name_bn": "কালাঠোঁট পানচিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "geokichla-wardii": {
+   "name_bn": "পাকরা দামা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "glareola-lactea": {
+   "name_bn": "ছোট বাবুবাটান",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "বাবুই বাটান",
+   "_confidence": "high"
+  },
+  "glareola-maldivarum": {
+   "name_bn": "উদয়ী বাবুবাটান",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "glareola-pratincola": {
+   "name_bn": "কণ্ঠী বাবুবাটান",
+   "_source": "https://bn.wikipedia.org/wiki/লাদাখের_প্রাণিকুল",
+   "_confidence": "medium"
+  },
+  "glaucidium-cuculoides": {
+   "name_bn": "এশীয় দাগিপ্যাঁচা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "glaucidium-radiatum": {
+   "name_bn": "জংলী কুটিপ্যাঁচা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "gorsachius-melanolophus": {
+   "name_bn": "মালয়ী নিশিবক",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "grus-grus": {
+   "name_bn": "পাতি সারস",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "লক্ষ্মণ সারস",
+   "_confidence": "medium"
+  },
+  "gygis-alba": {
+   "name_bn": "ধলা পানচিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "gyps-bengalensis": {
+   "name_bn": "বাংলা শকুন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "gyps-fulvus": {
+   "name_bn": "ইউরেশীয় গৃধিনী",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "gyps-himalayensis": {
+   "name_bn": "হিমালয়ী গৃধিনী",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "হিমালয়ী শকুন",
+   "_confidence": "high"
+  },
+  "gyps-tenuirostris": {
+   "name_bn": "সরুঠুঁটি শকুন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "haematopus-ostralegus": {
+   "name_bn": "ইউরেশীয় ঝিনুকমার",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "শুক্তিভোজী বাটান",
+   "_confidence": "high"
+  },
+  "halcyon-pileata": {
+   "name_bn": "কালোটুপি মাছরাঙা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "কালো মাথা মাছরাঙা",
+   "_confidence": "high"
+  },
+  "haliaeetus-albicilla": {
+   "name_bn": "ধলালেজ ঈগল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "সাদা লেজধারী ঈগল",
+   "_confidence": "high"
+  },
+  "haliaeetus-humilis": {
+   "name_bn": "ছোট কুরাঈগল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "haliaeetus-ichthyaetus": {
+   "name_bn": "মেটেমাথা কুরাঈগল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "মেটে-মাথা কুড়া ঈগল",
+   "_confidence": "high"
+  },
+  "haliastur-indus": {
+   "name_bn": "শঙ্খচিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "শঙ্খ চিল",
+   "_confidence": "high"
+  },
+  "helopsaltes-certhiola": {
+   "name_bn": "পালসি ফড়িংফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "hemiprocne-coronata": {
+   "name_bn": "ঝুঁটিয়াল গাছবাতাসি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "hemipus-picatus": {
+   "name_bn": "দাগিপাখ চুটকিলাটোরা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "heterophasia-picaoides": {
+   "name_bn": "ল্যাঞ্জা সিবিয়া",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "hieraaetus-pennatus": {
+   "name_bn": "বুটপা ঈগল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "hierococcyx-nisicolor": {
+   "name_bn": "হজসনি চোখগ্যালো",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "হজসনি চোখ গেল",
+   "_confidence": "high"
+  },
+  "hierococcyx-sparverioides": {
+   "name_bn": "বড় চোখগ্যালো",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "বড় চোখ গেল",
+   "_confidence": "high"
+  },
+  "hierococcyx-varius": {
+   "name_bn": "পাতি চোখগ্যালো",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "পাতি চোখ গেল",
+   "_confidence": "high"
+  },
+  "himantopus-himantopus": {
+   "name_bn": "কালাপাখ ঠেঙ্গি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "hirundapus-giganteus": {
+   "name_bn": "খয়েরিপিঠ সুইবাতাসি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "horornis-fortipes": {
+   "name_bn": "খয়রাপাশ ঝাড়ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "hydrophasianus-chirurgus": {
+   "name_bn": "নেউপিপি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "জল ময়ূর",
+   "_confidence": "high"
+  },
+  "hydroprogne-caspia": {
+   "name_bn": "কাস্পিয়ান পানচিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "hypsipetes-leucocephalus": {
+   "name_bn": "কালা বুলবুল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "ichthyaetus-ichthyaetus": {
+   "name_bn": "পালাসি গাঙচিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "iduna-caligata": {
+   "name_bn": "বুটপা ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "ixobrychus-cinnamomeus": {
+   "name_bn": "খয়রা বগলা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "লালবক",
+   "_confidence": "high"
+  },
+  "ixobrychus-flavicollis": {
+   "name_bn": "কালা বগলা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "কালিবক",
+   "_confidence": "high"
+  },
+  "ixobrychus-minutus": {
+   "name_bn": "ছোট বগলা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "ixobrychus-sinensis": {
+   "name_bn": "হলদে বগলা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "হলদে বক",
+   "_confidence": "high"
+  },
+  "ketupa-flavipes": {
+   "name_bn": "তামাটে মেছোপ্যাঁচা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "কৃষ্ণকায় মেছো পেঁচা",
+   "_confidence": "high"
+  },
+  "ketupa-ketupu": {
+   "name_bn": "মেটে মেছোপ্যাঁচা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "medium"
+  },
+  "ketupa-zeylonensis": {
+   "name_bn": "খয়রা মেছোপ্যাঁচা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf ; https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "খয়েরি মেছো প্যাঁচা",
+   "_confidence": "high"
+  },
+  "lalage-melanoptera": {
+   "name_bn": "কালামাথা কাবাসি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "lalage-melaschistos": {
+   "name_bn": "কালাপাখ কাবাসি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "lanius-collurioides": {
+   "name_bn": "বর্মি লাটোরা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "lanius-cristatus": {
+   "name_bn": "খয়রা লাটোরা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "কাজল পাখি",
+   "_confidence": "high"
+  },
+  "lanius-schach": {
+   "name_bn": "ল্যাঞ্জা লাটোরা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "মেটে লটোড়া",
+   "_confidence": "high"
+  },
+  "larus-cachinnans": {
+   "name_bn": "হলদেপা গাঙচিল",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "larvivora-brunnea": {
+   "name_bn": "দেশি নীলরবিন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "larvivora-cyane": {
+   "name_bn": "সাইবেরীয় নীলরবিন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "laticilla-burnesii": {
+   "name_bn": "লালতলা প্রিনা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "লালাতলা প্রিনা",
+   "_confidence": "high"
+  },
+  "laticilla-cinerascens": {
+   "name_bn": "জলার প্রিনা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "leptoptilos-javanicus": {
+   "name_bn": "ছোট মদনটাক",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "মদনটাক",
+   "_confidence": "high"
+  },
+  "limnodromus-semipalmatus": {
+   "name_bn": "এশীয় ডউইচার",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "limosa-lapponica": {
+   "name_bn": "ডোরালেজ জৌরালি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "বার-টেইলড গডভিট",
+   "_confidence": "high"
+  },
+  "limosa-limosa": {
+   "name_bn": "কালালেজ জৌরালি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "কালো লেজের গডউইট",
+   "_confidence": "high"
+  },
+  "locustella-lanceolata": {
+   "name_bn": "পাতারি ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "locustella-luteoventris": {
+   "name_bn": "খয়রা ঝাড়ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "locustella-naevia": {
+   "name_bn": "পাতি ফড়িংফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "locustella-thoracica": {
+   "name_bn": "তিলা ঝাড়ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "lophotriorchis-kienerii": {
+   "name_bn": "লালপেট ঈগল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "lymnocryptes-minimus": {
+   "name_bn": "জ্যাক চ্যাগা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "macropygia-unchall": {
+   "name_bn": "দাগি কোকিলঘুঘু",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "malacocincla-abbotti": {
+   "name_bn": "অ্যাবটের ছাতারে",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "megaceryle-lugubris": {
+   "name_bn": "ঝুঁটিয়াল মাছরাঙা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "ঝুঁটিত্তয়ালা মাছরাঙা",
+   "_confidence": "high"
+  },
+  "melanochlora-sultanea": {
+   "name_bn": "সুলতান তিত",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "microhierax-caerulescens": {
+   "name_bn": "কণ্ঠি কুটিশাহিন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "microhierax-melanoleucus": {
+   "name_bn": "পাকরা কুটিশাহিন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "micropternus-brachyurus": {
+   "name_bn": "খয়রা কাঠকুড়ালি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "খয়েরি কাঠঠোকরা",
+   "_confidence": "high"
+  },
+  "mirafra-assamica": {
+   "name_bn": "বাংলা ঝাড়ভরত",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "monticola-cinclorhynchus": {
+   "name_bn": "নীলটুপি শিলাদামা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "monticola-rufiventris": {
+   "name_bn": "খয়রাপেট শিলাদামা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "monticola-solitarius": {
+   "name_bn": "নীল শিলাদামা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "motacilla-cinerea": {
+   "name_bn": "মেটে খঞ্জন",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "motacilla-citreola": {
+   "name_bn": "সিট্রিন খঞ্জন",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "motacilla-flava": {
+   "name_bn": "পশ্চিমা হলদেখঞ্জন",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "motacilla-maderaspatensis": {
+   "name_bn": "ধলাভ্রু খঞ্জন",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "সাদা-ভুরু খঞ্জন",
+   "_confidence": "high"
+  },
+  "mulleripicus-pulverulentus": {
+   "name_bn": "বড় মেটেকুড়ালি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "muscicapa-dauurica": {
+   "name_bn": "এশীয় খয়রাচুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "muscicapa-ferruginea": {
+   "name_bn": "মরচেরঙ চুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "muscicapa-muttui": {
+   "name_bn": "মেটেবুক চুটকি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "বাদামিবুক চটক",
+   "_confidence": "high"
+  },
+  "myiomela-leucura": {
+   "name_bn": "ধলালেজ রবিন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "myophonus-caeruleus": {
+   "name_bn": "নীল শিসদামা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "নীলাঞ্জনা পাখি",
+   "_confidence": "high"
+  },
+  "neophron-percnopterus": {
+   "name_bn": "ধলা শকুন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "niltava-grandis": {
+   "name_bn": "বড় নীলমণি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "niltava-macgrigoriae": {
+   "name_bn": "ছোট নীলমণি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "niltava-sundara": {
+   "name_bn": "লালপেট নীলমণি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "nisaetus-cirrhatus": {
+   "name_bn": "বহুরূপী শিকরে ঈগল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "শাবাজ",
+   "_confidence": "medium"
+  },
+  "nisaetus-nipalensis": {
+   "name_bn": "পাহাড়ি শিকরে ঈগল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "পাহাড়ি বাজ",
+   "_confidence": "high"
+  },
+  "numenius-arquata": {
+   "name_bn": "ইউরেশীয় গুলিন্দা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "numenius-madagascariensis": {
+   "name_bn": "পুবের গুলিন্দা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "numenius-phaeopus": {
+   "name_bn": "নাটা গুলিন্দা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "ছোট গুলিন্দা",
+   "_confidence": "high"
+  },
+  "oceanites-oceanicus": {
+   "name_bn": "উইলসনের ঝড়োপেট্রেল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "onychoprion-fuscatus": {
+   "name_bn": "ঝুল পানচিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "oriolus-tenuirostris": {
+   "name_bn": "সরুঠোঁট বেনেবউ",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "oriolus-traillii": {
+   "name_bn": "তামারঙ বেনেবউ",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "তামারঙ বেনে বৌ",
+   "_confidence": "high"
+  },
+  "orthotomus-sutorius": {
+   "name_bn": "পাতি টুনটুনি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "দরজি পাখি টুনটুনি",
+   "_confidence": "high"
+  },
+  "otus-lettia": {
+   "name_bn": "কণ্ঠী নিমপ্যাঁচা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "কন্ঠী নিমপ্যাঁচা",
+   "_confidence": "high"
+  },
+  "otus-spilocephalus": {
+   "name_bn": "পাহাড়ি নিমপ্যাঁচা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "পাহাড়ী নিম প্যাঁচা",
+   "_confidence": "high"
+  },
+  "parus-monticolus": {
+   "name_bn": "সবুজপিঠ তিত",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "parus-spilonotus": {
+   "name_bn": "হলদেগাল তিত",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "pavo-cristatus": {
+   "name_bn": "নীল ময়ূর",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "ভারতীয় ময়ূর",
+   "_confidence": "high"
+  },
+  "pelecanus-crispus": {
+   "name_bn": "ডালমেশিয়ান গগণবেড়",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "pelecanus-onocrotalus": {
+   "name_bn": "বড় ধলা গগণবেড়",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "pelecanus-philippensis": {
+   "name_bn": "চিতিঠুঁটি গগণবেড়",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "pericrocotus-brevirostris": {
+   "name_bn": "খাটোঠোঁট সাহেলি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "pericrocotus-cantonensis": {
+   "name_bn": "সুইনহোর সাহেলি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "pericrocotus-divaricatus": {
+   "name_bn": "মেটে সাহেলি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "medium"
+  },
+  "pericrocotus-erythropygius": {
+   "name_bn": "ধলাপেট সাহেলি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "pericrocotus-flammeus": {
+   "name_bn": "সিঁদুরে সাহেলি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "লাল সহেলি",
+   "_confidence": "high"
+  },
+  "pericrocotus-roseus": {
+   "name_bn": "গোলাপি সাহেলি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "pericrocotus-solaris": {
+   "name_bn": "মেটেগলা সাহেলি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "pernis-ptilorhynchus": {
+   "name_bn": "উদয়ী মধুবাজ",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "petrochelidon-fluvicola": {
+   "name_bn": "দাগিগলা আবাবিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phaenicophaeus-tristis": {
+   "name_bn": "সবুজঠোঁট মালকোয়া",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "সবুজঠোঁট মালকোআ",
+   "_confidence": "high"
+  },
+  "phaethon-rubricauda": {
+   "name_bn": "লাললেজ বিষুবীয়া",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "phalaropus-fulicarius": {
+   "name_bn": "লাল ফ্যালারোপ",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "phalaropus-lobatus": {
+   "name_bn": "লালঘাড় ফ্যালারোপ",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "phoenicurus-auroreus": {
+   "name_bn": "ডাউরিয়ান গির্দি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phoenicurus-frontalis": {
+   "name_bn": "নীলকপালি গির্দি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "নীল-লালগির্দি",
+   "_confidence": "high"
+  },
+  "phoenicurus-fuliginosus": {
+   "name_bn": "নীল পানগির্দি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phoenicurus-ochruros": {
+   "name_bn": "কালা গির্দি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phylloscopus-affinis": {
+   "name_bn": "টিকেলের পাতাফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phylloscopus-burkii": {
+   "name_bn": "সবুজচাঁদি ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phylloscopus-cantator": {
+   "name_bn": "হলদেতলা ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phylloscopus-castaniceps": {
+   "name_bn": "লালচাঁদি ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phylloscopus-chloronotus": {
+   "name_bn": "লেবুকোমর ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phylloscopus-collybita": {
+   "name_bn": "পাতি চিফচ্যাফ",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phylloscopus-fuligiventer": {
+   "name_bn": "মেটে ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phylloscopus-fuscatus": {
+   "name_bn": "কালচে ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phylloscopus-inornatus": {
+   "name_bn": "হলদেভ্রু ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phylloscopus-intermedius": {
+   "name_bn": "ধলাচোখ ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phylloscopus-magnirostris": {
+   "name_bn": "বড়ঠোঁট ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phylloscopus-occipitalis": {
+   "name_bn": "পশ্চিমা মাথাফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phylloscopus-reguloides": {
+   "name_bn": "বাইদের পাতাফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phylloscopus-schwarzi": {
+   "name_bn": "রাড্ডির ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "medium"
+  },
+  "phylloscopus-tephrocephalus": {
+   "name_bn": "মেটেচাঁদি ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phylloscopus-trochiloides": {
+   "name_bn": "সবজে ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phylloscopus-whistleri": {
+   "name_bn": "হুইসলারের ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "phylloscopus-xanthoschistos": {
+   "name_bn": "মেটেমুখোশ ফুটকি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "platalea-leucorodia": {
+   "name_bn": "ইউরেশীয় চামচঠুঁটি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "খুন্তেবক",
+   "_confidence": "high"
+  },
+  "ploceus-benghalensis": {
+   "name_bn": "বাংলা বাবুই",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "কালোবুক বাবুই",
+   "_confidence": "high"
+  },
+  "pluvialis-fulva": {
+   "name_bn": "প্রশান্ত সোনাজিরিয়া",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "প্রশান্ত মহাসাগরীয় সোনালী টিট্টিভ",
+   "_confidence": "high"
+  },
+  "pluvialis-squatarola": {
+   "name_bn": "মেটে জিরিয়া",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "podiceps-grisegena": {
+   "name_bn": "লালগলা ডুবুরি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "podiceps-nigricollis": {
+   "name_bn": "কালাঘাড় ডুবুরি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "pomatorhinus-schisticeps": {
+   "name_bn": "ধলাভ্রু কাস্তেছাতারে",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "porzana-porzana": {
+   "name_bn": "তিলা গুরগুরি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "prinia-flaviventris": {
+   "name_bn": "হলদেপেট প্রিনা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "prinia-inornata": {
+   "name_bn": "নিরল প্রিনা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "নিরল প্রিনিয়া",
+   "_confidence": "high"
+  },
+  "prinia-rufescens": {
+   "name_bn": "লালচে প্রিনা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "prinia-sylvatica": {
+   "name_bn": "জঙ্গল প্রিনা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "psilopogon-asiaticus": {
+   "name_bn": "নীলগলা বসন্তবৌরি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf ; https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "বড় বসন্ত বৌরি",
+   "_confidence": "high"
+  },
+  "psilopogon-duvaucelii": {
+   "name_bn": "নীলকান বসন্তবৌরি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "psilopogon-franklinii": {
+   "name_bn": "সোনালিগলা বসন্তবৌরি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "সোনালি গলা বসন্তবৌরি",
+   "_confidence": "high"
+  },
+  "psilopogon-lineatus": {
+   "name_bn": "দাগি বসন্তবৌরি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "দাগি বসন্ত",
+   "_confidence": "high"
+  },
+  "psilopogon-virens": {
+   "name_bn": "বড় বসন্তবৌরি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "বৃহৎ বসন্তবৌরি",
+   "_confidence": "high"
+  },
+  "psittacula-alexandri": {
+   "name_bn": "মদনা টিয়া",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf ; https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "লালছাতি টিয়া",
+   "_confidence": "high"
+  },
+  "pterorhinus-galbanus": {
+   "name_bn": "হলদেগলা পেঙ্গা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "pterorhinus-pectoralis": {
+   "name_bn": "বড় মালাপেঙ্গা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "pterorhinus-ruficollis": {
+   "name_bn": "লালঘাড় পেঙ্গা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "pycnonotus-luteolus": {
+   "name_bn": "শ্বেতভ্রু বুলবুল",
+   "_source": "https://bn.wikipedia.org/wiki/পাইকনোনোটাস",
+   "_confidence": "medium"
+  },
+  "recurvirostra-avosetta": {
+   "name_bn": "পাকরা উল্টোঠুঁটি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "উল্টোঠুঁটি",
+   "_confidence": "high"
+  },
+  "riparia-diluta": {
+   "name_bn": "ম্লান নাকুটি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "rubigula-flaviventris": {
+   "name_bn": "কালাঝুঁটি বুলবুল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "কালোঝুঁটি বুলবুলি",
+   "_confidence": "high"
+  },
+  "saroglossa-spilopterus": {
+   "name_bn": "চিতিপাখ গোশালিক",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "medium"
+  },
+  "sasia-ochracea": {
+   "name_bn": "ধলাভ্রু কুটিকুড়ালি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "সাদা ভ্রূ কাঠঠোকরা",
+   "_confidence": "high"
+  },
+  "saxicola-insignis": {
+   "name_bn": "ধলাগলা ঝাড়ফিদ্দা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "saxicola-jerdoni": {
+   "name_bn": "জার্ডনের ঝাড়ফিদ্দা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "scolopax-rusticola": {
+   "name_bn": "ইউরেশীয় মুরগিচ্যাগা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "serilophus-lunatus": {
+   "name_bn": "চাঁদিবুক মোটাঠুঁটি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "sitta-castanea": {
+   "name_bn": "দেশি বনমালী",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "sitta-cinnamoventris": {
+   "name_bn": "খয়রাপেট বনমালী",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "sitta-nagaensis": {
+   "name_bn": "খয়েরিতলা বনমালী",
+   "_source": "https://bn.wikipedia.org/wiki/বনমালী",
+   "_confidence": "medium"
+  },
+  "spizixos-canifrons": {
+   "name_bn": "ঝুঁটিয়াল তুতিঠুঁটি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "stachyris-nigriceps": {
+   "name_bn": "মেটেগলা ছাতারে",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "লাল টুপি ছাতারে",
+   "_confidence": "high"
+  },
+  "staphida-castaniceps": {
+   "name_bn": "দাগি উহিনা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "stercorarius-parasiticus": {
+   "name_bn": "পরজীবী জেগার",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "stercorarius-pomarinus": {
+   "name_bn": "পোমারাইন জেগার",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "sterna-acuticauda": {
+   "name_bn": "কালাপেট পানচিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "sterna-aurantia": {
+   "name_bn": "নদীয়া পানচিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "sterna-sumatrana": {
+   "name_bn": "কালাঘাড় পানচিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "sternula-albifrons": {
+   "name_bn": "ছোট পানচিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "streptopelia-decaocto": {
+   "name_bn": "ইউরেশীয় কণ্ঠীঘুঘু",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "streptopelia-orientalis": {
+   "name_bn": "উদয়ী রাজঘুঘু",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "streptopelia-senegalensis": {
+   "name_bn": "খুদে ঘুঘু",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "medium"
+  },
+  "streptopelia-tranquebarica": {
+   "name_bn": "লাল রাজঘুঘু",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "লাল ঘুঘু",
+   "_confidence": "high"
+  },
+  "strix-leptogrammica": {
+   "name_bn": "খয়রা গাছপ্যাঁচা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "strix-ocellata": {
+   "name_bn": "চিত্রা গাছপ্যাঁচা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "sturnia-malabarica": {
+   "name_bn": "খয়রালেজ কাঠশালিক",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "কাঠ শালিক",
+   "_confidence": "high"
+  },
+  "sturnia-pagodarum": {
+   "name_bn": "বামুনি কাঠশালিক",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "sturnus-vulgaris": {
+   "name_bn": "পাতি কাঠশালিক",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "চিত্রা শালিক",
+   "_confidence": "high"
+  },
+  "sula-sula": {
+   "name_bn": "লালপা বুবি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "surniculus-lugubris": {
+   "name_bn": "এশীয় ফিঙেপাপিয়া",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "ফিঙে কুলি",
+   "_confidence": "high"
+  },
+  "tachybaptus-ruficollis": {
+   "name_bn": "ছোট ডুবুরি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "ডুবুরি",
+   "_confidence": "high"
+  },
+  "taenioptynx-brodiei": {
+   "name_bn": "দাগিঘাড় কুটিপ্যাঁচা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "tarsiger-hyperythrus": {
+   "name_bn": "লালবুক বনরবিন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "tarsiger-indicus": {
+   "name_bn": "ধলাভ্রু বনরবিন",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "tephrodornis-gularis": {
+   "name_bn": "বড় বনলাটোরা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "tephrodornis-pondicerianus": {
+   "name_bn": "পাতি বনলাটোরা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "tesia-cyaniventer": {
+   "name_bn": "মেটেপেট টেসিয়া",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "tesia-olivea": {
+   "name_bn": "স্লেটপেট টেসিয়া",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "thalasseus-bengalensis": {
+   "name_bn": "বাংলা টিকিপানচিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "thalasseus-bergii": {
+   "name_bn": "বড় টিকিপানচিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "thalasseus-sandvicensis": {
+   "name_bn": "স্যান্ডউইচ পানচিল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "timalia-pileata": {
+   "name_bn": "লালটুপি ছাতারে",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "treron-curvirostra": {
+   "name_bn": "ঠোঁটমোটা হরিয়াল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "treron-sphenura": {
+   "name_bn": "গেঁজলেজ হরিয়াল",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "tringa-brevipes": {
+   "name_bn": "মেটেলেজ ট্যাটলার",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "tringa-erythropus": {
+   "name_bn": "তিলা লালপা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "চিত্রিত পি-উ",
+   "_confidence": "high"
+  },
+  "tringa-glareola": {
+   "name_bn": "বন বাটান",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "tringa-guttifer": {
+   "name_bn": "নর্ডম্যানের সবুজপা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "tringa-nebularia": {
+   "name_bn": "পাতি সবুজপা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "tringa-ochropus": {
+   "name_bn": "সবুজ বাটান",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "tringa-stagnatilis": {
+   "name_bn": "বিল বাটান",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "লরীয়তী",
+   "_confidence": "high"
+  },
+  "tringa-totanus": {
+   "name_bn": "পাতি লালপা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "লালপা পি-উ",
+   "_confidence": "high"
+  },
+  "turdus-albocinctus": {
+   "name_bn": "ধলাঘাড় কালিদামা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "turdus-atrogularis": {
+   "name_bn": "কালাগলা দামা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "turdus-boulboul": {
+   "name_bn": "ধলাপাখ কালিদামা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "turdus-dissimilis": {
+   "name_bn": "কালাবুক দামা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "turdus-obscurus": {
+   "name_bn": "ভ্রুলেখা দামা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "turdus-ruficollis": {
+   "name_bn": "লালগলা দামা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "urosphena-squameiceps": {
+   "name_bn": "এশীয় ভোঁতালেজ",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "vanellus-duvaucelii": {
+   "name_bn": "নদীয়া টিটি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "vanellus-gregarius": {
+   "name_bn": "ঝাঁকবাঁধা টিটি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "vanellus-leucurus": {
+   "name_bn": "ধলালেজী টিটি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "high"
+  },
+  "vanellus-malabaricus": {
+   "name_bn": "হলদেগাল টিটি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "xenus-cinereus": {
+   "name_bn": "টেরেক বাটান",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "yuhina-nigrimenta": {
+   "name_bn": "কালাগাল উহিনা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "yungipicus-canicapillus": {
+   "name_bn": "মেটেটুপি বাটকুড়ালি",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_was": "ধূসর মুকুটওয়ালা ছোট কাঠঠোকরা",
+   "_confidence": "high"
+  },
+  "zapornia-bicolor": {
+   "name_bn": "কালোলেজী ঝিল্লি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_confidence": "medium"
+  },
+  "zapornia-pusilla": {
+   "name_bn": "বেইলন গুরগুরি",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "zoothera-dauma": {
+   "name_bn": "আঁশটে দামা",
+   "_source": "Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf ; https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা",
+   "_was": "রঙিলা দোয়েল",
+   "_confidence": "high"
+  },
+  "zoothera-marginata": {
+   "name_bn": "কালাপাশ দামা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "zoothera-mollissima": {
+   "name_bn": "খয়রাপিঠ দামা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "zoothera-monticola": {
+   "name_bn": "লম্বাঠোঁট দামা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife (Conservation and Security) Act 2012, Schedule (Bangladesh Gazette, 10 July 2012), http://bdlaws.minlaw.gov.bd/upload/act/1102___Schedule.pdf",
+   "_confidence": "high"
+  },
+  "saxicola-ferreus": {
+   "name_bn": "মেটে ঝাড়ফিদ্দা",
+   "_source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_পাখির_তালিকা ; Bangladesh Wildlife Act 2012 schedule",
+   "_confidence": "high",
+   "_why": "moved from oenanthe-deserti (ঊষর কানকালি = desert wheatear) after the bushchat checklist fix"
+  }
+ }
+}

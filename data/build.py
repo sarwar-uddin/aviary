@@ -50,9 +50,9 @@ def save_work(data):
 
 
 def curate(data, report):
-    """Apply curated/overrides.json, then every other curated/*.json (alphabetical).
-    Each file has the shape {"species": {"<id>": {field: value}}}."""
-    files = [CURATED] + sorted(p for p in CURATED.parent.glob("*.json") if p != CURATED)
+    """Apply every curated/*.json (alphabetical), then curated/overrides.json last so hand
+    corrections always win. Each file has the shape {"species": {"<id>": {field: value}}}."""
+    files = sorted(p for p in CURATED.parent.glob("*.json") if p != CURATED) + [CURATED]
     merged: dict[str, dict] = {}
     for f in files:
         if not f.exists():

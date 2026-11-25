@@ -1,5 +1,5 @@
 {
-  "_readme": "Hand corrections layered on top of the scraped data. checklist_fixes are keyed by English name as written on the Wikipedia list; species overrides are keyed by species id (slug of the scientific name). Any field here wins over scraped data. 'season' is one of: resident, winter, summer, passage, vagrant. 'facts' is a list of short, sourced, true sentences.",
+  "_readme": "Hand corrections layered on top of the scraped data. checklist_fixes are keyed by English name as written on the Wikipedia list; species overrides are keyed by species id (slug of the scientific name). Any field here wins over scraped data AND over the other curated/*.json files (applied last). 'season' is one of: resident, winter, summer, passage, vagrant. 'facts' is a list of short, sourced, true sentences.",
   "checklist_fixes": {
     "Smew": {
       "name_sci": "Mergellus albellus",
@@ -12,6 +12,10 @@
     "Demoiselle crane": {
       "name_sci": "Anthropoides virgo",
       "_why": "Wikipedia list typo: shows Anthropoides antigone"
+    },
+    "Gray bushchat": {
+      "name_sci": "Saxicola ferreus",
+      "_why": "Wikipedia list typo: shows Oenanthe deserti (desert wheatear)"
     }
   },
   "species": {
@@ -33,6 +37,11 @@
     "psittacula-krameri": {
       "bd_tags": [],
       "_why": "native to the Indian subcontinent, not introduced"
+    },
+    "butorides-striata": {
+      "name_en": "Little heron",
+      "facts": [],
+      "_why": "Old World birds are the little heron (B. atricapilla); earlier facts came from the South American striated heron article"
     }
   }
 }
