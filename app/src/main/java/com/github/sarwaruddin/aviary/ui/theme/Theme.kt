@@ -37,13 +37,13 @@ data class FieldColors(
 val LightField = FieldColors(
     paper = Color(0xFFF3ECDB), card = Color(0xFFFBF7EC), ink = Color(0xFF2A2A22),
     inkSoft = Color(0xFF6B6655), rule = Color(0xFFD9CFB6), moss = Color(0xFF3F5A36),
-    fern = Color(0xFF6E8F4E), ochre = Color(0xFFB7832F), rust = Color(0xFF9C4A2F), sky = Color(0xFF4F7480),
+    fern = Color(0xFF6E8F4E), ochre = Color(0xFFB7832F), rust = Color(0xFF9C4A2F), sky = Color(0xFF3B7A97),
 )
 
 val DarkField = FieldColors(
     paper = Color(0xFF1B1F18), card = Color(0xFF242A20), ink = Color(0xFFE9E3D2),
     inkSoft = Color(0xFFA9A28C), rule = Color(0xFF3A4234), moss = Color(0xFF9DB98A),
-    fern = Color(0xFF7FA35E), ochre = Color(0xFFD9A54E), rust = Color(0xFFD27A5A), sky = Color(0xFF86AEB8),
+    fern = Color(0xFF7FA35E), ochre = Color(0xFFD9A54E), rust = Color(0xFFD27A5A), sky = Color(0xFF7FB3CC),
 )
 
 val LocalField = staticCompositionLocalOf { LightField }

@@ -1,5 +1,6 @@
 package com.github.sarwaruddin.aviary.ui.month
 
+import androidx.compose.ui.graphics.luminance
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
 import androidx.compose.foundation.gestures.animateScrollBy
@@ -427,7 +428,12 @@ private fun MonthContent(
 private fun SeasonCarousel(season: Season, month: Int, list: List<BirdSummary>, onOpenBird: (String) -> Unit) {
     val f = Field.colors
     val accent = seasonColor(season)
-    val band = accent.copy(alpha = 0.09f).compositeOver(f.paper)
+    // Blue over yellowish paper turns grey, so winter gets its own cool "frost" band in light mode.
+    val light = f.paper.luminance() > 0.5f
+    val band = when {
+        season == Season.WINTER && light -> androidx.compose.ui.graphics.Color(0xFFE2ECF0)
+        else -> accent.copy(alpha = 0.12f).compositeOver(f.paper)
+    }
     Column(
         Modifier
             .padding(top = 14.dp)

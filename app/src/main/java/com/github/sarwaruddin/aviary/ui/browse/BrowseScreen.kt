@@ -2,6 +2,8 @@
 
 package com.github.sarwaruddin.aviary.ui.browse
 
+import com.github.sarwaruddin.aviary.ui.about.AboutSheet
+import androidx.compose.material.icons.outlined.Info
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.background
@@ -135,6 +137,7 @@ fun BrowseScreen(onOpenBird: (String) -> Unit) {
 
     // Collapsing title: scrolling the list up first folds the "Aviary" block away;
     // pulling down at the top of the list brings it back.
+    var showAbout by remember { mutableStateOf(false) }
     var titleHeight by remember { mutableIntStateOf(0) }
     var titleOffset by remember { mutableFloatStateOf(0f) }   // 0 (open) .. -titleHeight (folded)
     val collapse = remember {
@@ -181,8 +184,14 @@ fun BrowseScreen(onOpenBird: (String) -> Unit) {
                 title = "Aviary",
                 subtitle = "Birds of Bangladesh · বাংলাদেশের পাখি",
                 modifier = Modifier.onSizeChanged { titleHeight = it.height },
+                action = {
+                    IconButton(onClick = { showAbout = true }) {
+                        Icon(Icons.Outlined.Info, contentDescription = "About Aviary and credits", tint = Field.colors.inkSoft)
+                    }
+                },
             )
         }
+        if (showAbout) AboutSheet(onDismiss = { showAbout = false })
 
         SearchPill(query = vm.query, onQuery = vm::updateQuery)
         FilterRow(vm = vm, onPickFamily = { showFamilies = true })

@@ -22,6 +22,7 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.foundation.layout.Box
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
@@ -57,9 +58,12 @@ fun GuideScreenTitle(
     modifier: Modifier = Modifier,
     kicker: String? = null,
     horizontalPadding: Dp = 20.dp,
+    action: (@Composable () -> Unit)? = null,   // e.g. an info button, top-right of the title
 ) {
     val f = Field.colors
-    Column(modifier.fillMaxWidth().padding(start = horizontalPadding, end = horizontalPadding, top = 20.dp, bottom = 12.dp)) {
+    Box(modifier.fillMaxWidth()) {
+    if (action != null) Box(Modifier.align(Alignment.TopEnd).padding(top = 12.dp, end = 8.dp)) { action() }
+    Column(Modifier.fillMaxWidth().padding(start = horizontalPadding, end = horizontalPadding, top = 20.dp, bottom = 12.dp)) {
         if (kicker != null) {
             Text(
                 kicker.uppercase(),
@@ -80,6 +84,7 @@ fun GuideScreenTitle(
                 color = f.inkSoft,
             )
         }
+    }
     }
 }
 
